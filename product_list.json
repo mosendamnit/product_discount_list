@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "name": "Headphones",
+    "price": 187.0,
+    "discount_date": "2026-01-13"
+  },
+  {
+    "id": 2,
+    "name": "Charger",
+    "price": 293.05,
+    "discount_date": "2026-04-25"
+  },
+  {
+    "id": 3,
+    "name": "Coffee Maker",
+    "price": 172.72,
+    "discount_date": "2024-09-26"
+  },
+  {
+    "id": 4,
+    "name": "External Hard Drive",
+    "price": 131.61,
+    "discount_date": "2024-08-22"
+  },
+  {
+    "id": 5,
+    "name": "Headphones 2",
+    "price": 26.03,
+    "discount_date": "2025-05-26"
+  },
+  {
+    "id": 6,
+    "name": "Monitor",
+    "price": 166.0,
+    "discount_date": "2026-05-09"
+  },
+  {
+    "id": 7,
+    "name": "Wireless Mouse",
+    "price": 102.11,
+    "discount_date": "2025-05-01"
+  },
+  {
+    "id": 8,
+    "name": "USB Hub",
+    "price": 399.52,
+    "discount_date": "2024-07-05"
+  },
+  {
+    "id": 9,
+    "name": "USB Hub 2",
+    "price": 405.33,
+    "discount_date": "2026-04-08"
+  },
+  {
+    "id": 10,
+    "name": "Bluetooth Speaker",
+    "price": 72.39,
+    "discount_date": "2025-09-11"
+  },
+  {
+    "id": 11,
+    "name": "Wireless Mouse 2",
+    "price": 41.28,
+    "discount_date": "2025-01-04"
+  },
+  {
+    "id": 12,
+    "name": "Headphones 3",
+    "price": 222.07,
+    "discount_date": "2025-01-13"
+  },
+  {
+    "id": 13,
+    "name": "Webcam",
+    "price": 418.27,
+    "discount_date": "2025-04-04"
+  },
+  {
+    "id": 14,
+    "name": "Headphones 4",
+    "price": 301.9,
+    "discount_date": "2026-04-27"
+  },
+  {
+    "id": 15,
+    "name": "Smartphone",
+    "price": 145.83,
+    "discount_date": "2024-09-15"
+  },
+  {
+    "id": 16,
+    "name": "Charger 2",
+    "price": 496.41,
+    "discount_date": "2025-11-24"
+  },
+  {
+    "id": 17,
+    "name": "Headphones 5",
+    "price": 482.86,
+    "discount_date": "2025-10-19"
+  },
+  {
+    "id": 18,
+    "name": "Webcam 2",
+    "price": 458.72,
+    "discount_date": "2025-06-11"
+  },
+  {
+    "id": 19,
+    "name": "Coffee Maker 2",
+    "price": 237.16,
+    "discount_date": "2024-07-07"
+  },
+  {
+    "id": 20,
+    "name": "Smartphone 2",
+    "price": 482.62,
+    "discount_date": "2025-09-19"
+  },
+  {
+    "id": 21,
+    "name": "Monitor 2",
+    "price": 482.45,
+    "discount_date": "2026-04-15"
+  },
+  {
+    "id": 22,
+    "name": "Monitor 3",
+    "price": 220.08,
+    "discount_date": "2026-03-20"
+  },
+  {
+    "id": 23,
+    "name": "Headphones 6",
+    "price": 350.45,
+    "discount_date": "2025-03-13"
+  },
+  {
+    "id": 24,
+    "name": "Webcam 3",
+    "price": 253.99,
+    "discount_date": "2025-03-22"
+  },
+  {
+    "id": 25,
+    "name": "Bluetooth Speaker 2",
+    "price": 233.68,
+    "discount_date": "2025-10-23"
+  },
+  {
+    "id": 26,
+    "name": "Monitor 4",
+    "price": 303.24,
+    "discount_date": "2024-06-18"
+  },
+  {
+    "id": 27,
+    "name": "Wireless Mouse 3",
+    "price": 498.49,
+    "discount_date": "2025-07-19"
+  },
+  {
+    "id": 28,
+    "name": "Gaming Chair",
+    "price": 187.56,
+    "discount_date": "2025-12-28"
+  },
+  {
+    "id": 29,
+    "name": "Laptop",
+    "price": 51.56,
+    "discount_date": "2026-01-05"
+  },
+  {
+    "id": 30,
+    "name": "Bluetooth Speaker 3",
+    "price": 218.27,
+    "discount_date": "2024-09-28"
+  },
+  {
+    "id": 31,
+    "name": "Keyboard",
+    "price": 483.59,
+    "discount_date": "2026-03-27"
+  },
+  {
+    "id": 32,
+    "name": "Electric Kettle",
+    "price": 458.6,
+    "discount_date": "2025-07-01"
+  },
+  {
+    "id": 33,
+    "name": "Coffee Maker 3",
+    "price": 263.01,
+    "discount_date": "2025-02-02"
+  },
+  {
+    "id": 34,
+    "name": "Electric Kettle 2",
+    "price": 104.46,
+    "discount_date": "2024-06-18"
+  },
+  {
+    "id": 35,
+    "name": "USB Hub 3",
+    "price": 179.32,
+    "discount_date": "2024-10-21"
+  },
+  {
+    "id": 36,
+    "name": "Gaming Chair 2",
+    "price": 336.61,
+    "discount_date": "2026-01-04"
+  },
+  {
+    "id": 37,
+    "name": "Electric Kettle 3",
+    "price": 143.26,
+    "discount_date": "2026-02-22"
+  },
+  {
+    "id": 38,
+    "name": "Fitness Tracker",
+    "price": 57.13,
+    "discount_date": "2025-01-01"
+  },
+  {
+    "id": 39,
+    "name": "Webcam 4",
+    "price": 224.91,
+    "discount_date": "2025-02-08"
+  },
+  {
+    "id": 40,
+    "name": "Fitness Tracker 2",
+    "price": 245.85,
+    "discount_date": "2026-05-06"
+  },
+  {
+    "id": 41,
+    "name": "Water Bottle",
+    "price": 149.01,
+    "discount_date": "2026-02-07"
+  },
+  {
+    "id": 42,
+    "name": "Smartwatch",
+    "price": 292.69,
+    "discount_date": "2024-10-08"
+  },
+  {
+    "id": 43,
+    "name": "Smartwatch 2",
+    "price": 168.53,
+    "discount_date": "2025-02-07"
+  },
+  {
+    "id": 44,
+    "name": "Laptop 2",
+    "price": 282.84,
+    "discount_date": "2025-07-13"
+  },
+  {
+    "id": 45,
+    "name": "Smartphone 3",
+    "price": 248.88,
+    "discount_date": "2024-06-22"
+  },
+  {
+    "id": 46,
+    "name": "Bluetooth Speaker 4",
+    "price": 384.71,
+    "discount_date": "2024-07-29"
+  },
+  {
+    "id": 47,
+    "name": "Headphones 7",
+    "price": 435.09,
+    "discount_date": "2024-09-17"
+  },
+  {
+    "id": 48,
+    "name": "USB Hub 4",
+    "price": 208.95,
+    "discount_date": "2024-07-05"
+  },
+  {
+    "id": 49,
+    "name": "Keyboard 2",
+    "price": 268.75,
+    "discount_date": "2024-10-28"
+  },
+  {
+    "id": 50,
+    "name": "Backpack",
+    "price": 324.14,
+    "discount_date": "2026-04-29"
+  },
+  {
+    "id": 51,
+    "name": "Headphones 8",
+    "price": 494.52,
+    "discount_date": "2024-12-30"
+  },
+  {
+    "id": 52,
+    "name": "Wireless Mouse 4",
+    "price": 229.05,
+    "discount_date": "2025-12-19"
+  },
+  {
+    "id": 53,
+    "name": "Coffee Maker 4",
+    "price": 304.48,
+    "discount_date": "2025-07-11"
+  },
+  {
+    "id": 54,
+    "name": "Smartphone 4",
+    "price": 286.87,
+    "discount_date": "2025-01-24"
+  },
+  {
+    "id": 55,
+    "name": "Desk Lamp",
+    "price": 189.22,
+    "discount_date": "2024-08-15"
+  },
+  {
+    "id": 56,
+    "name": "Gaming Chair 3",
+    "price": 128.32,
+    "discount_date": "2025-01-09"
+  },
+  {
+    "id": 57,
+    "name": "Gaming Chair 4",
+    "price": 276.99,
+    "discount_date": "2025-08-16"
+  },
+  {
+    "id": 58,
+    "name": "Air Purifier",
+    "price": 463.46,
+    "discount_date": "2025-04-12"
+  },
+  {
+    "id": 59,
+    "name": "Backpack 2",
+    "price": 413.44,
+    "discount_date": "2025-06-20"
+  },
+  {
+    "id": 60,
+    "name": "Desk Lamp 2",
+    "price": 384.44,
+    "discount_date": "2026-03-20"
+  },
+  {
+    "id": 61,
+    "name": "Wireless Mouse 5",
+    "price": 59.51,
+    "discount_date": "2025-02-23"
+  },
+  {
+    "id": 62,
+    "name": "Monitor 5",
+    "price": 70.38,
+    "discount_date": "2025-12-18"
+  },
+  {
+    "id": 63,
+    "name": "Keyboard 3",
+    "price": 154.44,
+    "discount_date": "2024-12-21"
+  },
+  {
+    "id": 64,
+    "name": "External Hard Drive 2",
+    "price": 390.14,
+    "discount_date": "2024-08-19"
+  },
+  {
+    "id": 65,
+    "name": "Fitness Tracker 3",
+    "price": 379.26,
+    "discount_date": "2025-01-24"
+  },
+  {
+    "id": 66,
+    "name": "Smartphone 5",
+    "price": 304.82,
+    "discount_date": "2024-06-22"
+  },
+  {
+    "id": 67,
+    "name": "Coffee Maker 5",
+    "price": 108.8,
+    "discount_date": "2024-10-03"
+  },
+  {
+    "id": 68,
+    "name": "Laptop 3",
+    "price": 166.74,
+    "discount_date": "2025-08-07"
+  },
+  {
+    "id": 69,
+    "name": "Headphones 9",
+    "price": 100.98,
+    "discount_date": "2025-07-31"
+  },
+  {
+    "id": 70,
+    "name": "Fitness Tracker 4",
+    "price": 310.72,
+    "discount_date": "2025-05-21"
+  },
+  {
+    "id": 71,
+    "name": "Webcam 5",
+    "price": 201.88,
+    "discount_date": "2024-08-08"
+  },
+  {
+    "id": 72,
+    "name": "Charger 3",
+    "price": 235.12,
+    "discount_date": "2026-01-25"
+  },
+  {
+    "id": 73,
+    "name": "Smartphone 6",
+    "price": 385.21,
+    "discount_date": "2026-01-31"
+  },
+  {
+    "id": 74,
+    "name": "Backpack 3",
+    "price": 249.11,
+    "discount_date": "2025-11-20"
+  },
+  {
+    "id": 75,
+    "name": "External Hard Drive 3",
+    "price": 387.93,
+    "discount_date": "2025-05-26"
+  },
+  {
+    "id": 76,
+    "name": "Coffee Maker 6",
+    "price": 215.86,
+    "discount_date": "2024-06-11"
+  },
+  {
+    "id": 77,
+    "name": "Gaming Chair 5",
+    "price": 39.92,
+    "discount_date": "2026-01-24"
+  },
+  {
+    "id": 78,
+    "name": "USB Hub 5",
+    "price": 412.59,
+    "discount_date": "2024-06-29"
+  },
+  {
+    "id": 79,
+    "name": "USB Hub 6",
+    "price": 334.58,
+    "discount_date": "2024-10-10"
+  },
+  {
+    "id": 80,
+    "name": "External Hard Drive 4",
+    "price": 28.49,
+    "discount_date": "2026-02-09"
+  },
+  {
+    "id": 81,
+    "name": "USB Hub 7",
+    "price": 126.87,
+    "discount_date": "2026-03-10"
+  },
+  {
+    "id": 82,
+    "name": "Laptop 4",
+    "price": 78.66,
+    "discount_date": "2024-08-26"
+  },
+  {
+    "id": 83,
+    "name": "Webcam 6",
+    "price": 264.62,
+    "discount_date": "2026-03-30"
+  },
+  {
+    "id": 84,
+    "name": "Keyboard 4",
+    "price": 483.31,
+    "discount_date": "2026-03-25"
+  },
+  {
+    "id": 85,
+    "name": "Smartphone 7",
+    "price": 169.7,
+    "discount_date": "2026-03-15"
+  },
+  {
+    "id": 86,
+    "name": "Laptop 5",
+    "price": 379.06,
+    "discount_date": "2025-02-02"
+  },
+  {
+    "id": 87,
+    "name": "Monitor 6",
+    "price": 486.95,
+    "discount_date": "2025-08-03"
+  },
+  {
+    "id": 88,
+    "name": "Bluetooth Speaker 5",
+    "price": 365.62,
+    "discount_date": "2025-11-18"
+  },
+  {
+    "id": 89,
+    "name": "Backpack 4",
+    "price": 349.78,
+    "discount_date": "2026-03-01"
+  },
+  {
+    "id": 90,
+    "name": "Backpack 5",
+    "price": 179.49,
+    "discount_date": "2025-07-23"
+  },
+  {
+    "id": 91,
+    "name": "Fitness Tracker 5",
+    "price": 51.48,
+    "discount_date": "2025-12-17"
+  },
+  {
+    "id": 92,
+    "name": "Water Bottle 2",
+    "price": 261.9,
+    "discount_date": "2025-01-02"
+  },
+  {
+    "id": 93,
+    "name": "External Hard Drive 5",
+    "price": 193.63,
+    "discount_date": "2025-02-27"
+  },
+  {
+    "id": 94,
+    "name": "Fitness Tracker 6",
+    "price": 371.69,
+    "discount_date": "2024-11-21"
+  },
+  {
+    "id": 95,
+    "name": "USB Hub 8",
+    "price": 436.56,
+    "discount_date": "2025-12-29"
+  },
+  {
+    "id": 96,
+    "name": "Laptop 6",
+    "price": 469.88,
+    "discount_date": "2025-07-05"
+  },
+  {
+    "id": 97,
+    "name": "Bluetooth Speaker 6",
+    "price": 446.55,
+    "discount_date": "2026-04-21"
+  },
+  {
+    "id": 98,
+    "name": "Air Purifier 2",
+    "price": 222.88,
+    "discount_date": "2025-05-02"
+  },
+  {
+    "id": 99,
+    "name": "Desk Lamp 3",
+    "price": 393.17,
+    "discount_date": "2025-07-02"
+  },
+  {
+    "id": 100,
+    "name": "Coffee Maker 7",
+    "price": 136.33,
+    "discount_date": "2024-06-09"
+  },
+  {
+    "id": 101,
+    "name": "Wireless Mouse 6",
+    "price": 365.18,
+    "discount_date": "2026-01-14"
+  },
+  {
+    "id": 102,
+    "name": "Headphones 10",
+    "price": 465.16,
+    "discount_date": "2025-07-07"
+  },
+  {
+    "id": 103,
+    "name": "Smartphone 8",
+    "price": 433.49,
+    "discount_date": "2026-02-25"
+  },
+  {
+    "id": 104,
+    "name": "Air Purifier 3",
+    "price": 312.88,
+    "discount_date": "2025-10-15"
+  },
+  {
+    "id": 105,
+    "name": "Bluetooth Speaker 7",
+    "price": 405.09,
+    "discount_date": "2025-02-28"
+  },
+  {
+    "id": 106,
+    "name": "Smartphone 9",
+    "price": 377.33,
+    "discount_date": "2024-12-05"
+  },
+  {
+    "id": 107,
+    "name": "Keyboard 5",
+    "price": 48.11,
+    "discount_date": "2026-03-20"
+  },
+  {
+    "id": 108,
+    "name": "USB Hub 9",
+    "price": 10.54,
+    "discount_date": "2025-04-13"
+  },
+  {
+    "id": 109,
+    "name": "Air Purifier 4",
+    "price": 407.48,
+    "discount_date": "2025-05-16"
+  },
+  {
+    "id": 110,
+    "name": "Webcam 7",
+    "price": 208.92,
+    "discount_date": "2025-05-04"
+  },
+  {
+    "id": 111,
+    "name": "Electric Kettle 4",
+    "price": 386.22,
+    "discount_date": "2025-08-16"
+  },
+  {
+    "id": 112,
+    "name": "Keyboard 6",
+    "price": 222.67,
+    "discount_date": "2025-04-09"
+  },
+  {
+    "id": 113,
+    "name": "Coffee Maker 8",
+    "price": 292.8,
+    "discount_date": "2024-08-25"
+  },
+  {
+    "id": 114,
+    "name": "External Hard Drive 6",
+    "price": 155.8,
+    "discount_date": "2026-04-19"
+  },
+  {
+    "id": 115,
+    "name": "Water Bottle 3",
+    "price": 122.14,
+    "discount_date": "2025-10-01"
+  },
+  {
+    "id": 116,
+    "name": "Fitness Tracker 7",
+    "price": 66.84,
+    "discount_date": "2024-08-14"
+  },
+  {
+    "id": 117,
+    "name": "Electric Kettle 5",
+    "price": 451.52,
+    "discount_date": "2025-10-19"
+  },
+  {
+    "id": 118,
+    "name": "Backpack 6",
+    "price": 175.81,
+    "discount_date": "2025-07-19"
+  },
+  {
+    "id": 119,
+    "name": "Webcam 8",
+    "price": 408.88,
+    "discount_date": "2025-02-28"
+  },
+  {
+    "id": 120,
+    "name": "Gaming Chair 6",
+    "price": 91.88,
+    "discount_date": "2024-11-05"
+  },
+  {
+    "id": 121,
+    "name": "Bluetooth Speaker 8",
+    "price": 90.6,
+    "discount_date": "2024-07-01"
+  },
+  {
+    "id": 122,
+    "name": "Bluetooth Speaker 9",
+    "price": 282.84,
+    "discount_date": "2024-08-09"
+  },
+  {
+    "id": 123,
+    "name": "Desk Lamp 4",
+    "price": 145.97,
+    "discount_date": "2026-01-25"
+  },
+  {
+    "id": 124,
+    "name": "Desk Lamp 5",
+    "price": 385.81,
+    "discount_date": "2026-01-01"
+  },
+  {
+    "id": 125,
+    "name": "Keyboard 7",
+    "price": 456.01,
+    "discount_date": "2025-11-09"
+  },
+  {
+    "id": 126,
+    "name": "Desk Lamp 6",
+    "price": 472.77,
+    "discount_date": "2024-09-05"
+  },
+  {
+    "id": 127,
+    "name": "Smartphone 10",
+    "price": 422.84,
+    "discount_date": "2026-05-02"
+  },
+  {
+    "id": 128,
+    "name": "Smartwatch 3",
+    "price": 67.92,
+    "discount_date": "2024-07-09"
+  },
+  {
+    "id": 129,
+    "name": "Wireless Mouse 7",
+    "price": 402.25,
+    "discount_date": "2026-02-02"
+  },
+  {
+    "id": 130,
+    "name": "Wireless Mouse 8",
+    "price": 152.44,
+    "discount_date": "2025-07-01"
+  },
+  {
+    "id": 131,
+    "name": "External Hard Drive 7",
+    "price": 230.91,
+    "discount_date": "2024-12-03"
+  },
+  {
+    "id": 132,
+    "name": "Smartphone 11",
+    "price": 200.41,
+    "discount_date": "2024-11-23"
+  },
+  {
+    "id": 133,
+    "name": "USB Hub 10",
+    "price": 289.77,
+    "discount_date": "2025-05-21"
+  },
+  {
+    "id": 134,
+    "name": "Desk Lamp 7",
+    "price": 113.67,
+    "discount_date": "2025-03-15"
+  },
+  {
+    "id": 135,
+    "name": "Water Bottle 4",
+    "price": 422.58,
+    "discount_date": "2025-04-11"
+  },
+  {
+    "id": 136,
+    "name": "Fitness Tracker 8",
+    "price": 73.46,
+    "discount_date": "2026-02-12"
+  },
+  {
+    "id": 137,
+    "name": "Laptop 7",
+    "price": 333.14,
+    "discount_date": "2024-07-12"
+  },
+  {
+    "id": 138,
+    "name": "Gaming Chair 7",
+    "price": 222.88,
+    "discount_date": "2025-06-11"
+  },
+  {
+    "id": 139,
+    "name": "Webcam 9",
+    "price": 130.51,
+    "discount_date": "2024-12-31"
+  },
+  {
+    "id": 140,
+    "name": "Smartwatch 4",
+    "price": 363.52,
+    "discount_date": "2024-10-28"
+  },
+  {
+    "id": 141,
+    "name": "Smartwatch 5",
+    "price": 444.22,
+    "discount_date": "2025-11-27"
+  },
+  {
+    "id": 142,
+    "name": "Smartwatch 6",
+    "price": 348.6,
+    "discount_date": "2025-08-17"
+  },
+  {
+    "id": 143,
+    "name": "Bluetooth Speaker 10",
+    "price": 253.94,
+    "discount_date": "2025-06-02"
+  },
+  {
+    "id": 144,
+    "name": "Electric Kettle 6",
+    "price": 425.15,
+    "discount_date": "2025-03-14"
+  },
+  {
+    "id": 145,
+    "name": "Headphones 11",
+    "price": 314.31,
+    "discount_date": "2024-06-28"
+  },
+  {
+    "id": 146,
+    "name": "Air Purifier 5",
+    "price": 266.57,
+    "discount_date": "2025-12-08"
+  },
+  {
+    "id": 147,
+    "name": "Laptop 8",
+    "price": 482.27,
+    "discount_date": "2025-04-05"
+  },
+  {
+    "id": 148,
+    "name": "Charger 4",
+    "price": 328.74,
+    "discount_date": "2025-09-16"
+  },
+  {
+    "id": 149,
+    "name": "USB Hub 11",
+    "price": 218.7,
+    "discount_date": "2024-12-09"
+  },
+  {
+    "id": 150,
+    "name": "External Hard Drive 8",
+    "price": 213.68,
+    "discount_date": "2024-07-15"
+  },
+  {
+    "id": 151,
+    "name": "Desk Lamp 8",
+    "price": 158.29,
+    "discount_date": "2024-10-10"
+  },
+  {
+    "id": 152,
+    "name": "Charger 5",
+    "price": 160.95,
+    "discount_date": "2025-09-29"
+  },
+  {
+    "id": 153,
+    "name": "Wireless Mouse 9",
+    "price": 101.95,
+    "discount_date": "2024-12-21"
+  },
+  {
+    "id": 154,
+    "name": "Desk Lamp 9",
+    "price": 358.38,
+    "discount_date": "2024-12-10"
+  },
+  {
+    "id": 155,
+    "name": "Smartwatch 7",
+    "price": 219.32,
+    "discount_date": "2026-02-25"
+  },
+  {
+    "id": 156,
+    "name": "USB Hub 12",
+    "price": 281.13,
+    "discount_date": "2025-11-26"
+  },
+  {
+    "id": 157,
+    "name": "External Hard Drive 9",
+    "price": 175.41,
+    "discount_date": "2025-03-09"
+  },
+  {
+    "id": 158,
+    "name": "Wireless Mouse 10",
+    "price": 270.7,
+    "discount_date": "2024-11-07"
+  },
+  {
+    "id": 159,
+    "name": "Wireless Mouse 11",
+    "price": 107.89,
+    "discount_date": "2024-10-31"
+  },
+  {
+    "id": 160,
+    "name": "Charger 6",
+    "price": 407.3,
+    "discount_date": "2025-11-13"
+  },
+  {
+    "id": 161,
+    "name": "USB Hub 13",
+    "price": 114.8,
+    "discount_date": "2025-10-24"
+  },
+  {
+    "id": 162,
+    "name": "Charger 7",
+    "price": 265.8,
+    "discount_date": "2024-12-08"
+  },
+  {
+    "id": 163,
+    "name": "Laptop 9",
+    "price": 206.64,
+    "discount_date": "2024-08-28"
+  },
+  {
+    "id": 164,
+    "name": "Coffee Maker 9",
+    "price": 392.57,
+    "discount_date": "2024-07-22"
+  },
+  {
+    "id": 165,
+    "name": "Bluetooth Speaker 11",
+    "price": 345.22,
+    "discount_date": "2025-10-07"
+  },
+  {
+    "id": 166,
+    "name": "Backpack 7",
+    "price": 472.08,
+    "discount_date": "2024-09-20"
+  },
+  {
+    "id": 167,
+    "name": "Backpack 8",
+    "price": 369.77,
+    "discount_date": "2024-10-12"
+  },
+  {
+    "id": 168,
+    "name": "External Hard Drive 10",
+    "price": 204.75,
+    "discount_date": "2025-12-02"
+  },
+  {
+    "id": 169,
+    "name": "Keyboard 8",
+    "price": 214.12,
+    "discount_date": "2025-09-01"
+  },
+  {
+    "id": 170,
+    "name": "External Hard Drive 11",
+    "price": 41.06,
+    "discount_date": "2024-10-17"
+  },
+  {
+    "id": 171,
+    "name": "Headphones 12",
+    "price": 275.28,
+    "discount_date": "2024-12-25"
+  },
+  {
+    "id": 172,
+    "name": "Smartphone 12",
+    "price": 193.75,
+    "discount_date": "2025-08-04"
+  },
+  {
+    "id": 173,
+    "name": "Desk Lamp 10",
+    "price": 14.33,
+    "discount_date": "2024-08-27"
+  },
+  {
+    "id": 174,
+    "name": "Keyboard 9",
+    "price": 212.91,
+    "discount_date": "2026-05-17"
+  },
+  {
+    "id": 175,
+    "name": "Smartwatch 8",
+    "price": 49.75,
+    "discount_date": "2025-07-04"
+  },
+  {
+    "id": 176,
+    "name": "External Hard Drive 12",
+    "price": 254.17,
+    "discount_date": "2025-06-14"
+  },
+  {
+    "id": 177,
+    "name": "Bluetooth Speaker 12",
+    "price": 266.63,
+    "discount_date": "2026-01-26"
+  },
+  {
+    "id": 178,
+    "name": "Backpack 9",
+    "price": 344.14,
+    "discount_date": "2025-10-01"
+  },
+  {
+    "id": 179,
+    "name": "USB Hub 14",
+    "price": 171.73,
+    "discount_date": "2024-07-30"
+  },
+  {
+    "id": 180,
+    "name": "Smartphone 13",
+    "price": 49.72,
+    "discount_date": "2025-08-29"
+  },
+  {
+    "id": 181,
+    "name": "Smartphone 14",
+    "price": 85.45,
+    "discount_date": "2024-06-24"
+  },
+  {
+    "id": 182,
+    "name": "Fitness Tracker 9",
+    "price": 92.99,
+    "discount_date": "2025-09-05"
+  },
+  {
+    "id": 183,
+    "name": "Air Purifier 6",
+    "price": 499.56,
+    "discount_date": "2025-02-04"
+  },
+  {
+    "id": 184,
+    "name": "Backpack 10",
+    "price": 454.47,
+    "discount_date": "2024-11-11"
+  },
+  {
+    "id": 185,
+    "name": "USB Hub 15",
+    "price": 256.25,
+    "discount_date": "2025-05-10"
+  },
+  {
+    "id": 186,
+    "name": "Fitness Tracker 10",
+    "price": 29.72,
+    "discount_date": "2026-05-06"
+  },
+  {
+    "id": 187,
+    "name": "Headphones 13",
+    "price": 401.88,
+    "discount_date": "2024-09-26"
+  },
+  {
+    "id": 188,
+    "name": "Backpack 11",
+    "price": 279.39,
+    "discount_date": "2026-03-11"
+  },
+  {
+    "id": 189,
+    "name": "Fitness Tracker 11",
+    "price": 141.67,
+    "discount_date": "2024-06-22"
+  },
+  {
+    "id": 190,
+    "name": "Fitness Tracker 12",
+    "price": 375.1,
+    "discount_date": "2025-07-30"
+  },
+  {
+    "id": 191,
+    "name": "Fitness Tracker 13",
+    "price": 432.56,
+    "discount_date": "2024-12-04"
+  },
+  {
+    "id": 192,
+    "name": "Water Bottle 5",
+    "price": 133.22,
+    "discount_date": "2026-03-14"
+  },
+  {
+    "id": 193,
+    "name": "USB Hub 16",
+    "price": 47.71,
+    "discount_date": "2025-11-26"
+  },
+  {
+    "id": 194,
+    "name": "Backpack 12",
+    "price": 10.54,
+    "discount_date": "2026-04-03"
+  },
+  {
+    "id": 195,
+    "name": "Bluetooth Speaker 13",
+    "price": 480.7,
+    "discount_date": "2025-02-25"
+  },
+  {
+    "id": 196,
+    "name": "Smartwatch 9",
+    "price": 58.43,
+    "discount_date": "2025-10-20"
+  },
+  {
+    "id": 197,
+    "name": "Charger 8",
+    "price": 180.07,
+    "discount_date": "2025-06-01"
+  },
+  {
+    "id": 198,
+    "name": "Electric Kettle 7",
+    "price": 296.89,
+    "discount_date": "2026-02-12"
+  },
+  {
+    "id": 199,
+    "name": "Electric Kettle 8",
+    "price": 445.89,
+    "discount_date": "2024-11-02"
+  },
+  {
+    "id": 200,
+    "name": "Bluetooth Speaker 14",
+    "price": 251.96,
+    "discount_date": "2025-02-02"
+  },
+  {
+    "id": 201,
+    "name": "Headphones 14",
+    "price": 156.69,
+    "discount_date": "2026-05-12"
+  },
+  {
+    "id": 202,
+    "name": "Air Purifier 7",
+    "price": 319.9,
+    "discount_date": "2024-06-09"
+  },
+  {
+    "id": 203,
+    "name": "Smartwatch 10",
+    "price": 307.09,
+    "discount_date": "2025-12-27"
+  },
+  {
+    "id": 204,
+    "name": "Laptop 10",
+    "price": 374.59,
+    "discount_date": "2025-03-28"
+  },
+  {
+    "id": 205,
+    "name": "Charger 9",
+    "price": 397.54,
+    "discount_date": "2024-05-26"
+  },
+  {
+    "id": 206,
+    "name": "Headphones 15",
+    "price": 123.05,
+    "discount_date": "2024-09-28"
+  },
+  {
+    "id": 207,
+    "name": "Charger 10",
+    "price": 419.14,
+    "discount_date": "2026-02-04"
+  },
+  {
+    "id": 208,
+    "name": "Coffee Maker 10",
+    "price": 193.55,
+    "discount_date": "2024-12-22"
+  },
+  {
+    "id": 209,
+    "name": "Headphones 16",
+    "price": 265.48,
+    "discount_date": "2026-01-03"
+  },
+  {
+    "id": 210,
+    "name": "Laptop 11",
+    "price": 116.51,
+    "discount_date": "2025-04-28"
+  },
+  {
+    "id": 211,
+    "name": "USB Hub 17",
+    "price": 379.97,
+    "discount_date": "2024-10-05"
+  },
+  {
+    "id": 212,
+    "name": "Charger 11",
+    "price": 321.17,
+    "discount_date": "2026-02-21"
+  },
+  {
+    "id": 213,
+    "name": "Coffee Maker 11",
+    "price": 299.92,
+    "discount_date": "2024-08-16"
+  },
+  {
+    "id": 214,
+    "name": "Keyboard 10",
+    "price": 399.27,
+    "discount_date": "2026-04-20"
+  },
+  {
+    "id": 215,
+    "name": "Fitness Tracker 14",
+    "price": 352.3,
+    "discount_date": "2025-04-18"
+  },
+  {
+    "id": 216,
+    "name": "Desk Lamp 11",
+    "price": 379.13,
+    "discount_date": "2024-11-07"
+  },
+  {
+    "id": 217,
+    "name": "Gaming Chair 8",
+    "price": 258.15,
+    "discount_date": "2025-08-26"
+  },
+  {
+    "id": 218,
+    "name": "Coffee Maker 12",
+    "price": 350.16,
+    "discount_date": "2025-06-18"
+  },
+  {
+    "id": 219,
+    "name": "Charger 12",
+    "price": 194.4,
+    "discount_date": "2025-08-06"
+  },
+  {
+    "id": 220,
+    "name": "Monitor 7",
+    "price": 119.94,
+    "discount_date": "2024-09-24"
+  },
+  {
+    "id": 221,
+    "name": "Electric Kettle 9",
+    "price": 100.31,
+    "discount_date": "2025-10-28"
+  },
+  {
+    "id": 222,
+    "name": "Wireless Mouse 12",
+    "price": 80.3,
+    "discount_date": "2024-08-09"
+  },
+  {
+    "id": 223,
+    "name": "Water Bottle 6",
+    "price": 471.55,
+    "discount_date": "2025-05-22"
+  },
+  {
+    "id": 224,
+    "name": "Water Bottle 7",
+    "price": 237.49,
+    "discount_date": "2024-05-28"
+  },
+  {
+    "id": 225,
+    "name": "Air Purifier 8",
+    "price": 291.85,
+    "discount_date": "2024-08-11"
+  },
+  {
+    "id": 226,
+    "name": "Laptop 12",
+    "price": 105.75,
+    "discount_date": "2026-03-29"
+  },
+  {
+    "id": 227,
+    "name": "Webcam 10",
+    "price": 188.96,
+    "discount_date": "2024-09-20"
+  },
+  {
+    "id": 228,
+    "name": "Charger 13",
+    "price": 447.42,
+    "discount_date": "2024-06-19"
+  },
+  {
+    "id": 229,
+    "name": "Bluetooth Speaker 15",
+    "price": 219.54,
+    "discount_date": "2025-04-18"
+  },
+  {
+    "id": 230,
+    "name": "USB Hub 18",
+    "price": 398.53,
+    "discount_date": "2026-01-10"
+  },
+  {
+    "id": 231,
+    "name": "Desk Lamp 12",
+    "price": 388.01,
+    "discount_date": "2025-01-25"
+  },
+  {
+    "id": 232,
+    "name": "Air Purifier 9",
+    "price": 158.69,
+    "discount_date": "2025-11-24"
+  },
+  {
+    "id": 233,
+    "name": "Electric Kettle 10",
+    "price": 360.87,
+    "discount_date": "2025-07-19"
+  },
+  {
+    "id": 234,
+    "name": "Headphones 17",
+    "price": 256.34,
+    "discount_date": "2025-01-26"
+  },
+  {
+    "id": 235,
+    "name": "Coffee Maker 13",
+    "price": 180.41,
+    "discount_date": "2026-02-21"
+  },
+  {
+    "id": 236,
+    "name": "Wireless Mouse 13",
+    "price": 102.79,
+    "discount_date": "2024-08-29"
+  },
+  {
+    "id": 237,
+    "name": "Water Bottle 8",
+    "price": 132.77,
+    "discount_date": "2026-01-19"
+  },
+  {
+    "id": 238,
+    "name": "Fitness Tracker 15",
+    "price": 110.55,
+    "discount_date": "2026-01-07"
+  },
+  {
+    "id": 239,
+    "name": "Gaming Chair 9",
+    "price": 164.0,
+    "discount_date": "2024-06-27"
+  },
+  {
+    "id": 240,
+    "name": "Gaming Chair 10",
+    "price": 456.91,
+    "discount_date": "2025-10-02"
+  },
+  {
+    "id": 241,
+    "name": "Electric Kettle 11",
+    "price": 24.6,
+    "discount_date": "2026-03-26"
+  },
+  {
+    "id": 242,
+    "name": "Laptop 13",
+    "price": 24.55,
+    "discount_date": "2024-12-17"
+  },
+  {
+    "id": 243,
+    "name": "Webcam 11",
+    "price": 216.04,
+    "discount_date": "2026-03-21"
+  },
+  {
+    "id": 244,
+    "name": "Air Purifier 10",
+    "price": 188.39,
+    "discount_date": "2025-08-31"
+  },
+  {
+    "id": 245,
+    "name": "External Hard Drive 13",
+    "price": 105.42,
+    "discount_date": "2025-02-01"
+  },
+  {
+    "id": 246,
+    "name": "External Hard Drive 14",
+    "price": 459.79,
+    "discount_date": "2026-03-14"
+  },
+  {
+    "id": 247,
+    "name": "Keyboard 11",
+    "price": 196.17,
+    "discount_date": "2025-02-01"
+  },
+  {
+    "id": 248,
+    "name": "Fitness Tracker 16",
+    "price": 64.63,
+    "discount_date": "2024-09-11"
+  },
+  {
+    "id": 249,
+    "name": "Coffee Maker 14",
+    "price": 458.96,
+    "discount_date": "2024-07-29"
+  },
+  {
+    "id": 250,
+    "name": "Laptop 14",
+    "price": 419.52,
+    "discount_date": "2024-08-01"
+  },
+  {
+    "id": 251,
+    "name": "Headphones 18",
+    "price": 288.28,
+    "discount_date": "2024-10-28"
+  },
+  {
+    "id": 252,
+    "name": "Smartwatch 11",
+    "price": 213.41,
+    "discount_date": "2025-05-03"
+  },
+  {
+    "id": 253,
+    "name": "Monitor 8",
+    "price": 405.01,
+    "discount_date": "2024-07-28"
+  },
+  {
+    "id": 254,
+    "name": "Headphones 19",
+    "price": 155.42,
+    "discount_date": "2026-03-28"
+  },
+  {
+    "id": 255,
+    "name": "Backpack 13",
+    "price": 47.8,
+    "discount_date": "2025-05-07"
+  },
+  {
+    "id": 256,
+    "name": "Wireless Mouse 14",
+    "price": 165.09,
+    "discount_date": "2024-08-11"
+  },
+  {
+    "id": 257,
+    "name": "Bluetooth Speaker 16",
+    "price": 277.95,
+    "discount_date": "2024-10-09"
+  },
+  {
+    "id": 258,
+    "name": "Charger 14",
+    "price": 303.19,
+    "discount_date": "2024-09-14"
+  },
+  {
+    "id": 259,
+    "name": "Monitor 9",
+    "price": 84.28,
+    "discount_date": "2025-06-26"
+  },
+  {
+    "id": 260,
+    "name": "Laptop 15",
+    "price": 140.56,
+    "discount_date": "2024-08-21"
+  },
+  {
+    "id": 261,
+    "name": "Gaming Chair 11",
+    "price": 375.16,
+    "discount_date": "2025-12-01"
+  },
+  {
+    "id": 262,
+    "name": "Desk Lamp 13",
+    "price": 102.66,
+    "discount_date": "2026-01-08"
+  },
+  {
+    "id": 263,
+    "name": "Charger 15",
+    "price": 492.52,
+    "discount_date": "2024-08-19"
+  },
+  {
+    "id": 264,
+    "name": "Wireless Mouse 15",
+    "price": 160.48,
+    "discount_date": "2025-10-12"
+  },
+  {
+    "id": 265,
+    "name": "Headphones 20",
+    "price": 16.38,
+    "discount_date": "2024-08-21"
+  },
+  {
+    "id": 266,
+    "name": "Coffee Maker 15",
+    "price": 310.08,
+    "discount_date": "2025-11-06"
+  },
+  {
+    "id": 267,
+    "name": "Fitness Tracker 17",
+    "price": 325.99,
+    "discount_date": "2025-05-31"
+  },
+  {
+    "id": 268,
+    "name": "Air Purifier 11",
+    "price": 176.61,
+    "discount_date": "2024-12-29"
+  },
+  {
+    "id": 269,
+    "name": "USB Hub 19",
+    "price": 443.78,
+    "discount_date": "2024-11-03"
+  },
+  {
+    "id": 270,
+    "name": "Smartphone 15",
+    "price": 132.39,
+    "discount_date": "2024-05-27"
+  },
+  {
+    "id": 271,
+    "name": "Coffee Maker 16",
+    "price": 436.57,
+    "discount_date": "2025-11-21"
+  },
+  {
+    "id": 272,
+    "name": "Gaming Chair 12",
+    "price": 328.39,
+    "discount_date": "2026-05-11"
+  },
+  {
+    "id": 273,
+    "name": "Smartphone 16",
+    "price": 152.67,
+    "discount_date": "2025-04-18"
+  },
+  {
+    "id": 274,
+    "name": "Desk Lamp 14",
+    "price": 364.95,
+    "discount_date": "2025-07-09"
+  },
+  {
+    "id": 275,
+    "name": "External Hard Drive 15",
+    "price": 115.02,
+    "discount_date": "2024-11-29"
+  },
+  {
+    "id": 276,
+    "name": "USB Hub 20",
+    "price": 365.7,
+    "discount_date": "2024-11-10"
+  },
+  {
+    "id": 277,
+    "name": "Smartwatch 12",
+    "price": 256.74,
+    "discount_date": "2025-08-01"
+  },
+  {
+    "id": 278,
+    "name": "Gaming Chair 13",
+    "price": 483.64,
+    "discount_date": "2025-09-10"
+  },
+  {
+    "id": 279,
+    "name": "Electric Kettle 12",
+    "price": 36.04,
+    "discount_date": "2025-12-28"
+  },
+  {
+    "id": 280,
+    "name": "Laptop 16",
+    "price": 121.84,
+    "discount_date": "2025-02-25"
+  },
+  {
+    "id": 281,
+    "name": "Monitor 10",
+    "price": 402.69,
+    "discount_date": "2025-05-26"
+  },
+  {
+    "id": 282,
+    "name": "USB Hub 21",
+    "price": 491.83,
+    "discount_date": "2025-02-04"
+  },
+  {
+    "id": 283,
+    "name": "Monitor 11",
+    "price": 277.98,
+    "discount_date": "2025-02-11"
+  },
+  {
+    "id": 284,
+    "name": "Gaming Chair 14",
+    "price": 155.28,
+    "discount_date": "2025-06-10"
+  },
+  {
+    "id": 285,
+    "name": "Keyboard 12",
+    "price": 340.26,
+    "discount_date": "2024-12-19"
+  },
+  {
+    "id": 286,
+    "name": "USB Hub 22",
+    "price": 36.77,
+    "discount_date": "2025-01-14"
+  },
+  {
+    "id": 287,
+    "name": "Gaming Chair 15",
+    "price": 145.49,
+    "discount_date": "2025-03-21"
+  },
+  {
+    "id": 288,
+    "name": "USB Hub 23",
+    "price": 286.21,
+    "discount_date": "2026-02-07"
+  },
+  {
+    "id": 289,
+    "name": "Fitness Tracker 18",
+    "price": 78.95,
+    "discount_date": "2024-10-28"
+  },
+  {
+    "id": 290,
+    "name": "Keyboard 13",
+    "price": 33.8,
+    "discount_date": "2025-09-28"
+  },
+  {
+    "id": 291,
+    "name": "Keyboard 14",
+    "price": 129.77,
+    "discount_date": "2025-12-13"
+  },
+  {
+    "id": 292,
+    "name": "Coffee Maker 17",
+    "price": 84.66,
+    "discount_date": "2024-08-29"
+  },
+  {
+    "id": 293,
+    "name": "Headphones 21",
+    "price": 40.18,
+    "discount_date": "2024-07-26"
+  },
+  {
+    "id": 294,
+    "name": "Smartphone 17",
+    "price": 242.69,
+    "discount_date": "2025-08-27"
+  },
+  {
+    "id": 295,
+    "name": "Smartwatch 13",
+    "price": 107.05,
+    "discount_date": "2025-06-17"
+  },
+  {
+    "id": 296,
+    "name": "Webcam 12",
+    "price": 298.95,
+    "discount_date": "2025-05-21"
+  },
+  {
+    "id": 297,
+    "name": "Gaming Chair 16",
+    "price": 287.02,
+    "discount_date": "2025-11-02"
+  },
+  {
+    "id": 298,
+    "name": "Electric Kettle 13",
+    "price": 309.87,
+    "discount_date": "2025-03-07"
+  },
+  {
+    "id": 299,
+    "name": "Coffee Maker 18",
+    "price": 120.29,
+    "discount_date": "2024-10-30"
+  },
+  {
+    "id": 300,
+    "name": "Gaming Chair 17",
+    "price": 53.73,
+    "discount_date": "2024-07-12"
+  },
+  {
+    "id": 301,
+    "name": "Coffee Maker 19",
+    "price": 49.87,
+    "discount_date": "2025-08-26"
+  },
+  {
+    "id": 302,
+    "name": "Water Bottle 9",
+    "price": 445.66,
+    "discount_date": "2026-03-14"
+  },
+  {
+    "id": 303,
+    "name": "Water Bottle 10",
+    "price": 365.79,
+    "discount_date": "2026-04-13"
+  },
+  {
+    "id": 304,
+    "name": "Webcam 13",
+    "price": 455.65,
+    "discount_date": "2025-02-14"
+  },
+  {
+    "id": 305,
+    "name": "Wireless Mouse 16",
+    "price": 223.25,
+    "discount_date": "2025-12-31"
+  },
+  {
+    "id": 306,
+    "name": "Smartwatch 14",
+    "price": 147.42,
+    "discount_date": "2026-01-10"
+  },
+  {
+    "id": 307,
+    "name": "Fitness Tracker 19",
+    "price": 263.57,
+    "discount_date": "2025-11-26"
+  },
+  {
+    "id": 308,
+    "name": "Smartwatch 15",
+    "price": 493.66,
+    "discount_date": "2024-12-21"
+  },
+  {
+    "id": 309,
+    "name": "Headphones 22",
+    "price": 494.45,
+    "discount_date": "2025-07-28"
+  },
+  {
+    "id": 310,
+    "name": "Bluetooth Speaker 17",
+    "price": 56.72,
+    "discount_date": "2026-01-17"
+  },
+  {
+    "id": 311,
+    "name": "Coffee Maker 20",
+    "price": 129.03,
+    "discount_date": "2026-04-25"
+  },
+  {
+    "id": 312,
+    "name": "Gaming Chair 18",
+    "price": 48.63,
+    "discount_date": "2024-12-06"
+  },
+  {
+    "id": 313,
+    "name": "Laptop 17",
+    "price": 172.57,
+    "discount_date": "2025-08-15"
+  },
+  {
+    "id": 314,
+    "name": "Coffee Maker 21",
+    "price": 284.93,
+    "discount_date": "2025-08-02"
+  },
+  {
+    "id": 315,
+    "name": "External Hard Drive 16",
+    "price": 450.85,
+    "discount_date": "2025-11-25"
+  },
+  {
+    "id": 316,
+    "name": "Keyboard 15",
+    "price": 449.03,
+    "discount_date": "2024-09-29"
+  },
+  {
+    "id": 317,
+    "name": "Backpack 14",
+    "price": 60.84,
+    "discount_date": "2024-10-06"
+  },
+  {
+    "id": 318,
+    "name": "Coffee Maker 22",
+    "price": 137.55,
+    "discount_date": "2026-02-01"
+  },
+  {
+    "id": 319,
+    "name": "Coffee Maker 23",
+    "price": 26.31,
+    "discount_date": "2024-08-26"
+  },
+  {
+    "id": 320,
+    "name": "Water Bottle 11",
+    "price": 472.55,
+    "discount_date": "2025-06-03"
+  },
+  {
+    "id": 321,
+    "name": "Wireless Mouse 17",
+    "price": 305.26,
+    "discount_date": "2025-10-04"
+  },
+  {
+    "id": 322,
+    "name": "Water Bottle 12",
+    "price": 268.2,
+    "discount_date": "2026-04-22"
+  },
+  {
+    "id": 323,
+    "name": "Gaming Chair 19",
+    "price": 209.44,
+    "discount_date": "2025-12-25"
+  },
+  {
+    "id": 324,
+    "name": "Gaming Chair 20",
+    "price": 310.6,
+    "discount_date": "2025-01-25"
+  },
+  {
+    "id": 325,
+    "name": "Headphones 23",
+    "price": 184.14,
+    "discount_date": "2025-01-21"
+  },
+  {
+    "id": 326,
+    "name": "Backpack 15",
+    "price": 324.22,
+    "discount_date": "2025-03-25"
+  },
+  {
+    "id": 327,
+    "name": "Gaming Chair 21",
+    "price": 440.72,
+    "discount_date": "2025-01-21"
+  },
+  {
+    "id": 328,
+    "name": "Water Bottle 13",
+    "price": 184.72,
+    "discount_date": "2025-01-14"
+  },
+  {
+    "id": 329,
+    "name": "Electric Kettle 14",
+    "price": 440.23,
+    "discount_date": "2024-05-20"
+  },
+  {
+    "id": 330,
+    "name": "Charger 16",
+    "price": 385.73,
+    "discount_date": "2025-04-18"
+  },
+  {
+    "id": 331,
+    "name": "Water Bottle 14",
+    "price": 172.38,
+    "discount_date": "2025-05-26"
+  },
+  {
+    "id": 332,
+    "name": "Backpack 16",
+    "price": 107.78,
+    "discount_date": "2024-09-07"
+  },
+  {
+    "id": 333,
+    "name": "Webcam 14",
+    "price": 482.22,
+    "discount_date": "2025-09-07"
+  },
+  {
+    "id": 334,
+    "name": "Wireless Mouse 18",
+    "price": 121.95,
+    "discount_date": "2024-11-15"
+  },
+  {
+    "id": 335,
+    "name": "External Hard Drive 17",
+    "price": 421.14,
+    "discount_date": "2024-09-27"
+  },
+  {
+    "id": 336,
+    "name": "Coffee Maker 24",
+    "price": 174.3,
+    "discount_date": "2024-08-18"
+  },
+  {
+    "id": 337,
+    "name": "External Hard Drive 18",
+    "price": 68.49,
+    "discount_date": "2025-06-12"
+  },
+  {
+    "id": 338,
+    "name": "Coffee Maker 25",
+    "price": 457.85,
+    "discount_date": "2025-03-27"
+  },
+  {
+    "id": 339,
+    "name": "Smartphone 18",
+    "price": 44.07,
+    "discount_date": "2025-01-06"
+  },
+  {
+    "id": 340,
+    "name": "Air Purifier 12",
+    "price": 252.2,
+    "discount_date": "2025-01-09"
+  },
+  {
+    "id": 341,
+    "name": "External Hard Drive 19",
+    "price": 276.1,
+    "discount_date": "2024-10-01"
+  },
+  {
+    "id": 342,
+    "name": "External Hard Drive 20",
+    "price": 257.16,
+    "discount_date": "2025-12-30"
+  },
+  {
+    "id": 343,
+    "name": "Smartwatch 16",
+    "price": 32.73,
+    "discount_date": "2024-05-19"
+  },
+  {
+    "id": 344,
+    "name": "Coffee Maker 26",
+    "price": 455.11,
+    "discount_date": "2025-06-13"
+  },
+  {
+    "id": 345,
+    "name": "Laptop 18",
+    "price": 437.73,
+    "discount_date": "2025-08-18"
+  },
+  {
+    "id": 346,
+    "name": "External Hard Drive 21",
+    "price": 239.45,
+    "discount_date": "2025-08-15"
+  },
+  {
+    "id": 347,
+    "name": "Electric Kettle 15",
+    "price": 354.9,
+    "discount_date": "2024-11-23"
+  },
+  {
+    "id": 348,
+    "name": "Headphones 24",
+    "price": 329.84,
+    "discount_date": "2025-03-10"
+  },
+  {
+    "id": 349,
+    "name": "Fitness Tracker 20",
+    "price": 294.17,
+    "discount_date": "2025-02-09"
+  },
+  {
+    "id": 350,
+    "name": "Coffee Maker 27",
+    "price": 81.63,
+    "discount_date": "2025-07-15"
+  },
+  {
+    "id": 351,
+    "name": "Gaming Chair 22",
+    "price": 94.54,
+    "discount_date": "2026-04-28"
+  },
+  {
+    "id": 352,
+    "name": "Wireless Mouse 19",
+    "price": 303.88,
+    "discount_date": "2025-03-31"
+  },
+  {
+    "id": 353,
+    "name": "Bluetooth Speaker 18",
+    "price": 414.14,
+    "discount_date": "2025-02-10"
+  },
+  {
+    "id": 354,
+    "name": "Headphones 25",
+    "price": 314.28,
+    "discount_date": "2026-01-28"
+  },
+  {
+    "id": 355,
+    "name": "External Hard Drive 22",
+    "price": 446.33,
+    "discount_date": "2025-12-26"
+  },
+  {
+    "id": 356,
+    "name": "Smartwatch 17",
+    "price": 90.63,
+    "discount_date": "2026-02-15"
+  },
+  {
+    "id": 357,
+    "name": "Monitor 12",
+    "price": 475.24,
+    "discount_date": "2024-11-28"
+  },
+  {
+    "id": 358,
+    "name": "Keyboard 16",
+    "price": 16.37,
+    "discount_date": "2025-12-20"
+  },
+  {
+    "id": 359,
+    "name": "Keyboard 17",
+    "price": 104.79,
+    "discount_date": "2026-03-13"
+  },
+  {
+    "id": 360,
+    "name": "Backpack 17",
+    "price": 477.11,
+    "discount_date": "2025-03-31"
+  },
+  {
+    "id": 361,
+    "name": "Fitness Tracker 21",
+    "price": 150.33,
+    "discount_date": "2025-01-29"
+  },
+  {
+    "id": 362,
+    "name": "Laptop 19",
+    "price": 301.64,
+    "discount_date": "2025-01-16"
+  },
+  {
+    "id": 363,
+    "name": "Desk Lamp 15",
+    "price": 438.74,
+    "discount_date": "2024-09-09"
+  },
+  {
+    "id": 364,
+    "name": "Coffee Maker 28",
+    "price": 309.48,
+    "discount_date": "2026-04-18"
+  },
+  {
+    "id": 365,
+    "name": "Keyboard 18",
+    "price": 179.49,
+    "discount_date": "2025-04-07"
+  },
+  {
+    "id": 366,
+    "name": "Smartphone 19",
+    "price": 70.25,
+    "discount_date": "2025-05-14"
+  },
+  {
+    "id": 367,
+    "name": "Keyboard 19",
+    "price": 295.65,
+    "discount_date": "2025-08-21"
+  },
+  {
+    "id": 368,
+    "name": "External Hard Drive 23",
+    "price": 198.35,
+    "discount_date": "2026-01-15"
+  },
+  {
+    "id": 369,
+    "name": "External Hard Drive 24",
+    "price": 302.19,
+    "discount_date": "2025-04-17"
+  },
+  {
+    "id": 370,
+    "name": "Webcam 15",
+    "price": 76.42,
+    "discount_date": "2026-03-24"
+  },
+  {
+    "id": 371,
+    "name": "Backpack 18",
+    "price": 126.04,
+    "discount_date": "2024-07-05"
+  },
+  {
+    "id": 372,
+    "name": "Keyboard 20",
+    "price": 467.97,
+    "discount_date": "2025-04-25"
+  },
+  {
+    "id": 373,
+    "name": "Coffee Maker 29",
+    "price": 10.83,
+    "discount_date": "2025-05-29"
+  },
+  {
+    "id": 374,
+    "name": "Monitor 13",
+    "price": 393.76,
+    "discount_date": "2026-02-16"
+  },
+  {
+    "id": 375,
+    "name": "Gaming Chair 23",
+    "price": 455.84,
+    "discount_date": "2025-12-10"
+  },
+  {
+    "id": 376,
+    "name": "Wireless Mouse 20",
+    "price": 34.75,
+    "discount_date": "2024-12-20"
+  },
+  {
+    "id": 377,
+    "name": "Bluetooth Speaker 19",
+    "price": 139.73,
+    "discount_date": "2025-03-29"
+  },
+  {
+    "id": 378,
+    "name": "Electric Kettle 16",
+    "price": 229.45,
+    "discount_date": "2026-05-02"
+  },
+  {
+    "id": 379,
+    "name": "Webcam 16",
+    "price": 33.69,
+    "discount_date": "2025-07-01"
+  },
+  {
+    "id": 380,
+    "name": "Water Bottle 15",
+    "price": 438.2,
+    "discount_date": "2024-10-17"
+  },
+  {
+    "id": 381,
+    "name": "Webcam 17",
+    "price": 132.53,
+    "discount_date": "2025-10-08"
+  },
+  {
+    "id": 382,
+    "name": "Water Bottle 16",
+    "price": 471.61,
+    "discount_date": "2026-02-03"
+  },
+  {
+    "id": 383,
+    "name": "Gaming Chair 24",
+    "price": 53.71,
+    "discount_date": "2025-09-20"
+  },
+  {
+    "id": 384,
+    "name": "Headphones 26",
+    "price": 433.43,
+    "discount_date": "2025-08-17"
+  },
+  {
+    "id": 385,
+    "name": "Bluetooth Speaker 20",
+    "price": 482.85,
+    "discount_date": "2025-08-25"
+  },
+  {
+    "id": 386,
+    "name": "Monitor 14",
+    "price": 490.05,
+    "discount_date": "2025-05-24"
+  },
+  {
+    "id": 387,
+    "name": "Coffee Maker 30",
+    "price": 388.14,
+    "discount_date": "2025-10-19"
+  },
+  {
+    "id": 388,
+    "name": "Backpack 19",
+    "price": 27.33,
+    "discount_date": "2025-06-09"
+  },
+  {
+    "id": 389,
+    "name": "Coffee Maker 31",
+    "price": 352.82,
+    "discount_date": "2024-06-20"
+  },
+  {
+    "id": 390,
+    "name": "Fitness Tracker 22",
+    "price": 486.88,
+    "discount_date": "2026-04-02"
+  },
+  {
+    "id": 391,
+    "name": "USB Hub 24",
+    "price": 264.14,
+    "discount_date": "2025-05-01"
+  },
+  {
+    "id": 392,
+    "name": "Laptop 20",
+    "price": 479.41,
+    "discount_date": "2025-04-08"
+  },
+  {
+    "id": 393,
+    "name": "Gaming Chair 25",
+    "price": 139.87,
+    "discount_date": "2025-06-02"
+  },
+  {
+    "id": 394,
+    "name": "Electric Kettle 17",
+    "price": 312.81,
+    "discount_date": "2026-04-21"
+  },
+  {
+    "id": 395,
+    "name": "Fitness Tracker 23",
+    "price": 374.1,
+    "discount_date": "2025-12-16"
+  },
+  {
+    "id": 396,
+    "name": "Smartwatch 18",
+    "price": 31.4,
+    "discount_date": "2024-06-28"
+  },
+  {
+    "id": 397,
+    "name": "External Hard Drive 25",
+    "price": 318.44,
+    "discount_date": "2026-03-24"
+  },
+  {
+    "id": 398,
+    "name": "Wireless Mouse 21",
+    "price": 171.26,
+    "discount_date": "2024-12-14"
+  },
+  {
+    "id": 399,
+    "name": "Monitor 15",
+    "price": 308.93,
+    "discount_date": "2024-07-24"
+  },
+  {
+    "id": 400,
+    "name": "Desk Lamp 16",
+    "price": 177.13,
+    "discount_date": "2026-03-31"
+  },
+  {
+    "id": 401,
+    "name": "Charger 17",
+    "price": 135.0,
+    "discount_date": "2024-05-31"
+  },
+  {
+    "id": 402,
+    "name": "Smartphone 20",
+    "price": 378.98,
+    "discount_date": "2025-11-24"
+  },
+  {
+    "id": 403,
+    "name": "Water Bottle 17",
+    "price": 399.98,
+    "discount_date": "2024-06-19"
+  },
+  {
+    "id": 404,
+    "name": "Water Bottle 18",
+    "price": 295.67,
+    "discount_date": "2026-02-19"
+  },
+  {
+    "id": 405,
+    "name": "Backpack 20",
+    "price": 51.59,
+    "discount_date": "2024-07-24"
+  },
+  {
+    "id": 406,
+    "name": "External Hard Drive 26",
+    "price": 141.85,
+    "discount_date": "2024-10-20"
+  },
+  {
+    "id": 407,
+    "name": "Wireless Mouse 22",
+    "price": 416.65,
+    "discount_date": "2024-12-12"
+  },
+  {
+    "id": 408,
+    "name": "Electric Kettle 18",
+    "price": 57.64,
+    "discount_date": "2025-01-30"
+  },
+  {
+    "id": 409,
+    "name": "External Hard Drive 27",
+    "price": 347.47,
+    "discount_date": "2025-06-06"
+  },
+  {
+    "id": 410,
+    "name": "Air Purifier 13",
+    "price": 335.32,
+    "discount_date": "2024-11-13"
+  },
+  {
+    "id": 411,
+    "name": "Bluetooth Speaker 21",
+    "price": 334.6,
+    "discount_date": "2025-05-02"
+  },
+  {
+    "id": 412,
+    "name": "External Hard Drive 28",
+    "price": 265.1,
+    "discount_date": "2025-06-18"
+  },
+  {
+    "id": 413,
+    "name": "Laptop 21",
+    "price": 406.84,
+    "discount_date": "2025-10-20"
+  },
+  {
+    "id": 414,
+    "name": "Webcam 18",
+    "price": 256.32,
+    "discount_date": "2024-07-17"
+  },
+  {
+    "id": 415,
+    "name": "Fitness Tracker 24",
+    "price": 447.61,
+    "discount_date": "2024-08-08"
+  },
+  {
+    "id": 416,
+    "name": "Laptop 22",
+    "price": 467.52,
+    "discount_date": "2026-04-26"
+  },
+  {
+    "id": 417,
+    "name": "USB Hub 25",
+    "price": 177.6,
+    "discount_date": "2025-04-11"
+  },
+  {
+    "id": 418,
+    "name": "Backpack 21",
+    "price": 235.81,
+    "discount_date": "2025-02-21"
+  },
+  {
+    "id": 419,
+    "name": "Air Purifier 14",
+    "price": 192.99,
+    "discount_date": "2026-02-07"
+  },
+  {
+    "id": 420,
+    "name": "Smartwatch 19",
+    "price": 342.99,
+    "discount_date": "2024-10-26"
+  },
+  {
+    "id": 421,
+    "name": "Coffee Maker 32",
+    "price": 487.81,
+    "discount_date": "2025-11-11"
+  },
+  {
+    "id": 422,
+    "name": "Wireless Mouse 23",
+    "price": 429.94,
+    "discount_date": "2025-04-22"
+  },
+  {
+    "id": 423,
+    "name": "Wireless Mouse 24",
+    "price": 316.24,
+    "discount_date": "2025-09-22"
+  },
+  {
+    "id": 424,
+    "name": "Coffee Maker 33",
+    "price": 221.68,
+    "discount_date": "2025-08-01"
+  },
+  {
+    "id": 425,
+    "name": "Backpack 22",
+    "price": 385.99,
+    "discount_date": "2024-06-23"
+  },
+  {
+    "id": 426,
+    "name": "Water Bottle 19",
+    "price": 234.14,
+    "discount_date": "2025-02-16"
+  },
+  {
+    "id": 427,
+    "name": "Desk Lamp 17",
+    "price": 458.13,
+    "discount_date": "2024-08-12"
+  },
+  {
+    "id": 428,
+    "name": "Monitor 16",
+    "price": 490.08,
+    "discount_date": "2026-03-03"
+  },
+  {
+    "id": 429,
+    "name": "Laptop 23",
+    "price": 11.64,
+    "discount_date": "2025-11-21"
+  },
+  {
+    "id": 430,
+    "name": "Keyboard 21",
+    "price": 372.87,
+    "discount_date": "2026-01-28"
+  },
+  {
+    "id": 431,
+    "name": "Gaming Chair 26",
+    "price": 337.02,
+    "discount_date": "2026-03-15"
+  },
+  {
+    "id": 432,
+    "name": "Backpack 23",
+    "price": 82.98,
+    "discount_date": "2025-04-14"
+  },
+  {
+    "id": 433,
+    "name": "Desk Lamp 18",
+    "price": 472.02,
+    "discount_date": "2026-03-18"
+  },
+  {
+    "id": 434,
+    "name": "Monitor 17",
+    "price": 430.84,
+    "discount_date": "2025-03-16"
+  },
+  {
+    "id": 435,
+    "name": "Backpack 24",
+    "price": 129.13,
+    "discount_date": "2026-03-14"
+  },
+  {
+    "id": 436,
+    "name": "Coffee Maker 34",
+    "price": 84.02,
+    "discount_date": "2026-05-13"
+  },
+  {
+    "id": 437,
+    "name": "Charger 18",
+    "price": 276.01,
+    "discount_date": "2025-06-15"
+  },
+  {
+    "id": 438,
+    "name": "Fitness Tracker 25",
+    "price": 66.89,
+    "discount_date": "2025-11-01"
+  },
+  {
+    "id": 439,
+    "name": "Electric Kettle 19",
+    "price": 381.63,
+    "discount_date": "2025-05-22"
+  },
+  {
+    "id": 440,
+    "name": "USB Hub 26",
+    "price": 254.28,
+    "discount_date": "2025-03-23"
+  },
+  {
+    "id": 441,
+    "name": "Headphones 27",
+    "price": 490.76,
+    "discount_date": "2026-03-19"
+  },
+  {
+    "id": 442,
+    "name": "Headphones 28",
+    "price": 445.21,
+    "discount_date": "2024-08-03"
+  },
+  {
+    "id": 443,
+    "name": "Fitness Tracker 26",
+    "price": 481.29,
+    "discount_date": "2025-07-02"
+  },
+  {
+    "id": 444,
+    "name": "External Hard Drive 29",
+    "price": 348.07,
+    "discount_date": "2024-07-08"
+  },
+  {
+    "id": 445,
+    "name": "Headphones 29",
+    "price": 197.56,
+    "discount_date": "2025-12-30"
+  },
+  {
+    "id": 446,
+    "name": "External Hard Drive 30",
+    "price": 112.7,
+    "discount_date": "2024-12-10"
+  },
+  {
+    "id": 447,
+    "name": "Backpack 25",
+    "price": 222.71,
+    "discount_date": "2024-06-04"
+  },
+  {
+    "id": 448,
+    "name": "Laptop 24",
+    "price": 105.02,
+    "discount_date": "2024-09-06"
+  },
+  {
+    "id": 449,
+    "name": "Wireless Mouse 25",
+    "price": 217.64,
+    "discount_date": "2026-05-05"
+  },
+  {
+    "id": 450,
+    "name": "Webcam 19",
+    "price": 146.76,
+    "discount_date": "2026-02-17"
+  },
+  {
+    "id": 451,
+    "name": "Smartwatch 20",
+    "price": 62.0,
+    "discount_date": "2025-02-16"
+  },
+  {
+    "id": 452,
+    "name": "Water Bottle 20",
+    "price": 209.87,
+    "discount_date": "2026-01-28"
+  },
+  {
+    "id": 453,
+    "name": "USB Hub 27",
+    "price": 122.57,
+    "discount_date": "2025-04-17"
+  },
+  {
+    "id": 454,
+    "name": "Fitness Tracker 27",
+    "price": 251.24,
+    "discount_date": "2024-12-27"
+  },
+  {
+    "id": 455,
+    "name": "Laptop 25",
+    "price": 204.36,
+    "discount_date": "2025-05-03"
+  },
+  {
+    "id": 456,
+    "name": "Monitor 18",
+    "price": 66.59,
+    "discount_date": "2026-01-25"
+  },
+  {
+    "id": 457,
+    "name": "Water Bottle 21",
+    "price": 258.25,
+    "discount_date": "2026-04-29"
+  },
+  {
+    "id": 458,
+    "name": "Bluetooth Speaker 22",
+    "price": 32.5,
+    "discount_date": "2024-06-14"
+  },
+  {
+    "id": 459,
+    "name": "Desk Lamp 19",
+    "price": 73.91,
+    "discount_date": "2026-02-15"
+  },
+  {
+    "id": 460,
+    "name": "Smartwatch 21",
+    "price": 317.24,
+    "discount_date": "2024-07-12"
+  },
+  {
+    "id": 461,
+    "name": "Gaming Chair 27",
+    "price": 307.83,
+    "discount_date": "2026-03-15"
+  },
+  {
+    "id": 462,
+    "name": "Smartwatch 22",
+    "price": 104.65,
+    "discount_date": "2025-11-11"
+  },
+  {
+    "id": 463,
+    "name": "Water Bottle 22",
+    "price": 115.3,
+    "discount_date": "2025-07-26"
+  },
+  {
+    "id": 464,
+    "name": "Bluetooth Speaker 23",
+    "price": 247.51,
+    "discount_date": "2024-07-28"
+  },
+  {
+    "id": 465,
+    "name": "Monitor 19",
+    "price": 111.56,
+    "discount_date": "2026-01-12"
+  },
+  {
+    "id": 466,
+    "name": "Fitness Tracker 28",
+    "price": 412.82,
+    "discount_date": "2024-09-20"
+  },
+  {
+    "id": 467,
+    "name": "Laptop 26",
+    "price": 276.63,
+    "discount_date": "2025-05-22"
+  },
+  {
+    "id": 468,
+    "name": "Laptop 27",
+    "price": 363.2,
+    "discount_date": "2026-01-13"
+  },
+  {
+    "id": 469,
+    "name": "Keyboard 22",
+    "price": 476.93,
+    "discount_date": "2024-11-28"
+  },
+  {
+    "id": 470,
+    "name": "Webcam 20",
+    "price": 414.84,
+    "discount_date": "2024-09-17"
+  },
+  {
+    "id": 471,
+    "name": "Coffee Maker 35",
+    "price": 118.75,
+    "discount_date": "2026-02-14"
+  },
+  {
+    "id": 472,
+    "name": "Coffee Maker 36",
+    "price": 383.57,
+    "discount_date": "2024-08-05"
+  },
+  {
+    "id": 473,
+    "name": "Keyboard 23",
+    "price": 105.17,
+    "discount_date": "2025-10-14"
+  },
+  {
+    "id": 474,
+    "name": "Keyboard 24",
+    "price": 433.52,
+    "discount_date": "2025-11-15"
+  },
+  {
+    "id": 475,
+    "name": "Bluetooth Speaker 24",
+    "price": 305.17,
+    "discount_date": "2025-03-09"
+  },
+  {
+    "id": 476,
+    "name": "Monitor 20",
+    "price": 255.52,
+    "discount_date": "2024-08-23"
+  },
+  {
+    "id": 477,
+    "name": "Backpack 26",
+    "price": 196.93,
+    "discount_date": "2026-01-20"
+  },
+  {
+    "id": 478,
+    "name": "Bluetooth Speaker 25",
+    "price": 191.48,
+    "discount_date": "2024-10-09"
+  },
+  {
+    "id": 479,
+    "name": "Electric Kettle 20",
+    "price": 471.21,
+    "discount_date": "2025-02-07"
+  },
+  {
+    "id": 480,
+    "name": "Backpack 27",
+    "price": 342.27,
+    "discount_date": "2026-05-01"
+  },
+  {
+    "id": 481,
+    "name": "Gaming Chair 28",
+    "price": 110.47,
+    "discount_date": "2024-08-02"
+  },
+  {
+    "id": 482,
+    "name": "Coffee Maker 37",
+    "price": 39.08,
+    "discount_date": "2025-04-17"
+  },
+  {
+    "id": 483,
+    "name": "Desk Lamp 20",
+    "price": 147.03,
+    "discount_date": "2025-11-18"
+  },
+  {
+    "id": 484,
+    "name": "Laptop 28",
+    "price": 419.21,
+    "discount_date": "2025-01-08"
+  },
+  {
+    "id": 485,
+    "name": "External Hard Drive 31",
+    "price": 377.06,
+    "discount_date": "2025-05-25"
+  },
+  {
+    "id": 486,
+    "name": "Fitness Tracker 29",
+    "price": 410.87,
+    "discount_date": "2024-07-01"
+  },
+  {
+    "id": 487,
+    "name": "USB Hub 28",
+    "price": 91.98,
+    "discount_date": "2025-06-01"
+  },
+  {
+    "id": 488,
+    "name": "External Hard Drive 32",
+    "price": 289.45,
+    "discount_date": "2025-11-14"
+  },
+  {
+    "id": 489,
+    "name": "Smartphone 21",
+    "price": 439.34,
+    "discount_date": "2024-11-11"
+  },
+  {
+    "id": 490,
+    "name": "Keyboard 25",
+    "price": 251.32,
+    "discount_date": "2025-02-16"
+  },
+  {
+    "id": 491,
+    "name": "Monitor 21",
+    "price": 338.74,
+    "discount_date": "2025-08-24"
+  },
+  {
+    "id": 492,
+    "name": "Gaming Chair 29",
+    "price": 101.21,
+    "discount_date": "2025-10-04"
+  },
+  {
+    "id": 493,
+    "name": "External Hard Drive 33",
+    "price": 101.07,
+    "discount_date": "2026-01-05"
+  },
+  {
+    "id": 494,
+    "name": "Monitor 22",
+    "price": 69.12,
+    "discount_date": "2024-12-24"
+  },
+  {
+    "id": 495,
+    "name": "Headphones 30",
+    "price": 149.14,
+    "discount_date": "2026-04-05"
+  },
+  {
+    "id": 496,
+    "name": "Bluetooth Speaker 26",
+    "price": 269.99,
+    "discount_date": "2024-06-09"
+  },
+  {
+    "id": 497,
+    "name": "Charger 19",
+    "price": 16.22,
+    "discount_date": "2024-05-20"
+  },
+  {
+    "id": 498,
+    "name": "Laptop 29",
+    "price": 255.7,
+    "discount_date": "2024-12-03"
+  },
+  {
+    "id": 499,
+    "name": "Charger 20",
+    "price": 216.44,
+    "discount_date": "2025-08-12"
+  },
+  {
+    "id": 500,
+    "name": "USB Hub 29",
+    "price": 137.53,
+    "discount_date": "2025-07-16"
+  },
+  {
+    "id": 501,
+    "name": "Monitor 23",
+    "price": 232.7,
+    "discount_date": "2025-12-05"
+  },
+  {
+    "id": 502,
+    "name": "USB Hub 30",
+    "price": 275.72,
+    "discount_date": "2024-12-04"
+  },
+  {
+    "id": 503,
+    "name": "Bluetooth Speaker 27",
+    "price": 290.89,
+    "discount_date": "2025-06-12"
+  },
+  {
+    "id": 504,
+    "name": "Charger 21",
+    "price": 15.35,
+    "discount_date": "2024-08-06"
+  },
+  {
+    "id": 505,
+    "name": "Coffee Maker 38",
+    "price": 355.06,
+    "discount_date": "2025-04-10"
+  },
+  {
+    "id": 506,
+    "name": "Charger 22",
+    "price": 89.29,
+    "discount_date": "2025-07-25"
+  },
+  {
+    "id": 507,
+    "name": "Smartphone 22",
+    "price": 75.64,
+    "discount_date": "2025-03-01"
+  },
+  {
+    "id": 508,
+    "name": "Fitness Tracker 30",
+    "price": 397.42,
+    "discount_date": "2024-11-30"
+  },
+  {
+    "id": 509,
+    "name": "USB Hub 31",
+    "price": 281.03,
+    "discount_date": "2025-07-05"
+  },
+  {
+    "id": 510,
+    "name": "Wireless Mouse 26",
+    "price": 399.28,
+    "discount_date": "2024-06-03"
+  },
+  {
+    "id": 511,
+    "name": "Water Bottle 23",
+    "price": 170.83,
+    "discount_date": "2024-06-25"
+  },
+  {
+    "id": 512,
+    "name": "Smartwatch 23",
+    "price": 291.37,
+    "discount_date": "2024-11-25"
+  },
+  {
+    "id": 513,
+    "name": "Smartwatch 24",
+    "price": 209.2,
+    "discount_date": "2024-07-02"
+  },
+  {
+    "id": 514,
+    "name": "Backpack 28",
+    "price": 422.04,
+    "discount_date": "2024-12-26"
+  },
+  {
+    "id": 515,
+    "name": "Fitness Tracker 31",
+    "price": 156.63,
+    "discount_date": "2024-07-19"
+  },
+  {
+    "id": 516,
+    "name": "USB Hub 32",
+    "price": 327.77,
+    "discount_date": "2026-01-07"
+  },
+  {
+    "id": 517,
+    "name": "USB Hub 33",
+    "price": 60.05,
+    "discount_date": "2024-07-17"
+  },
+  {
+    "id": 518,
+    "name": "Bluetooth Speaker 28",
+    "price": 352.46,
+    "discount_date": "2026-02-15"
+  },
+  {
+    "id": 519,
+    "name": "Laptop 30",
+    "price": 306.35,
+    "discount_date": "2025-12-19"
+  },
+  {
+    "id": 520,
+    "name": "Wireless Mouse 27",
+    "price": 270.53,
+    "discount_date": "2026-04-29"
+  },
+  {
+    "id": 521,
+    "name": "Gaming Chair 30",
+    "price": 115.71,
+    "discount_date": "2024-12-29"
+  },
+  {
+    "id": 522,
+    "name": "Keyboard 26",
+    "price": 45.24,
+    "discount_date": "2026-03-22"
+  },
+  {
+    "id": 523,
+    "name": "Keyboard 27",
+    "price": 296.02,
+    "discount_date": "2025-08-28"
+  },
+  {
+    "id": 524,
+    "name": "Monitor 24",
+    "price": 352.6,
+    "discount_date": "2024-06-04"
+  },
+  {
+    "id": 525,
+    "name": "Air Purifier 15",
+    "price": 367.39,
+    "discount_date": "2024-06-01"
+  },
+  {
+    "id": 526,
+    "name": "Wireless Mouse 28",
+    "price": 357.74,
+    "discount_date": "2025-05-15"
+  },
+  {
+    "id": 527,
+    "name": "Electric Kettle 21",
+    "price": 53.4,
+    "discount_date": "2026-03-02"
+  },
+  {
+    "id": 528,
+    "name": "Webcam 21",
+    "price": 136.21,
+    "discount_date": "2026-01-11"
+  },
+  {
+    "id": 529,
+    "name": "Water Bottle 24",
+    "price": 219.64,
+    "discount_date": "2025-01-03"
+  },
+  {
+    "id": 530,
+    "name": "Electric Kettle 22",
+    "price": 106.95,
+    "discount_date": "2025-12-16"
+  },
+  {
+    "id": 531,
+    "name": "Monitor 25",
+    "price": 256.24,
+    "discount_date": "2024-08-22"
+  },
+  {
+    "id": 532,
+    "name": "Headphones 31",
+    "price": 94.87,
+    "discount_date": "2025-05-23"
+  },
+  {
+    "id": 533,
+    "name": "Gaming Chair 31",
+    "price": 333.43,
+    "discount_date": "2024-12-01"
+  },
+  {
+    "id": 534,
+    "name": "Gaming Chair 32",
+    "price": 182.55,
+    "discount_date": "2026-04-10"
+  },
+  {
+    "id": 535,
+    "name": "Water Bottle 25",
+    "price": 417.87,
+    "discount_date": "2025-05-22"
+  },
+  {
+    "id": 536,
+    "name": "Webcam 22",
+    "price": 73.1,
+    "discount_date": "2024-05-30"
+  },
+  {
+    "id": 537,
+    "name": "Smartwatch 25",
+    "price": 36.87,
+    "discount_date": "2024-06-11"
+  },
+  {
+    "id": 538,
+    "name": "Smartwatch 26",
+    "price": 356.13,
+    "discount_date": "2025-03-22"
+  },
+  {
+    "id": 539,
+    "name": "Webcam 23",
+    "price": 364.8,
+    "discount_date": "2024-12-18"
+  },
+  {
+    "id": 540,
+    "name": "Smartwatch 27",
+    "price": 288.05,
+    "discount_date": "2025-03-06"
+  },
+  {
+    "id": 541,
+    "name": "Electric Kettle 23",
+    "price": 453.56,
+    "discount_date": "2025-12-06"
+  },
+  {
+    "id": 542,
+    "name": "Coffee Maker 39",
+    "price": 253.18,
+    "discount_date": "2024-09-06"
+  },
+  {
+    "id": 543,
+    "name": "Air Purifier 16",
+    "price": 187.57,
+    "discount_date": "2024-09-29"
+  },
+  {
+    "id": 544,
+    "name": "Headphones 32",
+    "price": 345.57,
+    "discount_date": "2025-03-21"
+  },
+  {
+    "id": 545,
+    "name": "Charger 23",
+    "price": 492.98,
+    "discount_date": "2024-11-25"
+  },
+  {
+    "id": 546,
+    "name": "Gaming Chair 33",
+    "price": 67.63,
+    "discount_date": "2024-10-31"
+  },
+  {
+    "id": 547,
+    "name": "Monitor 26",
+    "price": 177.16,
+    "discount_date": "2025-04-08"
+  },
+  {
+    "id": 548,
+    "name": "Monitor 27",
+    "price": 267.27,
+    "discount_date": "2025-08-03"
+  },
+  {
+    "id": 549,
+    "name": "Bluetooth Speaker 29",
+    "price": 163.22,
+    "discount_date": "2024-08-24"
+  },
+  {
+    "id": 550,
+    "name": "Monitor 28",
+    "price": 18.22,
+    "discount_date": "2024-09-13"
+  },
+  {
+    "id": 551,
+    "name": "Bluetooth Speaker 30",
+    "price": 207.95,
+    "discount_date": "2025-05-26"
+  },
+  {
+    "id": 552,
+    "name": "External Hard Drive 34",
+    "price": 309.6,
+    "discount_date": "2025-07-25"
+  },
+  {
+    "id": 553,
+    "name": "Electric Kettle 24",
+    "price": 340.62,
+    "discount_date": "2025-05-20"
+  },
+  {
+    "id": 554,
+    "name": "Gaming Chair 34",
+    "price": 127.32,
+    "discount_date": "2025-03-04"
+  },
+  {
+    "id": 555,
+    "name": "Gaming Chair 35",
+    "price": 223.89,
+    "discount_date": "2025-05-23"
+  },
+  {
+    "id": 556,
+    "name": "Bluetooth Speaker 31",
+    "price": 195.33,
+    "discount_date": "2025-08-26"
+  },
+  {
+    "id": 557,
+    "name": "External Hard Drive 35",
+    "price": 393.0,
+    "discount_date": "2026-03-16"
+  },
+  {
+    "id": 558,
+    "name": "Water Bottle 26",
+    "price": 469.52,
+    "discount_date": "2026-05-04"
+  },
+  {
+    "id": 559,
+    "name": "Air Purifier 17",
+    "price": 314.32,
+    "discount_date": "2025-08-14"
+  },
+  {
+    "id": 560,
+    "name": "Keyboard 28",
+    "price": 91.05,
+    "discount_date": "2025-04-27"
+  },
+  {
+    "id": 561,
+    "name": "Laptop 31",
+    "price": 202.44,
+    "discount_date": "2025-02-12"
+  },
+  {
+    "id": 562,
+    "name": "Coffee Maker 40",
+    "price": 498.76,
+    "discount_date": "2026-02-21"
+  },
+  {
+    "id": 563,
+    "name": "Desk Lamp 21",
+    "price": 427.93,
+    "discount_date": "2026-02-15"
+  },
+  {
+    "id": 564,
+    "name": "Fitness Tracker 32",
+    "price": 45.21,
+    "discount_date": "2024-07-20"
+  },
+  {
+    "id": 565,
+    "name": "Electric Kettle 25",
+    "price": 330.13,
+    "discount_date": "2024-07-17"
+  },
+  {
+    "id": 566,
+    "name": "Webcam 24",
+    "price": 114.3,
+    "discount_date": "2024-12-26"
+  },
+  {
+    "id": 567,
+    "name": "External Hard Drive 36",
+    "price": 462.64,
+    "discount_date": "2025-07-01"
+  },
+  {
+    "id": 568,
+    "name": "Coffee Maker 41",
+    "price": 369.69,
+    "discount_date": "2025-07-03"
+  },
+  {
+    "id": 569,
+    "name": "Water Bottle 27",
+    "price": 96.16,
+    "discount_date": "2025-02-03"
+  },
+  {
+    "id": 570,
+    "name": "Monitor 29",
+    "price": 344.59,
+    "discount_date": "2026-03-08"
+  },
+  {
+    "id": 571,
+    "name": "Monitor 30",
+    "price": 352.57,
+    "discount_date": "2026-01-25"
+  },
+  {
+    "id": 572,
+    "name": "Headphones 33",
+    "price": 190.16,
+    "discount_date": "2025-07-26"
+  },
+  {
+    "id": 573,
+    "name": "External Hard Drive 37",
+    "price": 421.29,
+    "discount_date": "2026-02-21"
+  },
+  {
+    "id": 574,
+    "name": "External Hard Drive 38",
+    "price": 322.3,
+    "discount_date": "2025-04-06"
+  },
+  {
+    "id": 575,
+    "name": "Air Purifier 18",
+    "price": 466.17,
+    "discount_date": "2024-08-23"
+  },
+  {
+    "id": 576,
+    "name": "Monitor 31",
+    "price": 494.21,
+    "discount_date": "2025-08-20"
+  },
+  {
+    "id": 577,
+    "name": "USB Hub 34",
+    "price": 45.47,
+    "discount_date": "2026-03-13"
+  },
+  {
+    "id": 578,
+    "name": "Coffee Maker 42",
+    "price": 108.98,
+    "discount_date": "2025-06-23"
+  },
+  {
+    "id": 579,
+    "name": "Headphones 34",
+    "price": 452.14,
+    "discount_date": "2026-05-05"
+  },
+  {
+    "id": 580,
+    "name": "Smartwatch 28",
+    "price": 467.89,
+    "discount_date": "2024-07-04"
+  },
+  {
+    "id": 581,
+    "name": "External Hard Drive 39",
+    "price": 226.58,
+    "discount_date": "2026-05-07"
+  },
+  {
+    "id": 582,
+    "name": "Desk Lamp 22",
+    "price": 267.16,
+    "discount_date": "2025-06-03"
+  },
+  {
+    "id": 583,
+    "name": "Electric Kettle 26",
+    "price": 331.12,
+    "discount_date": "2025-11-17"
+  },
+  {
+    "id": 584,
+    "name": "Monitor 32",
+    "price": 464.21,
+    "discount_date": "2026-02-23"
+  },
+  {
+    "id": 585,
+    "name": "Coffee Maker 43",
+    "price": 250.6,
+    "discount_date": "2025-12-04"
+  },
+  {
+    "id": 586,
+    "name": "Air Purifier 19",
+    "price": 114.26,
+    "discount_date": "2025-02-21"
+  },
+  {
+    "id": 587,
+    "name": "Charger 24",
+    "price": 452.06,
+    "discount_date": "2025-12-12"
+  },
+  {
+    "id": 588,
+    "name": "External Hard Drive 40",
+    "price": 276.97,
+    "discount_date": "2025-09-08"
+  },
+  {
+    "id": 589,
+    "name": "Monitor 33",
+    "price": 143.97,
+    "discount_date": "2026-03-27"
+  },
+  {
+    "id": 590,
+    "name": "Webcam 25",
+    "price": 363.33,
+    "discount_date": "2025-07-12"
+  },
+  {
+    "id": 591,
+    "name": "Backpack 29",
+    "price": 86.33,
+    "discount_date": "2025-04-19"
+  },
+  {
+    "id": 592,
+    "name": "Headphones 35",
+    "price": 437.27,
+    "discount_date": "2024-08-27"
+  },
+  {
+    "id": 593,
+    "name": "Smartphone 23",
+    "price": 379.9,
+    "discount_date": "2024-12-10"
+  },
+  {
+    "id": 594,
+    "name": "Webcam 26",
+    "price": 491.15,
+    "discount_date": "2026-03-05"
+  },
+  {
+    "id": 595,
+    "name": "Electric Kettle 27",
+    "price": 480.76,
+    "discount_date": "2026-01-18"
+  },
+  {
+    "id": 596,
+    "name": "Electric Kettle 28",
+    "price": 475.51,
+    "discount_date": "2024-10-24"
+  },
+  {
+    "id": 597,
+    "name": "Backpack 30",
+    "price": 329.61,
+    "discount_date": "2025-06-01"
+  },
+  {
+    "id": 598,
+    "name": "Laptop 32",
+    "price": 116.47,
+    "discount_date": "2025-06-19"
+  },
+  {
+    "id": 599,
+    "name": "Webcam 27",
+    "price": 342.32,
+    "discount_date": "2025-05-15"
+  },
+  {
+    "id": 600,
+    "name": "Headphones 36",
+    "price": 36.58,
+    "discount_date": "2026-02-25"
+  },
+  {
+    "id": 601,
+    "name": "Backpack 31",
+    "price": 323.09,
+    "discount_date": "2024-08-09"
+  },
+  {
+    "id": 602,
+    "name": "Air Purifier 20",
+    "price": 351.52,
+    "discount_date": "2025-03-08"
+  },
+  {
+    "id": 603,
+    "name": "Water Bottle 28",
+    "price": 119.32,
+    "discount_date": "2026-04-11"
+  },
+  {
+    "id": 604,
+    "name": "Charger 25",
+    "price": 188.4,
+    "discount_date": "2025-09-10"
+  },
+  {
+    "id": 605,
+    "name": "Keyboard 29",
+    "price": 342.93,
+    "discount_date": "2024-05-21"
+  },
+  {
+    "id": 606,
+    "name": "Air Purifier 21",
+    "price": 179.84,
+    "discount_date": "2026-03-14"
+  },
+  {
+    "id": 607,
+    "name": "Air Purifier 22",
+    "price": 174.22,
+    "discount_date": "2024-12-10"
+  },
+  {
+    "id": 608,
+    "name": "Smartwatch 29",
+    "price": 239.27,
+    "discount_date": "2025-12-13"
+  },
+  {
+    "id": 609,
+    "name": "Desk Lamp 23",
+    "price": 495.91,
+    "discount_date": "2025-05-20"
+  },
+  {
+    "id": 610,
+    "name": "Gaming Chair 36",
+    "price": 170.96,
+    "discount_date": "2025-08-08"
+  },
+  {
+    "id": 611,
+    "name": "Gaming Chair 37",
+    "price": 137.04,
+    "discount_date": "2026-03-15"
+  },
+  {
+    "id": 612,
+    "name": "Fitness Tracker 33",
+    "price": 469.32,
+    "discount_date": "2025-03-18"
+  },
+  {
+    "id": 613,
+    "name": "Bluetooth Speaker 32",
+    "price": 467.81,
+    "discount_date": "2026-03-21"
+  },
+  {
+    "id": 614,
+    "name": "Smartwatch 30",
+    "price": 209.05,
+    "discount_date": "2025-03-05"
+  },
+  {
+    "id": 615,
+    "name": "Headphones 37",
+    "price": 249.63,
+    "discount_date": "2025-10-04"
+  },
+  {
+    "id": 616,
+    "name": "Fitness Tracker 34",
+    "price": 237.17,
+    "discount_date": "2024-11-12"
+  },
+  {
+    "id": 617,
+    "name": "Keyboard 30",
+    "price": 55.25,
+    "discount_date": "2025-03-04"
+  },
+  {
+    "id": 618,
+    "name": "Electric Kettle 29",
+    "price": 141.46,
+    "discount_date": "2025-09-16"
+  },
+  {
+    "id": 619,
+    "name": "Desk Lamp 24",
+    "price": 451.27,
+    "discount_date": "2024-09-07"
+  },
+  {
+    "id": 620,
+    "name": "USB Hub 35",
+    "price": 490.55,
+    "discount_date": "2026-05-12"
+  },
+  {
+    "id": 621,
+    "name": "Water Bottle 29",
+    "price": 467.99,
+    "discount_date": "2026-02-19"
+  },
+  {
+    "id": 622,
+    "name": "Monitor 34",
+    "price": 44.34,
+    "discount_date": "2024-11-01"
+  },
+  {
+    "id": 623,
+    "name": "Charger 26",
+    "price": 359.64,
+    "discount_date": "2024-06-17"
+  },
+  {
+    "id": 624,
+    "name": "Electric Kettle 30",
+    "price": 450.53,
+    "discount_date": "2026-02-02"
+  },
+  {
+    "id": 625,
+    "name": "Smartphone 24",
+    "price": 91.02,
+    "discount_date": "2025-05-03"
+  },
+  {
+    "id": 626,
+    "name": "Desk Lamp 25",
+    "price": 293.67,
+    "discount_date": "2024-10-21"
+  },
+  {
+    "id": 627,
+    "name": "Wireless Mouse 29",
+    "price": 444.27,
+    "discount_date": "2025-12-03"
+  },
+  {
+    "id": 628,
+    "name": "Fitness Tracker 35",
+    "price": 404.23,
+    "discount_date": "2024-11-26"
+  },
+  {
+    "id": 629,
+    "name": "Bluetooth Speaker 33",
+    "price": 231.42,
+    "discount_date": "2025-01-15"
+  },
+  {
+    "id": 630,
+    "name": "Desk Lamp 26",
+    "price": 288.91,
+    "discount_date": "2024-10-02"
+  },
+  {
+    "id": 631,
+    "name": "Charger 27",
+    "price": 284.13,
+    "discount_date": "2025-04-19"
+  },
+  {
+    "id": 632,
+    "name": "Gaming Chair 38",
+    "price": 353.47,
+    "discount_date": "2024-06-03"
+  },
+  {
+    "id": 633,
+    "name": "Laptop 33",
+    "price": 99.52,
+    "discount_date": "2025-09-03"
+  },
+  {
+    "id": 634,
+    "name": "Wireless Mouse 30",
+    "price": 274.66,
+    "discount_date": "2024-08-03"
+  },
+  {
+    "id": 635,
+    "name": "Laptop 34",
+    "price": 227.9,
+    "discount_date": "2024-05-28"
+  },
+  {
+    "id": 636,
+    "name": "Monitor 35",
+    "price": 108.77,
+    "discount_date": "2025-05-03"
+  },
+  {
+    "id": 637,
+    "name": "Desk Lamp 27",
+    "price": 176.78,
+    "discount_date": "2024-08-27"
+  },
+  {
+    "id": 638,
+    "name": "Headphones 38",
+    "price": 179.39,
+    "discount_date": "2025-09-24"
+  },
+  {
+    "id": 639,
+    "name": "Wireless Mouse 31",
+    "price": 44.87,
+    "discount_date": "2025-03-12"
+  },
+  {
+    "id": 640,
+    "name": "Fitness Tracker 36",
+    "price": 403.9,
+    "discount_date": "2025-08-17"
+  },
+  {
+    "id": 641,
+    "name": "Webcam 28",
+    "price": 312.44,
+    "discount_date": "2026-04-07"
+  },
+  {
+    "id": 642,
+    "name": "Webcam 29",
+    "price": 194.52,
+    "discount_date": "2024-05-17"
+  },
+  {
+    "id": 643,
+    "name": "Gaming Chair 39",
+    "price": 123.2,
+    "discount_date": "2024-12-06"
+  },
+  {
+    "id": 644,
+    "name": "Gaming Chair 40",
+    "price": 193.35,
+    "discount_date": "2026-01-21"
+  },
+  {
+    "id": 645,
+    "name": "USB Hub 36",
+    "price": 408.46,
+    "discount_date": "2025-04-10"
+  },
+  {
+    "id": 646,
+    "name": "Laptop 35",
+    "price": 259.25,
+    "discount_date": "2024-08-22"
+  },
+  {
+    "id": 647,
+    "name": "Keyboard 31",
+    "price": 187.71,
+    "discount_date": "2025-04-27"
+  },
+  {
+    "id": 648,
+    "name": "Water Bottle 30",
+    "price": 92.37,
+    "discount_date": "2026-04-07"
+  },
+  {
+    "id": 649,
+    "name": "Charger 28",
+    "price": 436.48,
+    "discount_date": "2025-10-17"
+  },
+  {
+    "id": 650,
+    "name": "Water Bottle 31",
+    "price": 450.65,
+    "discount_date": "2024-09-05"
+  },
+  {
+    "id": 651,
+    "name": "Smartphone 25",
+    "price": 371.79,
+    "discount_date": "2024-05-30"
+  },
+  {
+    "id": 652,
+    "name": "Bluetooth Speaker 34",
+    "price": 57.24,
+    "discount_date": "2025-02-10"
+  },
+  {
+    "id": 653,
+    "name": "Wireless Mouse 32",
+    "price": 426.21,
+    "discount_date": "2025-08-26"
+  },
+  {
+    "id": 654,
+    "name": "Gaming Chair 41",
+    "price": 367.55,
+    "discount_date": "2025-12-05"
+  },
+  {
+    "id": 655,
+    "name": "USB Hub 37",
+    "price": 281.64,
+    "discount_date": "2026-01-25"
+  },
+  {
+    "id": 656,
+    "name": "Keyboard 32",
+    "price": 49.99,
+    "discount_date": "2024-08-23"
+  },
+  {
+    "id": 657,
+    "name": "Air Purifier 23",
+    "price": 167.05,
+    "discount_date": "2025-10-24"
+  },
+  {
+    "id": 658,
+    "name": "Backpack 32",
+    "price": 308.71,
+    "discount_date": "2024-06-25"
+  },
+  {
+    "id": 659,
+    "name": "External Hard Drive 41",
+    "price": 268.29,
+    "discount_date": "2025-09-05"
+  },
+  {
+    "id": 660,
+    "name": "Wireless Mouse 33",
+    "price": 330.95,
+    "discount_date": "2025-09-05"
+  },
+  {
+    "id": 661,
+    "name": "Charger 29",
+    "price": 61.15,
+    "discount_date": "2024-11-06"
+  },
+  {
+    "id": 662,
+    "name": "Water Bottle 32",
+    "price": 444.78,
+    "discount_date": "2024-07-01"
+  },
+  {
+    "id": 663,
+    "name": "Charger 30",
+    "price": 485.5,
+    "discount_date": "2025-09-29"
+  },
+  {
+    "id": 664,
+    "name": "Air Purifier 24",
+    "price": 490.5,
+    "discount_date": "2025-05-24"
+  },
+  {
+    "id": 665,
+    "name": "Air Purifier 25",
+    "price": 255.17,
+    "discount_date": "2025-01-26"
+  },
+  {
+    "id": 666,
+    "name": "Smartphone 26",
+    "price": 133.43,
+    "discount_date": "2025-02-28"
+  },
+  {
+    "id": 667,
+    "name": "Desk Lamp 28",
+    "price": 281.45,
+    "discount_date": "2025-11-10"
+  },
+  {
+    "id": 668,
+    "name": "Monitor 36",
+    "price": 410.73,
+    "discount_date": "2025-01-17"
+  },
+  {
+    "id": 669,
+    "name": "Backpack 33",
+    "price": 265.56,
+    "discount_date": "2024-11-10"
+  },
+  {
+    "id": 670,
+    "name": "Fitness Tracker 37",
+    "price": 315.09,
+    "discount_date": "2024-11-15"
+  },
+  {
+    "id": 671,
+    "name": "External Hard Drive 42",
+    "price": 245.83,
+    "discount_date": "2025-10-26"
+  },
+  {
+    "id": 672,
+    "name": "Webcam 30",
+    "price": 310.53,
+    "discount_date": "2025-06-15"
+  },
+  {
+    "id": 673,
+    "name": "Air Purifier 26",
+    "price": 69.5,
+    "discount_date": "2025-03-11"
+  },
+  {
+    "id": 674,
+    "name": "Bluetooth Speaker 35",
+    "price": 195.54,
+    "discount_date": "2024-12-08"
+  },
+  {
+    "id": 675,
+    "name": "Wireless Mouse 34",
+    "price": 203.16,
+    "discount_date": "2025-02-06"
+  },
+  {
+    "id": 676,
+    "name": "Charger 31",
+    "price": 390.2,
+    "discount_date": "2025-11-02"
+  },
+  {
+    "id": 677,
+    "name": "Charger 32",
+    "price": 206.08,
+    "discount_date": "2026-04-16"
+  },
+  {
+    "id": 678,
+    "name": "Monitor 37",
+    "price": 472.45,
+    "discount_date": "2025-09-27"
+  },
+  {
+    "id": 679,
+    "name": "Charger 33",
+    "price": 176.67,
+    "discount_date": "2026-03-07"
+  },
+  {
+    "id": 680,
+    "name": "Air Purifier 27",
+    "price": 108.28,
+    "discount_date": "2025-07-25"
+  },
+  {
+    "id": 681,
+    "name": "Bluetooth Speaker 36",
+    "price": 353.16,
+    "discount_date": "2025-09-05"
+  },
+  {
+    "id": 682,
+    "name": "Air Purifier 28",
+    "price": 44.23,
+    "discount_date": "2025-02-21"
+  },
+  {
+    "id": 683,
+    "name": "Gaming Chair 42",
+    "price": 24.29,
+    "discount_date": "2025-06-25"
+  },
+  {
+    "id": 684,
+    "name": "USB Hub 38",
+    "price": 209.49,
+    "discount_date": "2025-05-04"
+  },
+  {
+    "id": 685,
+    "name": "Laptop 36",
+    "price": 255.3,
+    "discount_date": "2025-01-31"
+  },
+  {
+    "id": 686,
+    "name": "Monitor 38",
+    "price": 158.31,
+    "discount_date": "2025-10-19"
+  },
+  {
+    "id": 687,
+    "name": "Webcam 31",
+    "price": 181.73,
+    "discount_date": "2025-08-25"
+  },
+  {
+    "id": 688,
+    "name": "Desk Lamp 29",
+    "price": 301.75,
+    "discount_date": "2025-02-26"
+  },
+  {
+    "id": 689,
+    "name": "Fitness Tracker 38",
+    "price": 449.67,
+    "discount_date": "2024-10-01"
+  },
+  {
+    "id": 690,
+    "name": "Keyboard 33",
+    "price": 33.44,
+    "discount_date": "2026-01-23"
+  },
+  {
+    "id": 691,
+    "name": "Air Purifier 29",
+    "price": 472.84,
+    "discount_date": "2025-12-15"
+  },
+  {
+    "id": 692,
+    "name": "Smartwatch 31",
+    "price": 79.59,
+    "discount_date": "2024-12-18"
+  },
+  {
+    "id": 693,
+    "name": "Wireless Mouse 35",
+    "price": 247.22,
+    "discount_date": "2024-09-06"
+  },
+  {
+    "id": 694,
+    "name": "External Hard Drive 43",
+    "price": 419.96,
+    "discount_date": "2025-06-30"
+  },
+  {
+    "id": 695,
+    "name": "Water Bottle 33",
+    "price": 387.67,
+    "discount_date": "2024-08-31"
+  },
+  {
+    "id": 696,
+    "name": "Fitness Tracker 39",
+    "price": 279.88,
+    "discount_date": "2024-05-21"
+  },
+  {
+    "id": 697,
+    "name": "Water Bottle 34",
+    "price": 280.6,
+    "discount_date": "2026-02-11"
+  },
+  {
+    "id": 698,
+    "name": "Wireless Mouse 36",
+    "price": 68.91,
+    "discount_date": "2024-06-28"
+  },
+  {
+    "id": 699,
+    "name": "Charger 34",
+    "price": 16.05,
+    "discount_date": "2025-05-23"
+  },
+  {
+    "id": 700,
+    "name": "Gaming Chair 43",
+    "price": 354.32,
+    "discount_date": "2024-07-14"
+  },
+  {
+    "id": 701,
+    "name": "USB Hub 39",
+    "price": 13.93,
+    "discount_date": "2026-01-16"
+  },
+  {
+    "id": 702,
+    "name": "Smartphone 27",
+    "price": 221.56,
+    "discount_date": "2025-05-15"
+  },
+  {
+    "id": 703,
+    "name": "External Hard Drive 44",
+    "price": 281.13,
+    "discount_date": "2024-11-15"
+  },
+  {
+    "id": 704,
+    "name": "Coffee Maker 44",
+    "price": 285.13,
+    "discount_date": "2025-09-01"
+  },
+  {
+    "id": 705,
+    "name": "Laptop 37",
+    "price": 84.7,
+    "discount_date": "2025-05-11"
+  },
+  {
+    "id": 706,
+    "name": "Backpack 34",
+    "price": 363.53,
+    "discount_date": "2026-04-28"
+  },
+  {
+    "id": 707,
+    "name": "Wireless Mouse 37",
+    "price": 414.23,
+    "discount_date": "2025-01-01"
+  },
+  {
+    "id": 708,
+    "name": "USB Hub 40",
+    "price": 188.47,
+    "discount_date": "2024-08-01"
+  },
+  {
+    "id": 709,
+    "name": "Charger 35",
+    "price": 205.44,
+    "discount_date": "2025-09-15"
+  },
+  {
+    "id": 710,
+    "name": "Electric Kettle 31",
+    "price": 448.06,
+    "discount_date": "2025-02-23"
+  },
+  {
+    "id": 711,
+    "name": "Fitness Tracker 40",
+    "price": 331.29,
+    "discount_date": "2025-08-27"
+  },
+  {
+    "id": 712,
+    "name": "Charger 36",
+    "price": 38.5,
+    "discount_date": "2025-05-31"
+  },
+  {
+    "id": 713,
+    "name": "Water Bottle 35",
+    "price": 469.2,
+    "discount_date": "2026-03-20"
+  },
+  {
+    "id": 714,
+    "name": "Webcam 32",
+    "price": 96.79,
+    "discount_date": "2025-06-12"
+  },
+  {
+    "id": 715,
+    "name": "Backpack 35",
+    "price": 357.66,
+    "discount_date": "2024-06-18"
+  },
+  {
+    "id": 716,
+    "name": "Smartwatch 32",
+    "price": 387.47,
+    "discount_date": "2025-02-19"
+  },
+  {
+    "id": 717,
+    "name": "Wireless Mouse 38",
+    "price": 265.79,
+    "discount_date": "2025-05-21"
+  },
+  {
+    "id": 718,
+    "name": "Electric Kettle 32",
+    "price": 396.15,
+    "discount_date": "2025-07-16"
+  },
+  {
+    "id": 719,
+    "name": "Desk Lamp 30",
+    "price": 315.24,
+    "discount_date": "2026-05-06"
+  },
+  {
+    "id": 720,
+    "name": "Backpack 36",
+    "price": 389.44,
+    "discount_date": "2025-09-02"
+  },
+  {
+    "id": 721,
+    "name": "Desk Lamp 31",
+    "price": 437.09,
+    "discount_date": "2024-11-26"
+  },
+  {
+    "id": 722,
+    "name": "Desk Lamp 32",
+    "price": 323.56,
+    "discount_date": "2024-12-07"
+  },
+  {
+    "id": 723,
+    "name": "Gaming Chair 44",
+    "price": 58.42,
+    "discount_date": "2025-03-30"
+  },
+  {
+    "id": 724,
+    "name": "Laptop 38",
+    "price": 13.02,
+    "discount_date": "2024-05-23"
+  },
+  {
+    "id": 725,
+    "name": "Smartwatch 33",
+    "price": 12.23,
+    "discount_date": "2026-01-23"
+  },
+  {
+    "id": 726,
+    "name": "Air Purifier 30",
+    "price": 440.76,
+    "discount_date": "2025-02-13"
+  },
+  {
+    "id": 727,
+    "name": "Webcam 33",
+    "price": 34.86,
+    "discount_date": "2025-07-05"
+  },
+  {
+    "id": 728,
+    "name": "Fitness Tracker 41",
+    "price": 173.25,
+    "discount_date": "2025-04-14"
+  },
+  {
+    "id": 729,
+    "name": "Gaming Chair 45",
+    "price": 270.54,
+    "discount_date": "2026-01-05"
+  },
+  {
+    "id": 730,
+    "name": "Electric Kettle 33",
+    "price": 408.74,
+    "discount_date": "2025-05-31"
+  },
+  {
+    "id": 731,
+    "name": "Bluetooth Speaker 37",
+    "price": 497.8,
+    "discount_date": "2024-09-12"
+  },
+  {
+    "id": 732,
+    "name": "Fitness Tracker 42",
+    "price": 476.93,
+    "discount_date": "2024-08-26"
+  },
+  {
+    "id": 733,
+    "name": "Bluetooth Speaker 38",
+    "price": 190.02,
+    "discount_date": "2025-02-02"
+  },
+  {
+    "id": 734,
+    "name": "Water Bottle 36",
+    "price": 192.0,
+    "discount_date": "2025-01-01"
+  },
+  {
+    "id": 735,
+    "name": "Monitor 39",
+    "price": 345.96,
+    "discount_date": "2025-09-13"
+  },
+  {
+    "id": 736,
+    "name": "Electric Kettle 34",
+    "price": 344.01,
+    "discount_date": "2024-08-04"
+  },
+  {
+    "id": 737,
+    "name": "Keyboard 34",
+    "price": 300.74,
+    "discount_date": "2025-12-31"
+  },
+  {
+    "id": 738,
+    "name": "Electric Kettle 35",
+    "price": 381.31,
+    "discount_date": "2025-08-13"
+  },
+  {
+    "id": 739,
+    "name": "Fitness Tracker 43",
+    "price": 259.28,
+    "discount_date": "2025-04-18"
+  },
+  {
+    "id": 740,
+    "name": "Desk Lamp 33",
+    "price": 157.92,
+    "discount_date": "2024-12-08"
+  },
+  {
+    "id": 741,
+    "name": "Charger 37",
+    "price": 224.08,
+    "discount_date": "2026-05-09"
+  },
+  {
+    "id": 742,
+    "name": "USB Hub 41",
+    "price": 19.48,
+    "discount_date": "2025-01-05"
+  },
+  {
+    "id": 743,
+    "name": "Laptop 39",
+    "price": 17.26,
+    "discount_date": "2025-11-20"
+  },
+  {
+    "id": 744,
+    "name": "Headphones 39",
+    "price": 87.72,
+    "discount_date": "2026-05-16"
+  },
+  {
+    "id": 745,
+    "name": "Keyboard 35",
+    "price": 404.25,
+    "discount_date": "2025-11-16"
+  },
+  {
+    "id": 746,
+    "name": "Smartwatch 34",
+    "price": 75.52,
+    "discount_date": "2024-12-25"
+  },
+  {
+    "id": 747,
+    "name": "Backpack 37",
+    "price": 216.9,
+    "discount_date": "2024-06-15"
+  },
+  {
+    "id": 748,
+    "name": "USB Hub 42",
+    "price": 193.51,
+    "discount_date": "2025-01-17"
+  },
+  {
+    "id": 749,
+    "name": "External Hard Drive 45",
+    "price": 76.99,
+    "discount_date": "2026-04-03"
+  },
+  {
+    "id": 750,
+    "name": "External Hard Drive 46",
+    "price": 226.92,
+    "discount_date": "2025-12-11"
+  },
+  {
+    "id": 751,
+    "name": "Backpack 38",
+    "price": 247.74,
+    "discount_date": "2025-04-23"
+  },
+  {
+    "id": 752,
+    "name": "Desk Lamp 34",
+    "price": 227.17,
+    "discount_date": "2025-05-13"
+  },
+  {
+    "id": 753,
+    "name": "Laptop 40",
+    "price": 485.88,
+    "discount_date": "2024-09-07"
+  },
+  {
+    "id": 754,
+    "name": "USB Hub 43",
+    "price": 464.13,
+    "discount_date": "2025-06-17"
+  },
+  {
+    "id": 755,
+    "name": "Air Purifier 31",
+    "price": 334.14,
+    "discount_date": "2025-02-14"
+  },
+  {
+    "id": 756,
+    "name": "Smartphone 28",
+    "price": 242.37,
+    "discount_date": "2025-06-20"
+  },
+  {
+    "id": 757,
+    "name": "Backpack 39",
+    "price": 180.75,
+    "discount_date": "2026-04-07"
+  },
+  {
+    "id": 758,
+    "name": "Bluetooth Speaker 39",
+    "price": 46.17,
+    "discount_date": "2024-06-12"
+  },
+  {
+    "id": 759,
+    "name": "Laptop 41",
+    "price": 312.19,
+    "discount_date": "2026-03-08"
+  },
+  {
+    "id": 760,
+    "name": "Backpack 40",
+    "price": 122.48,
+    "discount_date": "2026-02-21"
+  },
+  {
+    "id": 761,
+    "name": "Backpack 41",
+    "price": 100.7,
+    "discount_date": "2024-09-11"
+  },
+  {
+    "id": 762,
+    "name": "Laptop 42",
+    "price": 272.8,
+    "discount_date": "2024-08-04"
+  },
+  {
+    "id": 763,
+    "name": "Backpack 42",
+    "price": 45.12,
+    "discount_date": "2026-05-08"
+  },
+  {
+    "id": 764,
+    "name": "Air Purifier 32",
+    "price": 273.69,
+    "discount_date": "2024-10-26"
+  },
+  {
+    "id": 765,
+    "name": "USB Hub 44",
+    "price": 33.4,
+    "discount_date": "2025-10-01"
+  },
+  {
+    "id": 766,
+    "name": "USB Hub 45",
+    "price": 421.76,
+    "discount_date": "2026-05-14"
+  },
+  {
+    "id": 767,
+    "name": "Air Purifier 33",
+    "price": 253.08,
+    "discount_date": "2024-11-22"
+  },
+  {
+    "id": 768,
+    "name": "Bluetooth Speaker 40",
+    "price": 231.92,
+    "discount_date": "2025-08-20"
+  },
+  {
+    "id": 769,
+    "name": "Backpack 43",
+    "price": 111.95,
+    "discount_date": "2026-04-24"
+  },
+  {
+    "id": 770,
+    "name": "Smartwatch 35",
+    "price": 494.67,
+    "discount_date": "2025-06-16"
+  },
+  {
+    "id": 771,
+    "name": "Bluetooth Speaker 41",
+    "price": 389.02,
+    "discount_date": "2026-03-17"
+  },
+  {
+    "id": 772,
+    "name": "Electric Kettle 36",
+    "price": 164.8,
+    "discount_date": "2025-04-01"
+  },
+  {
+    "id": 773,
+    "name": "Bluetooth Speaker 42",
+    "price": 277.77,
+    "discount_date": "2024-06-29"
+  },
+  {
+    "id": 774,
+    "name": "Desk Lamp 35",
+    "price": 18.69,
+    "discount_date": "2026-01-01"
+  },
+  {
+    "id": 775,
+    "name": "Charger 38",
+    "price": 259.5,
+    "discount_date": "2024-12-11"
+  },
+  {
+    "id": 776,
+    "name": "USB Hub 46",
+    "price": 129.21,
+    "discount_date": "2025-07-05"
+  },
+  {
+    "id": 777,
+    "name": "Air Purifier 34",
+    "price": 457.9,
+    "discount_date": "2025-07-27"
+  },
+  {
+    "id": 778,
+    "name": "Backpack 44",
+    "price": 394.01,
+    "discount_date": "2024-08-20"
+  },
+  {
+    "id": 779,
+    "name": "Wireless Mouse 39",
+    "price": 360.97,
+    "discount_date": "2026-03-05"
+  },
+  {
+    "id": 780,
+    "name": "Headphones 40",
+    "price": 66.95,
+    "discount_date": "2024-12-09"
+  },
+  {
+    "id": 781,
+    "name": "Laptop 43",
+    "price": 78.43,
+    "discount_date": "2026-02-28"
+  },
+  {
+    "id": 782,
+    "name": "Headphones 41",
+    "price": 278.97,
+    "discount_date": "2024-12-23"
+  },
+  {
+    "id": 783,
+    "name": "Smartwatch 36",
+    "price": 152.25,
+    "discount_date": "2026-04-24"
+  },
+  {
+    "id": 784,
+    "name": "Electric Kettle 37",
+    "price": 417.48,
+    "discount_date": "2024-11-28"
+  },
+  {
+    "id": 785,
+    "name": "Bluetooth Speaker 43",
+    "price": 463.49,
+    "discount_date": "2024-05-26"
+  },
+  {
+    "id": 786,
+    "name": "Webcam 34",
+    "price": 188.14,
+    "discount_date": "2025-07-17"
+  },
+  {
+    "id": 787,
+    "name": "Laptop 44",
+    "price": 28.0,
+    "discount_date": "2025-06-15"
+  },
+  {
+    "id": 788,
+    "name": "Air Purifier 35",
+    "price": 112.07,
+    "discount_date": "2025-09-04"
+  },
+  {
+    "id": 789,
+    "name": "Laptop 45",
+    "price": 109.32,
+    "discount_date": "2026-04-21"
+  },
+  {
+    "id": 790,
+    "name": "USB Hub 47",
+    "price": 265.83,
+    "discount_date": "2025-11-15"
+  },
+  {
+    "id": 791,
+    "name": "Electric Kettle 38",
+    "price": 123.96,
+    "discount_date": "2026-01-03"
+  },
+  {
+    "id": 792,
+    "name": "Charger 39",
+    "price": 122.93,
+    "discount_date": "2026-02-11"
+  },
+  {
+    "id": 793,
+    "name": "USB Hub 48",
+    "price": 376.18,
+    "discount_date": "2025-11-04"
+  },
+  {
+    "id": 794,
+    "name": "Smartwatch 37",
+    "price": 14.0,
+    "discount_date": "2025-11-20"
+  },
+  {
+    "id": 795,
+    "name": "Gaming Chair 46",
+    "price": 255.49,
+    "discount_date": "2024-05-19"
+  },
+  {
+    "id": 796,
+    "name": "Wireless Mouse 40",
+    "price": 176.93,
+    "discount_date": "2025-07-31"
+  },
+  {
+    "id": 797,
+    "name": "Fitness Tracker 44",
+    "price": 150.0,
+    "discount_date": "2024-06-05"
+  },
+  {
+    "id": 798,
+    "name": "Monitor 40",
+    "price": 432.36,
+    "discount_date": "2025-03-26"
+  },
+  {
+    "id": 799,
+    "name": "Coffee Maker 45",
+    "price": 315.87,
+    "discount_date": "2026-04-05"
+  },
+  {
+    "id": 800,
+    "name": "Laptop 46",
+    "price": 88.84,
+    "discount_date": "2026-04-30"
+  },
+  {
+    "id": 801,
+    "name": "Desk Lamp 36",
+    "price": 40.04,
+    "discount_date": "2026-01-16"
+  },
+  {
+    "id": 802,
+    "name": "Air Purifier 36",
+    "price": 66.08,
+    "discount_date": "2026-03-05"
+  },
+  {
+    "id": 803,
+    "name": "Fitness Tracker 45",
+    "price": 420.75,
+    "discount_date": "2025-07-08"
+  },
+  {
+    "id": 804,
+    "name": "External Hard Drive 47",
+    "price": 299.26,
+    "discount_date": "2025-11-16"
+  },
+  {
+    "id": 805,
+    "name": "Wireless Mouse 41",
+    "price": 446.27,
+    "discount_date": "2024-12-10"
+  },
+  {
+    "id": 806,
+    "name": "Smartphone 29",
+    "price": 369.89,
+    "discount_date": "2024-05-20"
+  },
+  {
+    "id": 807,
+    "name": "External Hard Drive 48",
+    "price": 493.88,
+    "discount_date": "2024-09-23"
+  },
+  {
+    "id": 808,
+    "name": "Bluetooth Speaker 44",
+    "price": 12.73,
+    "discount_date": "2025-09-22"
+  },
+  {
+    "id": 809,
+    "name": "Smartwatch 38",
+    "price": 178.93,
+    "discount_date": "2024-06-28"
+  },
+  {
+    "id": 810,
+    "name": "Monitor 41",
+    "price": 55.13,
+    "discount_date": "2024-10-09"
+  },
+  {
+    "id": 811,
+    "name": "Wireless Mouse 42",
+    "price": 100.46,
+    "discount_date": "2025-05-15"
+  },
+  {
+    "id": 812,
+    "name": "Smartwatch 39",
+    "price": 149.52,
+    "discount_date": "2024-07-09"
+  },
+  {
+    "id": 813,
+    "name": "Backpack 45",
+    "price": 126.93,
+    "discount_date": "2025-04-17"
+  },
+  {
+    "id": 814,
+    "name": "Keyboard 36",
+    "price": 447.36,
+    "discount_date": "2025-06-03"
+  },
+  {
+    "id": 815,
+    "name": "Coffee Maker 46",
+    "price": 240.02,
+    "discount_date": "2025-10-09"
+  },
+  {
+    "id": 816,
+    "name": "Headphones 42",
+    "price": 265.62,
+    "discount_date": "2025-02-10"
+  },
+  {
+    "id": 817,
+    "name": "Backpack 46",
+    "price": 179.05,
+    "discount_date": "2026-05-03"
+  },
+  {
+    "id": 818,
+    "name": "Water Bottle 37",
+    "price": 342.1,
+    "discount_date": "2025-11-02"
+  },
+  {
+    "id": 819,
+    "name": "Air Purifier 37",
+    "price": 208.76,
+    "discount_date": "2024-12-20"
+  },
+  {
+    "id": 820,
+    "name": "Water Bottle 38",
+    "price": 490.3,
+    "discount_date": "2024-09-20"
+  },
+  {
+    "id": 821,
+    "name": "Headphones 43",
+    "price": 236.95,
+    "discount_date": "2025-02-22"
+  },
+  {
+    "id": 822,
+    "name": "Charger 40",
+    "price": 227.59,
+    "discount_date": "2024-10-09"
+  },
+  {
+    "id": 823,
+    "name": "Gaming Chair 47",
+    "price": 14.35,
+    "discount_date": "2024-12-23"
+  },
+  {
+    "id": 824,
+    "name": "Monitor 42",
+    "price": 182.09,
+    "discount_date": "2024-10-29"
+  },
+  {
+    "id": 825,
+    "name": "USB Hub 49",
+    "price": 91.65,
+    "discount_date": "2025-04-22"
+  },
+  {
+    "id": 826,
+    "name": "Wireless Mouse 43",
+    "price": 246.36,
+    "discount_date": "2025-09-30"
+  },
+  {
+    "id": 827,
+    "name": "Monitor 43",
+    "price": 397.0,
+    "discount_date": "2026-01-07"
+  },
+  {
+    "id": 828,
+    "name": "Air Purifier 38",
+    "price": 445.86,
+    "discount_date": "2025-04-25"
+  },
+  {
+    "id": 829,
+    "name": "Backpack 47",
+    "price": 109.72,
+    "discount_date": "2024-09-09"
+  },
+  {
+    "id": 830,
+    "name": "External Hard Drive 49",
+    "price": 136.29,
+    "discount_date": "2025-10-09"
+  },
+  {
+    "id": 831,
+    "name": "Wireless Mouse 44",
+    "price": 202.03,
+    "discount_date": "2025-10-11"
+  },
+  {
+    "id": 832,
+    "name": "Gaming Chair 48",
+    "price": 358.9,
+    "discount_date": "2026-01-20"
+  },
+  {
+    "id": 833,
+    "name": "External Hard Drive 50",
+    "price": 80.07,
+    "discount_date": "2024-08-02"
+  },
+  {
+    "id": 834,
+    "name": "Fitness Tracker 46",
+    "price": 368.08,
+    "discount_date": "2025-03-12"
+  },
+  {
+    "id": 835,
+    "name": "Monitor 44",
+    "price": 212.07,
+    "discount_date": "2026-03-04"
+  },
+  {
+    "id": 836,
+    "name": "Smartphone 30",
+    "price": 183.18,
+    "discount_date": "2025-12-22"
+  },
+  {
+    "id": 837,
+    "name": "External Hard Drive 51",
+    "price": 485.34,
+    "discount_date": "2025-11-14"
+  },
+  {
+    "id": 838,
+    "name": "Smartphone 31",
+    "price": 493.66,
+    "discount_date": "2024-10-17"
+  },
+  {
+    "id": 839,
+    "name": "External Hard Drive 52",
+    "price": 131.71,
+    "discount_date": "2025-02-26"
+  },
+  {
+    "id": 840,
+    "name": "Coffee Maker 47",
+    "price": 325.59,
+    "discount_date": "2025-04-02"
+  },
+  {
+    "id": 841,
+    "name": "USB Hub 50",
+    "price": 254.18,
+    "discount_date": "2025-09-02"
+  },
+  {
+    "id": 842,
+    "name": "Coffee Maker 48",
+    "price": 361.26,
+    "discount_date": "2024-07-13"
+  },
+  {
+    "id": 843,
+    "name": "USB Hub 51",
+    "price": 230.04,
+    "discount_date": "2025-02-06"
+  },
+  {
+    "id": 844,
+    "name": "Webcam 35",
+    "price": 440.89,
+    "discount_date": "2025-08-02"
+  },
+  {
+    "id": 845,
+    "name": "USB Hub 52",
+    "price": 77.6,
+    "discount_date": "2026-04-16"
+  },
+  {
+    "id": 846,
+    "name": "Smartphone 32",
+    "price": 84.87,
+    "discount_date": "2026-03-19"
+  },
+  {
+    "id": 847,
+    "name": "Air Purifier 39",
+    "price": 176.88,
+    "discount_date": "2026-03-21"
+  },
+  {
+    "id": 848,
+    "name": "Electric Kettle 39",
+    "price": 130.94,
+    "discount_date": "2025-09-10"
+  },
+  {
+    "id": 849,
+    "name": "Electric Kettle 40",
+    "price": 330.3,
+    "discount_date": "2026-05-12"
+  },
+  {
+    "id": 850,
+    "name": "Headphones 44",
+    "price": 159.26,
+    "discount_date": "2026-03-28"
+  },
+  {
+    "id": 851,
+    "name": "Headphones 45",
+    "price": 123.09,
+    "discount_date": "2025-02-09"
+  },
+  {
+    "id": 852,
+    "name": "Desk Lamp 37",
+    "price": 418.02,
+    "discount_date": "2025-07-02"
+  },
+  {
+    "id": 853,
+    "name": "Gaming Chair 49",
+    "price": 68.77,
+    "discount_date": "2026-02-08"
+  },
+  {
+    "id": 854,
+    "name": "Bluetooth Speaker 45",
+    "price": 184.53,
+    "discount_date": "2025-09-20"
+  },
+  {
+    "id": 855,
+    "name": "Wireless Mouse 45",
+    "price": 497.3,
+    "discount_date": "2025-11-08"
+  },
+  {
+    "id": 856,
+    "name": "Gaming Chair 50",
+    "price": 376.45,
+    "discount_date": "2024-10-10"
+  },
+  {
+    "id": 857,
+    "name": "Smartwatch 40",
+    "price": 417.33,
+    "discount_date": "2025-12-10"
+  },
+  {
+    "id": 858,
+    "name": "Smartphone 33",
+    "price": 331.09,
+    "discount_date": "2025-04-19"
+  },
+  {
+    "id": 859,
+    "name": "Bluetooth Speaker 46",
+    "price": 150.73,
+    "discount_date": "2024-06-17"
+  },
+  {
+    "id": 860,
+    "name": "Smartwatch 41",
+    "price": 170.56,
+    "discount_date": "2025-04-13"
+  },
+  {
+    "id": 861,
+    "name": "USB Hub 53",
+    "price": 497.17,
+    "discount_date": "2026-02-18"
+  },
+  {
+    "id": 862,
+    "name": "Water Bottle 39",
+    "price": 15.19,
+    "discount_date": "2025-03-20"
+  },
+  {
+    "id": 863,
+    "name": "Charger 41",
+    "price": 426.87,
+    "discount_date": "2024-10-19"
+  },
+  {
+    "id": 864,
+    "name": "Desk Lamp 38",
+    "price": 239.89,
+    "discount_date": "2024-05-28"
+  },
+  {
+    "id": 865,
+    "name": "Headphones 46",
+    "price": 413.14,
+    "discount_date": "2025-12-04"
+  },
+  {
+    "id": 866,
+    "name": "Backpack 48",
+    "price": 263.75,
+    "discount_date": "2025-12-21"
+  },
+  {
+    "id": 867,
+    "name": "Smartwatch 42",
+    "price": 309.66,
+    "discount_date": "2026-02-27"
+  },
+  {
+    "id": 868,
+    "name": "Laptop 47",
+    "price": 180.18,
+    "discount_date": "2024-07-04"
+  },
+  {
+    "id": 869,
+    "name": "Laptop 48",
+    "price": 15.58,
+    "discount_date": "2025-12-22"
+  },
+  {
+    "id": 870,
+    "name": "Smartphone 34",
+    "price": 284.97,
+    "discount_date": "2024-07-08"
+  },
+  {
+    "id": 871,
+    "name": "Smartphone 35",
+    "price": 416.4,
+    "discount_date": "2025-11-27"
+  },
+  {
+    "id": 872,
+    "name": "Wireless Mouse 46",
+    "price": 272.22,
+    "discount_date": "2026-05-07"
+  },
+  {
+    "id": 873,
+    "name": "Wireless Mouse 47",
+    "price": 141.84,
+    "discount_date": "2026-03-10"
+  },
+  {
+    "id": 874,
+    "name": "Laptop 49",
+    "price": 272.7,
+    "discount_date": "2025-11-01"
+  },
+  {
+    "id": 875,
+    "name": "Water Bottle 40",
+    "price": 214.45,
+    "discount_date": "2026-05-01"
+  },
+  {
+    "id": 876,
+    "name": "Keyboard 37",
+    "price": 369.95,
+    "discount_date": "2024-08-22"
+  },
+  {
+    "id": 877,
+    "name": "Bluetooth Speaker 47",
+    "price": 211.86,
+    "discount_date": "2026-03-22"
+  },
+  {
+    "id": 878,
+    "name": "Headphones 47",
+    "price": 374.56,
+    "discount_date": "2026-02-27"
+  },
+  {
+    "id": 879,
+    "name": "Monitor 45",
+    "price": 269.7,
+    "discount_date": "2026-01-03"
+  },
+  {
+    "id": 880,
+    "name": "Gaming Chair 51",
+    "price": 262.04,
+    "discount_date": "2026-04-04"
+  },
+  {
+    "id": 881,
+    "name": "Air Purifier 40",
+    "price": 188.66,
+    "discount_date": "2025-11-20"
+  },
+  {
+    "id": 882,
+    "name": "Coffee Maker 49",
+    "price": 147.05,
+    "discount_date": "2025-01-19"
+  },
+  {
+    "id": 883,
+    "name": "Electric Kettle 41",
+    "price": 201.89,
+    "discount_date": "2026-04-29"
+  },
+  {
+    "id": 884,
+    "name": "Backpack 49",
+    "price": 476.63,
+    "discount_date": "2025-02-01"
+  },
+  {
+    "id": 885,
+    "name": "Fitness Tracker 47",
+    "price": 77.34,
+    "discount_date": "2025-10-06"
+  },
+  {
+    "id": 886,
+    "name": "Laptop 50",
+    "price": 205.31,
+    "discount_date": "2025-01-17"
+  },
+  {
+    "id": 887,
+    "name": "Smartphone 36",
+    "price": 169.49,
+    "discount_date": "2025-09-06"
+  },
+  {
+    "id": 888,
+    "name": "Desk Lamp 39",
+    "price": 357.74,
+    "discount_date": "2024-05-18"
+  },
+  {
+    "id": 889,
+    "name": "Air Purifier 41",
+    "price": 499.3,
+    "discount_date": "2025-06-16"
+  },
+  {
+    "id": 890,
+    "name": "Headphones 48",
+    "price": 401.04,
+    "discount_date": "2026-05-05"
+  },
+  {
+    "id": 891,
+    "name": "Webcam 36",
+    "price": 272.91,
+    "discount_date": "2026-01-01"
+  },
+  {
+    "id": 892,
+    "name": "Backpack 50",
+    "price": 179.32,
+    "discount_date": "2024-12-26"
+  },
+  {
+    "id": 893,
+    "name": "Coffee Maker 50",
+    "price": 140.07,
+    "discount_date": "2025-06-12"
+  },
+  {
+    "id": 894,
+    "name": "Fitness Tracker 48",
+    "price": 318.3,
+    "discount_date": "2025-01-17"
+  },
+  {
+    "id": 895,
+    "name": "Smartphone 37",
+    "price": 300.88,
+    "discount_date": "2025-02-14"
+  },
+  {
+    "id": 896,
+    "name": "Water Bottle 41",
+    "price": 416.62,
+    "discount_date": "2026-02-07"
+  },
+  {
+    "id": 897,
+    "name": "Coffee Maker 51",
+    "price": 348.93,
+    "discount_date": "2025-10-11"
+  },
+  {
+    "id": 898,
+    "name": "Keyboard 38",
+    "price": 295.28,
+    "discount_date": "2024-05-30"
+  },
+  {
+    "id": 899,
+    "name": "Water Bottle 42",
+    "price": 111.87,
+    "discount_date": "2026-04-28"
+  },
+  {
+    "id": 900,
+    "name": "Wireless Mouse 48",
+    "price": 156.42,
+    "discount_date": "2024-08-25"
+  },
+  {
+    "id": 901,
+    "name": "Electric Kettle 42",
+    "price": 129.8,
+    "discount_date": "2025-02-04"
+  },
+  {
+    "id": 902,
+    "name": "Monitor 46",
+    "price": 109.36,
+    "discount_date": "2026-01-23"
+  },
+  {
+    "id": 903,
+    "name": "Water Bottle 43",
+    "price": 424.25,
+    "discount_date": "2024-12-17"
+  },
+  {
+    "id": 904,
+    "name": "Wireless Mouse 49",
+    "price": 221.65,
+    "discount_date": "2026-01-21"
+  },
+  {
+    "id": 905,
+    "name": "Headphones 49",
+    "price": 149.55,
+    "discount_date": "2025-04-08"
+  },
+  {
+    "id": 906,
+    "name": "Monitor 47",
+    "price": 126.73,
+    "discount_date": "2024-10-25"
+  },
+  {
+    "id": 907,
+    "name": "Air Purifier 42",
+    "price": 427.17,
+    "discount_date": "2024-08-04"
+  },
+  {
+    "id": 908,
+    "name": "Wireless Mouse 50",
+    "price": 149.36,
+    "discount_date": "2025-09-22"
+  },
+  {
+    "id": 909,
+    "name": "Coffee Maker 52",
+    "price": 413.32,
+    "discount_date": "2025-07-14"
+  },
+  {
+    "id": 910,
+    "name": "Webcam 37",
+    "price": 202.36,
+    "discount_date": "2025-01-07"
+  },
+  {
+    "id": 911,
+    "name": "Air Purifier 43",
+    "price": 149.78,
+    "discount_date": "2026-04-11"
+  },
+  {
+    "id": 912,
+    "name": "Webcam 38",
+    "price": 88.61,
+    "discount_date": "2024-06-02"
+  },
+  {
+    "id": 913,
+    "name": "Backpack 51",
+    "price": 94.78,
+    "discount_date": "2026-01-26"
+  },
+  {
+    "id": 914,
+    "name": "Fitness Tracker 49",
+    "price": 285.47,
+    "discount_date": "2024-08-18"
+  },
+  {
+    "id": 915,
+    "name": "Monitor 48",
+    "price": 43.67,
+    "discount_date": "2025-07-10"
+  },
+  {
+    "id": 916,
+    "name": "Coffee Maker 53",
+    "price": 404.5,
+    "discount_date": "2025-07-21"
+  },
+  {
+    "id": 917,
+    "name": "Smartwatch 43",
+    "price": 249.62,
+    "discount_date": "2024-10-02"
+  },
+  {
+    "id": 918,
+    "name": "Desk Lamp 40",
+    "price": 408.11,
+    "discount_date": "2025-10-04"
+  },
+  {
+    "id": 919,
+    "name": "Headphones 50",
+    "price": 156.74,
+    "discount_date": "2024-10-04"
+  },
+  {
+    "id": 920,
+    "name": "USB Hub 54",
+    "price": 316.14,
+    "discount_date": "2026-01-03"
+  },
+  {
+    "id": 921,
+    "name": "Keyboard 39",
+    "price": 313.6,
+    "discount_date": "2024-12-14"
+  },
+  {
+    "id": 922,
+    "name": "Bluetooth Speaker 48",
+    "price": 152.78,
+    "discount_date": "2024-08-26"
+  },
+  {
+    "id": 923,
+    "name": "Backpack 52",
+    "price": 170.09,
+    "discount_date": "2025-02-21"
+  },
+  {
+    "id": 924,
+    "name": "Keyboard 40",
+    "price": 421.67,
+    "discount_date": "2025-06-13"
+  },
+  {
+    "id": 925,
+    "name": "Smartwatch 44",
+    "price": 209.78,
+    "discount_date": "2024-08-27"
+  },
+  {
+    "id": 926,
+    "name": "Webcam 39",
+    "price": 382.61,
+    "discount_date": "2025-12-23"
+  },
+  {
+    "id": 927,
+    "name": "External Hard Drive 53",
+    "price": 202.24,
+    "discount_date": "2025-04-30"
+  },
+  {
+    "id": 928,
+    "name": "Keyboard 41",
+    "price": 99.99,
+    "discount_date": "2025-09-12"
+  },
+  {
+    "id": 929,
+    "name": "Coffee Maker 54",
+    "price": 151.18,
+    "discount_date": "2026-04-12"
+  },
+  {
+    "id": 930,
+    "name": "Headphones 51",
+    "price": 130.91,
+    "discount_date": "2025-05-15"
+  },
+  {
+    "id": 931,
+    "name": "Smartwatch 45",
+    "price": 484.24,
+    "discount_date": "2024-06-17"
+  },
+  {
+    "id": 932,
+    "name": "Webcam 40",
+    "price": 138.47,
+    "discount_date": "2025-04-01"
+  },
+  {
+    "id": 933,
+    "name": "Monitor 49",
+    "price": 387.89,
+    "discount_date": "2025-03-19"
+  },
+  {
+    "id": 934,
+    "name": "Keyboard 42",
+    "price": 139.54,
+    "discount_date": "2025-01-21"
+  },
+  {
+    "id": 935,
+    "name": "Coffee Maker 55",
+    "price": 155.59,
+    "discount_date": "2024-07-19"
+  },
+  {
+    "id": 936,
+    "name": "Gaming Chair 52",
+    "price": 359.5,
+    "discount_date": "2024-07-14"
+  },
+  {
+    "id": 937,
+    "name": "Water Bottle 44",
+    "price": 25.09,
+    "discount_date": "2025-03-31"
+  },
+  {
+    "id": 938,
+    "name": "Fitness Tracker 50",
+    "price": 156.59,
+    "discount_date": "2025-02-15"
+  },
+  {
+    "id": 939,
+    "name": "Coffee Maker 56",
+    "price": 163.55,
+    "discount_date": "2024-11-24"
+  },
+  {
+    "id": 940,
+    "name": "Desk Lamp 41",
+    "price": 169.97,
+    "discount_date": "2025-05-03"
+  },
+  {
+    "id": 941,
+    "name": "Gaming Chair 53",
+    "price": 368.38,
+    "discount_date": "2025-10-23"
+  },
+  {
+    "id": 942,
+    "name": "Coffee Maker 57",
+    "price": 232.28,
+    "discount_date": "2025-01-18"
+  },
+  {
+    "id": 943,
+    "name": "External Hard Drive 54",
+    "price": 373.04,
+    "discount_date": "2025-08-17"
+  },
+  {
+    "id": 944,
+    "name": "Water Bottle 45",
+    "price": 73.93,
+    "discount_date": "2024-07-27"
+  },
+  {
+    "id": 945,
+    "name": "Backpack 53",
+    "price": 420.61,
+    "discount_date": "2024-10-09"
+  },
+  {
+    "id": 946,
+    "name": "Smartphone 38",
+    "price": 165.13,
+    "discount_date": "2026-02-13"
+  },
+  {
+    "id": 947,
+    "name": "Charger 42",
+    "price": 69.01,
+    "discount_date": "2024-07-05"
+  },
+  {
+    "id": 948,
+    "name": "Wireless Mouse 51",
+    "price": 243.3,
+    "discount_date": "2026-01-21"
+  },
+  {
+    "id": 949,
+    "name": "External Hard Drive 55",
+    "price": 74.18,
+    "discount_date": "2026-03-29"
+  },
+  {
+    "id": 950,
+    "name": "Air Purifier 44",
+    "price": 76.33,
+    "discount_date": "2026-02-16"
+  },
+  {
+    "id": 951,
+    "name": "Smartphone 39",
+    "price": 382.9,
+    "discount_date": "2024-06-06"
+  },
+  {
+    "id": 952,
+    "name": "Desk Lamp 42",
+    "price": 146.75,
+    "discount_date": "2024-11-23"
+  },
+  {
+    "id": 953,
+    "name": "Smartwatch 46",
+    "price": 369.93,
+    "discount_date": "2025-07-03"
+  },
+  {
+    "id": 954,
+    "name": "Laptop 51",
+    "price": 110.42,
+    "discount_date": "2024-07-24"
+  },
+  {
+    "id": 955,
+    "name": "Desk Lamp 43",
+    "price": 110.47,
+    "discount_date": "2025-07-29"
+  },
+  {
+    "id": 956,
+    "name": "Smartwatch 47",
+    "price": 64.66,
+    "discount_date": "2025-10-21"
+  },
+  {
+    "id": 957,
+    "name": "USB Hub 55",
+    "price": 274.17,
+    "discount_date": "2025-10-30"
+  },
+  {
+    "id": 958,
+    "name": "Smartphone 40",
+    "price": 337.1,
+    "discount_date": "2026-01-19"
+  },
+  {
+    "id": 959,
+    "name": "Wireless Mouse 52",
+    "price": 109.64,
+    "discount_date": "2026-05-07"
+  },
+  {
+    "id": 960,
+    "name": "Smartphone 41",
+    "price": 331.84,
+    "discount_date": "2025-12-06"
+  },
+  {
+    "id": 961,
+    "name": "Wireless Mouse 53",
+    "price": 338.72,
+    "discount_date": "2025-05-24"
+  },
+  {
+    "id": 962,
+    "name": "USB Hub 56",
+    "price": 395.97,
+    "discount_date": "2025-11-07"
+  },
+  {
+    "id": 963,
+    "name": "Smartphone 42",
+    "price": 471.84,
+    "discount_date": "2025-08-01"
+  },
+  {
+    "id": 964,
+    "name": "Charger 43",
+    "price": 26.24,
+    "discount_date": "2025-07-08"
+  },
+  {
+    "id": 965,
+    "name": "Fitness Tracker 51",
+    "price": 174.73,
+    "discount_date": "2025-04-21"
+  },
+  {
+    "id": 966,
+    "name": "Air Purifier 45",
+    "price": 349.36,
+    "discount_date": "2024-09-30"
+  },
+  {
+    "id": 967,
+    "name": "Water Bottle 46",
+    "price": 93.66,
+    "discount_date": "2024-06-01"
+  },
+  {
+    "id": 968,
+    "name": "USB Hub 57",
+    "price": 64.56,
+    "discount_date": "2024-10-20"
+  },
+  {
+    "id": 969,
+    "name": "Monitor 50",
+    "price": 378.73,
+    "discount_date": "2025-08-13"
+  },
+  {
+    "id": 970,
+    "name": "Headphones 52",
+    "price": 213.47,
+    "discount_date": "2025-10-14"
+  },
+  {
+    "id": 971,
+    "name": "External Hard Drive 56",
+    "price": 223.33,
+    "discount_date": "2025-04-24"
+  },
+  {
+    "id": 972,
+    "name": "Smartphone 43",
+    "price": 446.14,
+    "discount_date": "2025-10-22"
+  },
+  {
+    "id": 973,
+    "name": "Charger 44",
+    "price": 294.87,
+    "discount_date": "2025-08-31"
+  },
+  {
+    "id": 974,
+    "name": "Air Purifier 46",
+    "price": 12.8,
+    "discount_date": "2026-01-10"
+  },
+  {
+    "id": 975,
+    "name": "Charger 45",
+    "price": 408.05,
+    "discount_date": "2025-08-29"
+  },
+  {
+    "id": 976,
+    "name": "Laptop 52",
+    "price": 323.49,
+    "discount_date": "2024-06-20"
+  },
+  {
+    "id": 977,
+    "name": "Wireless Mouse 54",
+    "price": 33.46,
+    "discount_date": "2025-12-25"
+  },
+  {
+    "id": 978,
+    "name": "External Hard Drive 57",
+    "price": 73.08,
+    "discount_date": "2024-09-08"
+  },
+  {
+    "id": 979,
+    "name": "USB Hub 58",
+    "price": 163.29,
+    "discount_date": "2025-04-05"
+  },
+  {
+    "id": 980,
+    "name": "Monitor 51",
+    "price": 47.47,
+    "discount_date": "2025-11-23"
+  },
+  {
+    "id": 981,
+    "name": "Coffee Maker 58",
+    "price": 117.37,
+    "discount_date": "2026-01-29"
+  },
+  {
+    "id": 982,
+    "name": "Air Purifier 47",
+    "price": 279.27,
+    "discount_date": "2025-06-06"
+  },
+  {
+    "id": 983,
+    "name": "Headphones 53",
+    "price": 202.13,
+    "discount_date": "2025-03-28"
+  },
+  {
+    "id": 984,
+    "name": "Monitor 52",
+    "price": 123.09,
+    "discount_date": "2025-11-14"
+  },
+  {
+    "id": 985,
+    "name": "Headphones 54",
+    "price": 192.59,
+    "discount_date": "2025-12-01"
+  },
+  {
+    "id": 986,
+    "name": "Bluetooth Speaker 49",
+    "price": 287.1,
+    "discount_date": "2025-11-18"
+  },
+  {
+    "id": 987,
+    "name": "Bluetooth Speaker 50",
+    "price": 294.81,
+    "discount_date": "2024-06-22"
+  },
+  {
+    "id": 988,
+    "name": "Headphones 55",
+    "price": 229.42,
+    "discount_date": "2026-05-04"
+  },
+  {
+    "id": 989,
+    "name": "Smartphone 44",
+    "price": 258.04,
+    "discount_date": "2026-04-09"
+  },
+  {
+    "id": 990,
+    "name": "Air Purifier 48",
+    "price": 248.83,
+    "discount_date": "2026-03-27"
+  },
+  {
+    "id": 991,
+    "name": "Laptop 53",
+    "price": 172.54,
+    "discount_date": "2025-12-28"
+  },
+  {
+    "id": 992,
+    "name": "Backpack 54",
+    "price": 395.42,
+    "discount_date": "2025-07-29"
+  },
+  {
+    "id": 993,
+    "name": "Coffee Maker 59",
+    "price": 212.12,
+    "discount_date": "2025-04-22"
+  },
+  {
+    "id": 994,
+    "name": "External Hard Drive 58",
+    "price": 52.71,
+    "discount_date": "2025-06-17"
+  },
+  {
+    "id": 995,
+    "name": "Gaming Chair 54",
+    "price": 280.47,
+    "discount_date": "2025-09-01"
+  },
+  {
+    "id": 996,
+    "name": "Backpack 55",
+    "price": 319.57,
+    "discount_date": "2025-07-28"
+  },
+  {
+    "id": 997,
+    "name": "Water Bottle 47",
+    "price": 368.81,
+    "discount_date": "2024-05-17"
+  },
+  {
+    "id": 998,
+    "name": "Fitness Tracker 52",
+    "price": 33.43,
+    "discount_date": "2025-01-28"
+  },
+  {
+    "id": 999,
+    "name": "Desk Lamp 44",
+    "price": 366.83,
+    "discount_date": "2025-08-08"
+  },
+  {
+    "id": 1000,
+    "name": "Water Bottle 48",
+    "price": 201.14,
+    "discount_date": "2026-02-14"
+  }
+]
