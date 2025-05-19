@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "name": "Ultra Speaker 8304",
+    "price": 60.6,
+    "discount_date": "2025-08-02"
+  },
+  {
+    "id": 2,
+    "name": "Max Fan 5174",
+    "price": 74.65,
+    "discount_date": "2024-06-19"
+  },
+  {
+    "id": 3,
+    "name": "Electric Laptop 7005",
+    "price": 235.18,
+    "discount_date": "2025-04-10"
+  },
+  {
+    "id": 4,
+    "name": "Eco Printer 3751",
+    "price": 177.0,
+    "discount_date": "2024-12-03"
+  },
+  {
+    "id": 5,
+    "name": "Eco Laptop 6096",
+    "price": 303.47,
+    "discount_date": "2025-09-29"
+  },
+  {
+    "id": 6,
+    "name": "Electric Phone 3719",
+    "price": 305.41,
+    "discount_date": "2025-08-19"
+  },
+  {
+    "id": 7,
+    "name": "Electric Phone 3708",
+    "price": 329.69,
+    "discount_date": "2025-10-16"
+  },
+  {
+    "id": 8,
+    "name": "Max Monitor 8481",
+    "price": 491.18,
+    "discount_date": "2025-08-26"
+  },
+  {
+    "id": 9,
+    "name": "Premium Laptop 3884",
+    "price": 160.61,
+    "discount_date": "2025-12-21"
+  },
+  {
+    "id": 10,
+    "name": "Advanced Toaster 6122",
+    "price": 54.97,
+    "discount_date": "2024-05-24"
+  },
+  {
+    "id": 11,
+    "name": "Portable Phone 1977",
+    "price": 324.25,
+    "discount_date": "2025-10-11"
+  },
+  {
+    "id": 12,
+    "name": "Mini Laptop 7998",
+    "price": 371.33,
+    "discount_date": "2025-10-02"
+  },
+  {
+    "id": 13,
+    "name": "Ultra Monitor 1253",
+    "price": 459.83,
+    "discount_date": "2025-11-09"
+  },
+  {
+    "id": 14,
+    "name": "Electric Watch 9538",
+    "price": 77.74,
+    "discount_date": "2025-08-03"
+  },
+  {
+    "id": 15,
+    "name": "Smart Watch 5486",
+    "price": 166.24,
+    "discount_date": "2024-09-07"
+  },
+  {
+    "id": 16,
+    "name": "Eco Watch 9235",
+    "price": 446.38,
+    "discount_date": "2024-07-28"
+  },
+  {
+    "id": 17,
+    "name": "Smart Fan 9801",
+    "price": 309.58,
+    "discount_date": "2025-06-11"
+  },
+  {
+    "id": 18,
+    "name": "Smart Watch 8414",
+    "price": 364.4,
+    "discount_date": "2025-03-10"
+  },
+  {
+    "id": 19,
+    "name": "Mini Speaker 9490",
+    "price": 205.13,
+    "discount_date": "2026-03-17"
+  },
+  {
+    "id": 20,
+    "name": "Eco Laptop 6413",
+    "price": 443.6,
+    "discount_date": "2024-09-30"
+  },
+  {
+    "id": 21,
+    "name": "Eco Blender 4171",
+    "price": 231.93,
+    "discount_date": "2026-05-01"
+  },
+  {
+    "id": 22,
+    "name": "Electric Speaker 7651",
+    "price": 132.95,
+    "discount_date": "2025-11-10"
+  },
+  {
+    "id": 23,
+    "name": "Ultra Printer 8885",
+    "price": 98.4,
+    "discount_date": "2025-10-02"
+  },
+  {
+    "id": 24,
+    "name": "Smart Speaker 6765",
+    "price": 467.79,
+    "discount_date": "2025-04-11"
+  },
+  {
+    "id": 25,
+    "name": "Ultra Watch 2225",
+    "price": 77.5,
+    "discount_date": "2024-06-20"
+  },
+  {
+    "id": 26,
+    "name": "Smart Phone 7474",
+    "price": 219.56,
+    "discount_date": "2024-06-10"
+  },
+  {
+    "id": 27,
+    "name": "Electric Speaker 5324",
+    "price": 78.17,
+    "discount_date": "2026-04-11"
+  },
+  {
+    "id": 28,
+    "name": "Wireless Fan 3539",
+    "price": 100.07,
+    "discount_date": "2025-05-05"
+  },
+  {
+    "id": 29,
+    "name": "Mini Fan 5346",
+    "price": 252.8,
+    "discount_date": "2025-04-06"
+  },
+  {
+    "id": 30,
+    "name": "Smart Phone 4359",
+    "price": 246.07,
+    "discount_date": "2025-02-24"
+  },
+  {
+    "id": 31,
+    "name": "Eco Toaster 6054",
+    "price": 67.52,
+    "discount_date": "2024-09-02"
+  },
+  {
+    "id": 32,
+    "name": "Mini Laptop 3551",
+    "price": 447.92,
+    "discount_date": "2025-12-24"
+  },
+  {
+    "id": 33,
+    "name": "Portable Monitor 5276",
+    "price": 334.0,
+    "discount_date": "2025-10-11"
+  },
+  {
+    "id": 34,
+    "name": "Electric Camera 5537",
+    "price": 351.96,
+    "discount_date": "2025-01-26"
+  },
+  {
+    "id": 35,
+    "name": "Portable Blender 1431",
+    "price": 149.24,
+    "discount_date": "2026-03-25"
+  },
+  {
+    "id": 36,
+    "name": "Wireless Monitor 7450",
+    "price": 154.95,
+    "discount_date": "2024-08-23"
+  },
+  {
+    "id": 37,
+    "name": "Max Speaker 8697",
+    "price": 199.55,
+    "discount_date": "2024-08-29"
+  },
+  {
+    "id": 38,
+    "name": "Electric Blender 2114",
+    "price": 384.99,
+    "discount_date": "2026-02-01"
+  },
+  {
+    "id": 39,
+    "name": "Max Camera 9207",
+    "price": 136.06,
+    "discount_date": "2025-09-12"
+  },
+  {
+    "id": 40,
+    "name": "Portable Phone 8880",
+    "price": 359.46,
+    "discount_date": "2024-08-24"
+  },
+  {
+    "id": 41,
+    "name": "Smart Camera 4478",
+    "price": 390.87,
+    "discount_date": "2026-05-10"
+  },
+  {
+    "id": 42,
+    "name": "Max Camera 4231",
+    "price": 234.0,
+    "discount_date": "2024-06-04"
+  },
+  {
+    "id": 43,
+    "name": "Ultra Fan 9050",
+    "price": 299.38,
+    "discount_date": "2024-07-28"
+  },
+  {
+    "id": 44,
+    "name": "Mini Monitor 3918",
+    "price": 344.18,
+    "discount_date": "2025-04-11"
+  },
+  {
+    "id": 45,
+    "name": "Eco Phone 4174",
+    "price": 127.32,
+    "discount_date": "2025-06-25"
+  },
+  {
+    "id": 46,
+    "name": "Eco Speaker 3451",
+    "price": 317.94,
+    "discount_date": "2025-07-14"
+  },
+  {
+    "id": 47,
+    "name": "Portable Blender 2307",
+    "price": 497.36,
+    "discount_date": "2024-08-18"
+  },
+  {
+    "id": 48,
+    "name": "Max Phone 7937",
+    "price": 114.46,
+    "discount_date": "2025-11-28"
+  },
+  {
+    "id": 49,
+    "name": "Mini Watch 3823",
+    "price": 144.3,
+    "discount_date": "2026-03-08"
+  },
+  {
+    "id": 50,
+    "name": "Electric Fan 5743",
+    "price": 407.33,
+    "discount_date": "2025-07-04"
+  },
+  {
+    "id": 51,
+    "name": "Portable Camera 5332",
+    "price": 137.23,
+    "discount_date": "2026-01-31"
+  },
+  {
+    "id": 52,
+    "name": "Wireless Blender 2650",
+    "price": 372.0,
+    "discount_date": "2026-02-15"
+  },
+  {
+    "id": 53,
+    "name": "Mini Camera 2233",
+    "price": 135.12,
+    "discount_date": "2025-10-07"
+  },
+  {
+    "id": 54,
+    "name": "Smart Toaster 8041",
+    "price": 62.7,
+    "discount_date": "2024-07-02"
+  },
+  {
+    "id": 55,
+    "name": "Max Toaster 3817",
+    "price": 177.57,
+    "discount_date": "2025-07-10"
+  },
+  {
+    "id": 56,
+    "name": "Eco Phone 5446",
+    "price": 109.1,
+    "discount_date": "2025-05-05"
+  },
+  {
+    "id": 57,
+    "name": "Premium Printer 3552",
+    "price": 324.72,
+    "discount_date": "2025-03-09"
+  },
+  {
+    "id": 58,
+    "name": "Max Toaster 5381",
+    "price": 168.33,
+    "discount_date": "2025-12-04"
+  },
+  {
+    "id": 59,
+    "name": "Smart Fan 4768",
+    "price": 163.01,
+    "discount_date": "2025-09-24"
+  },
+  {
+    "id": 60,
+    "name": "Max Monitor 6993",
+    "price": 280.62,
+    "discount_date": "2025-03-30"
+  },
+  {
+    "id": 61,
+    "name": "Advanced Camera 4107",
+    "price": 286.59,
+    "discount_date": "2025-05-04"
+  },
+  {
+    "id": 62,
+    "name": "Electric Laptop 7347",
+    "price": 400.5,
+    "discount_date": "2026-03-02"
+  },
+  {
+    "id": 63,
+    "name": "Ultra Monitor 1609",
+    "price": 442.76,
+    "discount_date": "2025-05-11"
+  },
+  {
+    "id": 64,
+    "name": "Ultra Camera 2313",
+    "price": 206.86,
+    "discount_date": "2026-04-28"
+  },
+  {
+    "id": 65,
+    "name": "Max Blender 6066",
+    "price": 107.71,
+    "discount_date": "2024-06-27"
+  },
+  {
+    "id": 66,
+    "name": "Max Toaster 5903",
+    "price": 34.62,
+    "discount_date": "2025-09-27"
+  },
+  {
+    "id": 67,
+    "name": "Eco Fan 7739",
+    "price": 89.51,
+    "discount_date": "2025-09-02"
+  },
+  {
+    "id": 68,
+    "name": "Electric Blender 4449",
+    "price": 319.83,
+    "discount_date": "2025-12-04"
+  },
+  {
+    "id": 69,
+    "name": "Eco Fan 5727",
+    "price": 284.19,
+    "discount_date": "2025-11-15"
+  },
+  {
+    "id": 70,
+    "name": "Premium Laptop 8866",
+    "price": 347.12,
+    "discount_date": "2024-09-26"
+  },
+  {
+    "id": 71,
+    "name": "Mini Camera 8559",
+    "price": 122.3,
+    "discount_date": "2025-02-04"
+  },
+  {
+    "id": 72,
+    "name": "Premium Monitor 5251",
+    "price": 328.74,
+    "discount_date": "2026-05-10"
+  },
+  {
+    "id": 73,
+    "name": "Wireless Toaster 1298",
+    "price": 435.94,
+    "discount_date": "2025-10-01"
+  },
+  {
+    "id": 74,
+    "name": "Max Blender 1731",
+    "price": 22.16,
+    "discount_date": "2024-06-16"
+  },
+  {
+    "id": 75,
+    "name": "Ultra Watch 5820",
+    "price": 76.44,
+    "discount_date": "2025-12-24"
+  },
+  {
+    "id": 76,
+    "name": "Portable Blender 7439",
+    "price": 197.97,
+    "discount_date": "2025-11-20"
+  },
+  {
+    "id": 77,
+    "name": "Eco Watch 6512",
+    "price": 13.54,
+    "discount_date": "2025-05-23"
+  },
+  {
+    "id": 78,
+    "name": "Eco Printer 7847",
+    "price": 62.61,
+    "discount_date": "2025-02-02"
+  },
+  {
+    "id": 79,
+    "name": "Mini Blender 9064",
+    "price": 53.77,
+    "discount_date": "2026-02-14"
+  },
+  {
+    "id": 80,
+    "name": "Eco Printer 7465",
+    "price": 371.01,
+    "discount_date": "2025-10-14"
+  },
+  {
+    "id": 81,
+    "name": "Smart Monitor 5101",
+    "price": 400.11,
+    "discount_date": "2025-10-25"
+  },
+  {
+    "id": 82,
+    "name": "Eco Printer 2815",
+    "price": 376.04,
+    "discount_date": "2025-11-21"
+  },
+  {
+    "id": 83,
+    "name": "Portable Toaster 6713",
+    "price": 230.93,
+    "discount_date": "2025-12-04"
+  },
+  {
+    "id": 84,
+    "name": "Wireless Laptop 2419",
+    "price": 463.95,
+    "discount_date": "2025-12-22"
+  },
+  {
+    "id": 85,
+    "name": "Portable Fan 9314",
+    "price": 57.35,
+    "discount_date": "2025-03-26"
+  },
+  {
+    "id": 86,
+    "name": "Max Laptop 5668",
+    "price": 318.0,
+    "discount_date": "2026-05-16"
+  },
+  {
+    "id": 87,
+    "name": "Eco Phone 1999",
+    "price": 307.4,
+    "discount_date": "2026-05-07"
+  },
+  {
+    "id": 88,
+    "name": "Electric Phone 2196",
+    "price": 471.71,
+    "discount_date": "2025-07-11"
+  },
+  {
+    "id": 89,
+    "name": "Max Watch 9991",
+    "price": 220.6,
+    "discount_date": "2024-11-01"
+  },
+  {
+    "id": 90,
+    "name": "Premium Camera 9700",
+    "price": 13.9,
+    "discount_date": "2026-05-03"
+  },
+  {
+    "id": 91,
+    "name": "Electric Laptop 9138",
+    "price": 366.44,
+    "discount_date": "2024-11-19"
+  },
+  {
+    "id": 92,
+    "name": "Mini Fan 1872",
+    "price": 282.31,
+    "discount_date": "2024-12-17"
+  },
+  {
+    "id": 93,
+    "name": "Portable Monitor 5268",
+    "price": 70.54,
+    "discount_date": "2026-02-13"
+  },
+  {
+    "id": 94,
+    "name": "Advanced Monitor 3757",
+    "price": 399.02,
+    "discount_date": "2025-07-25"
+  },
+  {
+    "id": 95,
+    "name": "Premium Camera 1614",
+    "price": 136.44,
+    "discount_date": "2024-06-09"
+  },
+  {
+    "id": 96,
+    "name": "Mini Toaster 8153",
+    "price": 363.42,
+    "discount_date": "2024-12-16"
+  },
+  {
+    "id": 97,
+    "name": "Max Printer 6403",
+    "price": 464.47,
+    "discount_date": "2024-08-22"
+  },
+  {
+    "id": 98,
+    "name": "Electric Blender 8906",
+    "price": 129.57,
+    "discount_date": "2025-06-25"
+  },
+  {
+    "id": 99,
+    "name": "Electric Camera 9488",
+    "price": 169.38,
+    "discount_date": "2024-09-16"
+  },
+  {
+    "id": 100,
+    "name": "Electric Camera 1462",
+    "price": 364.18,
+    "discount_date": "2024-12-04"
+  },
+  {
+    "id": 101,
+    "name": "Portable Toaster 2965",
+    "price": 431.18,
+    "discount_date": "2026-03-27"
+  },
+  {
+    "id": 102,
+    "name": "Wireless Blender 8609",
+    "price": 237.32,
+    "discount_date": "2025-09-29"
+  },
+  {
+    "id": 103,
+    "name": "Eco Toaster 7805",
+    "price": 498.67,
+    "discount_date": "2025-11-11"
+  },
+  {
+    "id": 104,
+    "name": "Max Printer 6957",
+    "price": 98.24,
+    "discount_date": "2025-10-11"
+  },
+  {
+    "id": 105,
+    "name": "Eco Blender 5705",
+    "price": 358.83,
+    "discount_date": "2025-07-09"
+  },
+  {
+    "id": 106,
+    "name": "Premium Phone 2445",
+    "price": 488.12,
+    "discount_date": "2025-08-18"
+  },
+  {
+    "id": 107,
+    "name": "Ultra Toaster 7521",
+    "price": 145.31,
+    "discount_date": "2025-09-28"
+  },
+  {
+    "id": 108,
+    "name": "Wireless Blender 5435",
+    "price": 23.36,
+    "discount_date": "2024-11-28"
+  },
+  {
+    "id": 109,
+    "name": "Max Laptop 6892",
+    "price": 297.27,
+    "discount_date": "2026-02-03"
+  },
+  {
+    "id": 110,
+    "name": "Eco Camera 8645",
+    "price": 468.31,
+    "discount_date": "2024-08-16"
+  },
+  {
+    "id": 111,
+    "name": "Eco Toaster 8336",
+    "price": 205.74,
+    "discount_date": "2024-07-27"
+  },
+  {
+    "id": 112,
+    "name": "Ultra Watch 2269",
+    "price": 302.32,
+    "discount_date": "2024-10-15"
+  },
+  {
+    "id": 113,
+    "name": "Portable Blender 8076",
+    "price": 435.34,
+    "discount_date": "2024-11-15"
+  },
+  {
+    "id": 114,
+    "name": "Max Toaster 2360",
+    "price": 296.04,
+    "discount_date": "2025-02-19"
+  },
+  {
+    "id": 115,
+    "name": "Smart Printer 8810",
+    "price": 448.88,
+    "discount_date": "2024-08-15"
+  },
+  {
+    "id": 116,
+    "name": "Mini Monitor 3357",
+    "price": 236.16,
+    "discount_date": "2024-08-04"
+  },
+  {
+    "id": 117,
+    "name": "Advanced Laptop 5674",
+    "price": 400.99,
+    "discount_date": "2025-10-14"
+  },
+  {
+    "id": 118,
+    "name": "Mini Laptop 3501",
+    "price": 456.67,
+    "discount_date": "2025-07-15"
+  },
+  {
+    "id": 119,
+    "name": "Advanced Phone 6206",
+    "price": 231.78,
+    "discount_date": "2025-05-25"
+  },
+  {
+    "id": 120,
+    "name": "Ultra Monitor 6193",
+    "price": 135.35,
+    "discount_date": "2026-04-21"
+  },
+  {
+    "id": 121,
+    "name": "Wireless Phone 1278",
+    "price": 456.31,
+    "discount_date": "2024-11-07"
+  },
+  {
+    "id": 122,
+    "name": "Mini Toaster 3904",
+    "price": 457.19,
+    "discount_date": "2025-03-11"
+  },
+  {
+    "id": 123,
+    "name": "Electric Fan 1509",
+    "price": 382.92,
+    "discount_date": "2025-09-24"
+  },
+  {
+    "id": 124,
+    "name": "Ultra Camera 2845",
+    "price": 347.45,
+    "discount_date": "2025-08-29"
+  },
+  {
+    "id": 125,
+    "name": "Premium Fan 3431",
+    "price": 227.26,
+    "discount_date": "2024-07-03"
+  },
+  {
+    "id": 126,
+    "name": "Portable Speaker 7696",
+    "price": 241.14,
+    "discount_date": "2024-09-26"
+  },
+  {
+    "id": 127,
+    "name": "Advanced Camera 7671",
+    "price": 459.5,
+    "discount_date": "2024-12-27"
+  },
+  {
+    "id": 128,
+    "name": "Mini Toaster 7781",
+    "price": 245.65,
+    "discount_date": "2024-09-21"
+  },
+  {
+    "id": 129,
+    "name": "Wireless Laptop 5925",
+    "price": 460.36,
+    "discount_date": "2025-09-25"
+  },
+  {
+    "id": 130,
+    "name": "Smart Phone 4661",
+    "price": 293.06,
+    "discount_date": "2026-03-21"
+  },
+  {
+    "id": 131,
+    "name": "Portable Phone 4975",
+    "price": 47.25,
+    "discount_date": "2025-01-23"
+  },
+  {
+    "id": 132,
+    "name": "Mini Camera 1034",
+    "price": 236.22,
+    "discount_date": "2025-02-02"
+  },
+  {
+    "id": 133,
+    "name": "Smart Speaker 8099",
+    "price": 210.15,
+    "discount_date": "2025-11-25"
+  },
+  {
+    "id": 134,
+    "name": "Portable Camera 4103",
+    "price": 488.72,
+    "discount_date": "2024-11-16"
+  },
+  {
+    "id": 135,
+    "name": "Electric Fan 6962",
+    "price": 169.69,
+    "discount_date": "2025-08-13"
+  },
+  {
+    "id": 136,
+    "name": "Max Blender 3555",
+    "price": 396.9,
+    "discount_date": "2024-12-31"
+  },
+  {
+    "id": 137,
+    "name": "Electric Phone 5733",
+    "price": 239.04,
+    "discount_date": "2025-03-24"
+  },
+  {
+    "id": 138,
+    "name": "Ultra Toaster 5877",
+    "price": 362.85,
+    "discount_date": "2025-03-11"
+  },
+  {
+    "id": 139,
+    "name": "Smart Blender 4575",
+    "price": 452.96,
+    "discount_date": "2024-09-20"
+  },
+  {
+    "id": 140,
+    "name": "Smart Printer 8759",
+    "price": 306.81,
+    "discount_date": "2024-09-16"
+  },
+  {
+    "id": 141,
+    "name": "Portable Phone 8536",
+    "price": 17.14,
+    "discount_date": "2025-07-25"
+  },
+  {
+    "id": 142,
+    "name": "Mini Laptop 5941",
+    "price": 314.46,
+    "discount_date": "2024-09-30"
+  },
+  {
+    "id": 143,
+    "name": "Ultra Blender 3912",
+    "price": 275.15,
+    "discount_date": "2025-10-19"
+  },
+  {
+    "id": 144,
+    "name": "Electric Laptop 6374",
+    "price": 110.33,
+    "discount_date": "2024-11-23"
+  },
+  {
+    "id": 145,
+    "name": "Mini Speaker 9416",
+    "price": 178.35,
+    "discount_date": "2026-05-13"
+  },
+  {
+    "id": 146,
+    "name": "Eco Watch 1463",
+    "price": 431.73,
+    "discount_date": "2025-01-30"
+  },
+  {
+    "id": 147,
+    "name": "Portable Toaster 9272",
+    "price": 97.7,
+    "discount_date": "2024-05-30"
+  },
+  {
+    "id": 148,
+    "name": "Smart Laptop 3354",
+    "price": 204.68,
+    "discount_date": "2025-12-30"
+  },
+  {
+    "id": 149,
+    "name": "Smart Toaster 6105",
+    "price": 199.91,
+    "discount_date": "2025-12-15"
+  },
+  {
+    "id": 150,
+    "name": "Portable Phone 5250",
+    "price": 153.96,
+    "discount_date": "2024-07-31"
+  },
+  {
+    "id": 151,
+    "name": "Wireless Watch 7829",
+    "price": 469.38,
+    "discount_date": "2024-05-22"
+  },
+  {
+    "id": 152,
+    "name": "Wireless Blender 6238",
+    "price": 362.42,
+    "discount_date": "2025-05-11"
+  },
+  {
+    "id": 153,
+    "name": "Wireless Laptop 4220",
+    "price": 282.72,
+    "discount_date": "2024-12-29"
+  },
+  {
+    "id": 154,
+    "name": "Premium Fan 8081",
+    "price": 456.32,
+    "discount_date": "2025-08-04"
+  },
+  {
+    "id": 155,
+    "name": "Advanced Laptop 4596",
+    "price": 256.32,
+    "discount_date": "2025-04-15"
+  },
+  {
+    "id": 156,
+    "name": "Portable Toaster 1202",
+    "price": 224.3,
+    "discount_date": "2025-10-30"
+  },
+  {
+    "id": 157,
+    "name": "Eco Monitor 7340",
+    "price": 312.19,
+    "discount_date": "2024-09-25"
+  },
+  {
+    "id": 158,
+    "name": "Smart Phone 8795",
+    "price": 273.83,
+    "discount_date": "2025-09-10"
+  },
+  {
+    "id": 159,
+    "name": "Ultra Toaster 3431",
+    "price": 384.19,
+    "discount_date": "2025-06-03"
+  },
+  {
+    "id": 160,
+    "name": "Wireless Monitor 6514",
+    "price": 439.03,
+    "discount_date": "2025-12-26"
+  },
+  {
+    "id": 161,
+    "name": "Ultra Printer 5874",
+    "price": 432.12,
+    "discount_date": "2024-08-12"
+  },
+  {
+    "id": 162,
+    "name": "Electric Printer 6099",
+    "price": 307.43,
+    "discount_date": "2025-06-12"
+  },
+  {
+    "id": 163,
+    "name": "Mini Phone 4983",
+    "price": 167.84,
+    "discount_date": "2025-02-21"
+  },
+  {
+    "id": 164,
+    "name": "Electric Phone 9288",
+    "price": 389.92,
+    "discount_date": "2025-09-25"
+  },
+  {
+    "id": 165,
+    "name": "Mini Watch 7677",
+    "price": 103.35,
+    "discount_date": "2026-02-08"
+  },
+  {
+    "id": 166,
+    "name": "Smart Fan 4932",
+    "price": 25.48,
+    "discount_date": "2025-07-07"
+  },
+  {
+    "id": 167,
+    "name": "Ultra Speaker 9886",
+    "price": 358.46,
+    "discount_date": "2025-05-15"
+  },
+  {
+    "id": 168,
+    "name": "Smart Fan 1725",
+    "price": 249.47,
+    "discount_date": "2024-09-03"
+  },
+  {
+    "id": 169,
+    "name": "Portable Toaster 1050",
+    "price": 189.87,
+    "discount_date": "2024-07-31"
+  },
+  {
+    "id": 170,
+    "name": "Wireless Printer 4811",
+    "price": 281.69,
+    "discount_date": "2025-05-30"
+  },
+  {
+    "id": 171,
+    "name": "Ultra Speaker 5434",
+    "price": 393.97,
+    "discount_date": "2025-08-03"
+  },
+  {
+    "id": 172,
+    "name": "Premium Printer 5931",
+    "price": 345.18,
+    "discount_date": "2024-09-13"
+  },
+  {
+    "id": 173,
+    "name": "Eco Speaker 1157",
+    "price": 143.41,
+    "discount_date": "2025-03-14"
+  },
+  {
+    "id": 174,
+    "name": "Portable Fan 9803",
+    "price": 358.59,
+    "discount_date": "2026-04-04"
+  },
+  {
+    "id": 175,
+    "name": "Advanced Blender 3683",
+    "price": 466.07,
+    "discount_date": "2025-01-29"
+  },
+  {
+    "id": 176,
+    "name": "Advanced Phone 4016",
+    "price": 427.61,
+    "discount_date": "2026-01-11"
+  },
+  {
+    "id": 177,
+    "name": "Eco Phone 5979",
+    "price": 246.47,
+    "discount_date": "2025-03-13"
+  },
+  {
+    "id": 178,
+    "name": "Ultra Speaker 1179",
+    "price": 89.82,
+    "discount_date": "2024-07-20"
+  },
+  {
+    "id": 179,
+    "name": "Advanced Speaker 1947",
+    "price": 442.56,
+    "discount_date": "2025-08-06"
+  },
+  {
+    "id": 180,
+    "name": "Electric Monitor 7179",
+    "price": 40.2,
+    "discount_date": "2024-12-27"
+  },
+  {
+    "id": 181,
+    "name": "Smart Fan 6134",
+    "price": 210.01,
+    "discount_date": "2026-03-11"
+  },
+  {
+    "id": 182,
+    "name": "Electric Printer 8381",
+    "price": 114.49,
+    "discount_date": "2024-07-08"
+  },
+  {
+    "id": 183,
+    "name": "Eco Blender 9856",
+    "price": 132.81,
+    "discount_date": "2026-03-15"
+  },
+  {
+    "id": 184,
+    "name": "Ultra Monitor 6958",
+    "price": 66.25,
+    "discount_date": "2025-04-21"
+  },
+  {
+    "id": 185,
+    "name": "Max Blender 9314",
+    "price": 499.73,
+    "discount_date": "2024-12-08"
+  },
+  {
+    "id": 186,
+    "name": "Portable Speaker 7578",
+    "price": 166.32,
+    "discount_date": "2025-09-06"
+  },
+  {
+    "id": 187,
+    "name": "Eco Watch 8624",
+    "price": 29.74,
+    "discount_date": "2025-11-09"
+  },
+  {
+    "id": 188,
+    "name": "Smart Fan 1806",
+    "price": 290.15,
+    "discount_date": "2025-10-06"
+  },
+  {
+    "id": 189,
+    "name": "Smart Camera 5776",
+    "price": 81.01,
+    "discount_date": "2025-05-31"
+  },
+  {
+    "id": 190,
+    "name": "Smart Toaster 2273",
+    "price": 202.95,
+    "discount_date": "2024-08-08"
+  },
+  {
+    "id": 191,
+    "name": "Mini Monitor 2149",
+    "price": 454.55,
+    "discount_date": "2024-11-08"
+  },
+  {
+    "id": 192,
+    "name": "Portable Toaster 7513",
+    "price": 350.42,
+    "discount_date": "2025-01-18"
+  },
+  {
+    "id": 193,
+    "name": "Electric Monitor 2723",
+    "price": 12.91,
+    "discount_date": "2026-03-10"
+  },
+  {
+    "id": 194,
+    "name": "Ultra Toaster 5764",
+    "price": 218.34,
+    "discount_date": "2024-06-22"
+  },
+  {
+    "id": 195,
+    "name": "Advanced Fan 1869",
+    "price": 364.79,
+    "discount_date": "2024-11-03"
+  },
+  {
+    "id": 196,
+    "name": "Max Camera 2180",
+    "price": 310.59,
+    "discount_date": "2025-10-10"
+  },
+  {
+    "id": 197,
+    "name": "Advanced Speaker 8103",
+    "price": 195.12,
+    "discount_date": "2026-01-29"
+  },
+  {
+    "id": 198,
+    "name": "Max Printer 6294",
+    "price": 266.64,
+    "discount_date": "2024-11-29"
+  },
+  {
+    "id": 199,
+    "name": "Mini Toaster 5723",
+    "price": 334.13,
+    "discount_date": "2025-11-02"
+  },
+  {
+    "id": 200,
+    "name": "Ultra Phone 9948",
+    "price": 98.44,
+    "discount_date": "2025-02-23"
+  },
+  {
+    "id": 201,
+    "name": "Portable Printer 3603",
+    "price": 450.68,
+    "discount_date": "2026-01-10"
+  },
+  {
+    "id": 202,
+    "name": "Electric Blender 4833",
+    "price": 133.66,
+    "discount_date": "2025-01-09"
+  },
+  {
+    "id": 203,
+    "name": "Mini Camera 4703",
+    "price": 225.81,
+    "discount_date": "2026-04-09"
+  },
+  {
+    "id": 204,
+    "name": "Wireless Toaster 6195",
+    "price": 381.64,
+    "discount_date": "2024-10-02"
+  },
+  {
+    "id": 205,
+    "name": "Smart Phone 6820",
+    "price": 278.39,
+    "discount_date": "2025-10-03"
+  },
+  {
+    "id": 206,
+    "name": "Electric Camera 2237",
+    "price": 403.85,
+    "discount_date": "2025-01-18"
+  },
+  {
+    "id": 207,
+    "name": "Smart Phone 6661",
+    "price": 449.88,
+    "discount_date": "2026-05-15"
+  },
+  {
+    "id": 208,
+    "name": "Electric Phone 9612",
+    "price": 14.2,
+    "discount_date": "2025-10-22"
+  },
+  {
+    "id": 209,
+    "name": "Max Printer 8730",
+    "price": 123.65,
+    "discount_date": "2025-05-08"
+  },
+  {
+    "id": 210,
+    "name": "Eco Toaster 5115",
+    "price": 451.31,
+    "discount_date": "2024-09-27"
+  },
+  {
+    "id": 211,
+    "name": "Eco Watch 1509",
+    "price": 245.29,
+    "discount_date": "2025-05-11"
+  },
+  {
+    "id": 212,
+    "name": "Portable Camera 8899",
+    "price": 457.34,
+    "discount_date": "2025-12-08"
+  },
+  {
+    "id": 213,
+    "name": "Mini Fan 1893",
+    "price": 317.54,
+    "discount_date": "2025-01-29"
+  },
+  {
+    "id": 214,
+    "name": "Eco Phone 9264",
+    "price": 426.85,
+    "discount_date": "2026-05-19"
+  },
+  {
+    "id": 215,
+    "name": "Ultra Blender 6250",
+    "price": 141.91,
+    "discount_date": "2024-08-16"
+  },
+  {
+    "id": 216,
+    "name": "Eco Laptop 3865",
+    "price": 269.23,
+    "discount_date": "2025-10-11"
+  },
+  {
+    "id": 217,
+    "name": "Max Monitor 4801",
+    "price": 97.31,
+    "discount_date": "2026-05-18"
+  },
+  {
+    "id": 218,
+    "name": "Mini Fan 2458",
+    "price": 320.15,
+    "discount_date": "2026-01-14"
+  },
+  {
+    "id": 219,
+    "name": "Ultra Speaker 7369",
+    "price": 423.13,
+    "discount_date": "2025-12-20"
+  },
+  {
+    "id": 220,
+    "name": "Advanced Speaker 1388",
+    "price": 281.06,
+    "discount_date": "2024-10-31"
+  },
+  {
+    "id": 221,
+    "name": "Mini Laptop 2359",
+    "price": 251.67,
+    "discount_date": "2024-06-19"
+  },
+  {
+    "id": 222,
+    "name": "Smart Fan 9416",
+    "price": 331.32,
+    "discount_date": "2025-02-25"
+  },
+  {
+    "id": 223,
+    "name": "Smart Monitor 5472",
+    "price": 445.9,
+    "discount_date": "2026-04-28"
+  },
+  {
+    "id": 224,
+    "name": "Eco Toaster 3797",
+    "price": 307.55,
+    "discount_date": "2026-04-04"
+  },
+  {
+    "id": 225,
+    "name": "Advanced Phone 5685",
+    "price": 136.61,
+    "discount_date": "2024-05-24"
+  },
+  {
+    "id": 226,
+    "name": "Mini Toaster 3514",
+    "price": 186.82,
+    "discount_date": "2025-04-24"
+  },
+  {
+    "id": 227,
+    "name": "Smart Monitor 9694",
+    "price": 63.73,
+    "discount_date": "2025-06-25"
+  },
+  {
+    "id": 228,
+    "name": "Max Fan 4666",
+    "price": 283.48,
+    "discount_date": "2026-01-05"
+  },
+  {
+    "id": 229,
+    "name": "Eco Monitor 6763",
+    "price": 244.29,
+    "discount_date": "2024-08-23"
+  },
+  {
+    "id": 230,
+    "name": "Portable Speaker 8253",
+    "price": 493.6,
+    "discount_date": "2024-06-09"
+  },
+  {
+    "id": 231,
+    "name": "Ultra Blender 9625",
+    "price": 56.85,
+    "discount_date": "2024-12-22"
+  },
+  {
+    "id": 232,
+    "name": "Mini Fan 2731",
+    "price": 20.44,
+    "discount_date": "2026-02-27"
+  },
+  {
+    "id": 233,
+    "name": "Eco Laptop 7103",
+    "price": 344.94,
+    "discount_date": "2024-09-24"
+  },
+  {
+    "id": 234,
+    "name": "Ultra Fan 7270",
+    "price": 235.74,
+    "discount_date": "2024-09-13"
+  },
+  {
+    "id": 235,
+    "name": "Mini Blender 3249",
+    "price": 287.4,
+    "discount_date": "2024-08-14"
+  },
+  {
+    "id": 236,
+    "name": "Electric Toaster 6216",
+    "price": 94.27,
+    "discount_date": "2024-05-19"
+  },
+  {
+    "id": 237,
+    "name": "Max Phone 9090",
+    "price": 465.12,
+    "discount_date": "2024-08-03"
+  },
+  {
+    "id": 238,
+    "name": "Electric Blender 7009",
+    "price": 339.28,
+    "discount_date": "2025-10-01"
+  },
+  {
+    "id": 239,
+    "name": "Electric Blender 9087",
+    "price": 178.08,
+    "discount_date": "2024-05-22"
+  },
+  {
+    "id": 240,
+    "name": "Portable Blender 2303",
+    "price": 432.68,
+    "discount_date": "2025-05-15"
+  },
+  {
+    "id": 241,
+    "name": "Smart Camera 3441",
+    "price": 282.76,
+    "discount_date": "2025-08-01"
+  },
+  {
+    "id": 242,
+    "name": "Electric Speaker 9522",
+    "price": 423.56,
+    "discount_date": "2024-07-28"
+  },
+  {
+    "id": 243,
+    "name": "Advanced Phone 4068",
+    "price": 204.77,
+    "discount_date": "2024-07-24"
+  },
+  {
+    "id": 244,
+    "name": "Portable Blender 9199",
+    "price": 357.33,
+    "discount_date": "2024-08-20"
+  },
+  {
+    "id": 245,
+    "name": "Mini Monitor 2914",
+    "price": 176.62,
+    "discount_date": "2024-12-23"
+  },
+  {
+    "id": 246,
+    "name": "Ultra Monitor 6624",
+    "price": 229.16,
+    "discount_date": "2026-05-12"
+  },
+  {
+    "id": 247,
+    "name": "Smart Speaker 6983",
+    "price": 374.9,
+    "discount_date": "2024-10-02"
+  },
+  {
+    "id": 248,
+    "name": "Portable Blender 4926",
+    "price": 449.4,
+    "discount_date": "2025-09-21"
+  },
+  {
+    "id": 249,
+    "name": "Premium Phone 6674",
+    "price": 459.35,
+    "discount_date": "2025-11-14"
+  },
+  {
+    "id": 250,
+    "name": "Portable Watch 2000",
+    "price": 393.82,
+    "discount_date": "2024-12-04"
+  },
+  {
+    "id": 251,
+    "name": "Wireless Printer 1224",
+    "price": 225.08,
+    "discount_date": "2024-08-09"
+  },
+  {
+    "id": 252,
+    "name": "Ultra Fan 9347",
+    "price": 232.47,
+    "discount_date": "2024-08-12"
+  },
+  {
+    "id": 253,
+    "name": "Mini Phone 6117",
+    "price": 482.09,
+    "discount_date": "2025-05-25"
+  },
+  {
+    "id": 254,
+    "name": "Smart Phone 2321",
+    "price": 275.68,
+    "discount_date": "2024-08-11"
+  },
+  {
+    "id": 255,
+    "name": "Wireless Camera 4563",
+    "price": 284.38,
+    "discount_date": "2024-10-12"
+  },
+  {
+    "id": 256,
+    "name": "Electric Speaker 4613",
+    "price": 254.87,
+    "discount_date": "2024-10-31"
+  },
+  {
+    "id": 257,
+    "name": "Electric Fan 1688",
+    "price": 29.56,
+    "discount_date": "2024-12-26"
+  },
+  {
+    "id": 258,
+    "name": "Mini Phone 8952",
+    "price": 151.58,
+    "discount_date": "2024-08-02"
+  },
+  {
+    "id": 259,
+    "name": "Advanced Toaster 5823",
+    "price": 124.87,
+    "discount_date": "2024-07-24"
+  },
+  {
+    "id": 260,
+    "name": "Eco Toaster 3265",
+    "price": 446.96,
+    "discount_date": "2025-01-16"
+  },
+  {
+    "id": 261,
+    "name": "Mini Speaker 4017",
+    "price": 295.16,
+    "discount_date": "2024-10-01"
+  },
+  {
+    "id": 262,
+    "name": "Electric Blender 2074",
+    "price": 175.46,
+    "discount_date": "2026-01-12"
+  },
+  {
+    "id": 263,
+    "name": "Premium Printer 4828",
+    "price": 499.37,
+    "discount_date": "2024-12-12"
+  },
+  {
+    "id": 264,
+    "name": "Eco Monitor 8433",
+    "price": 128.04,
+    "discount_date": "2024-10-21"
+  },
+  {
+    "id": 265,
+    "name": "Smart Fan 1146",
+    "price": 219.83,
+    "discount_date": "2026-01-18"
+  },
+  {
+    "id": 266,
+    "name": "Mini Printer 5991",
+    "price": 180.53,
+    "discount_date": "2025-05-17"
+  },
+  {
+    "id": 267,
+    "name": "Mini Watch 8872",
+    "price": 216.33,
+    "discount_date": "2025-08-13"
+  },
+  {
+    "id": 268,
+    "name": "Mini Monitor 5765",
+    "price": 401.36,
+    "discount_date": "2025-04-12"
+  },
+  {
+    "id": 269,
+    "name": "Wireless Camera 6319",
+    "price": 141.94,
+    "discount_date": "2024-05-31"
+  },
+  {
+    "id": 270,
+    "name": "Portable Phone 3668",
+    "price": 467.39,
+    "discount_date": "2025-09-12"
+  },
+  {
+    "id": 271,
+    "name": "Ultra Toaster 4227",
+    "price": 345.35,
+    "discount_date": "2024-12-13"
+  },
+  {
+    "id": 272,
+    "name": "Max Toaster 3236",
+    "price": 275.34,
+    "discount_date": "2025-08-14"
+  },
+  {
+    "id": 273,
+    "name": "Advanced Speaker 4734",
+    "price": 420.04,
+    "discount_date": "2026-02-15"
+  },
+  {
+    "id": 274,
+    "name": "Max Blender 9787",
+    "price": 87.65,
+    "discount_date": "2025-04-09"
+  },
+  {
+    "id": 275,
+    "name": "Advanced Camera 5482",
+    "price": 417.87,
+    "discount_date": "2026-04-24"
+  },
+  {
+    "id": 276,
+    "name": "Eco Speaker 7217",
+    "price": 360.48,
+    "discount_date": "2025-10-17"
+  },
+  {
+    "id": 277,
+    "name": "Wireless Monitor 7412",
+    "price": 11.72,
+    "discount_date": "2025-11-19"
+  },
+  {
+    "id": 278,
+    "name": "Mini Phone 6924",
+    "price": 173.97,
+    "discount_date": "2024-05-25"
+  },
+  {
+    "id": 279,
+    "name": "Eco Speaker 4745",
+    "price": 98.62,
+    "discount_date": "2024-05-20"
+  },
+  {
+    "id": 280,
+    "name": "Wireless Laptop 4663",
+    "price": 255.34,
+    "discount_date": "2024-10-20"
+  },
+  {
+    "id": 281,
+    "name": "Ultra Laptop 3609",
+    "price": 247.61,
+    "discount_date": "2024-06-09"
+  },
+  {
+    "id": 282,
+    "name": "Ultra Speaker 6083",
+    "price": 32.99,
+    "discount_date": "2025-04-20"
+  },
+  {
+    "id": 283,
+    "name": "Ultra Watch 7877",
+    "price": 152.8,
+    "discount_date": "2024-08-22"
+  },
+  {
+    "id": 284,
+    "name": "Advanced Monitor 1339",
+    "price": 243.19,
+    "discount_date": "2024-08-19"
+  },
+  {
+    "id": 285,
+    "name": "Eco Speaker 7365",
+    "price": 198.22,
+    "discount_date": "2025-07-21"
+  },
+  {
+    "id": 286,
+    "name": "Mini Phone 5294",
+    "price": 51.42,
+    "discount_date": "2025-11-15"
+  },
+  {
+    "id": 287,
+    "name": "Smart Monitor 6646",
+    "price": 290.0,
+    "discount_date": "2026-01-12"
+  },
+  {
+    "id": 288,
+    "name": "Electric Toaster 8450",
+    "price": 436.71,
+    "discount_date": "2026-01-09"
+  },
+  {
+    "id": 289,
+    "name": "Advanced Phone 4519",
+    "price": 65.14,
+    "discount_date": "2025-04-14"
+  },
+  {
+    "id": 290,
+    "name": "Smart Monitor 8891",
+    "price": 210.98,
+    "discount_date": "2025-04-01"
+  },
+  {
+    "id": 291,
+    "name": "Premium Laptop 4004",
+    "price": 408.59,
+    "discount_date": "2025-06-14"
+  },
+  {
+    "id": 292,
+    "name": "Portable Watch 6327",
+    "price": 345.35,
+    "discount_date": "2024-11-24"
+  },
+  {
+    "id": 293,
+    "name": "Smart Blender 7487",
+    "price": 370.6,
+    "discount_date": "2025-11-20"
+  },
+  {
+    "id": 294,
+    "name": "Max Toaster 4719",
+    "price": 132.34,
+    "discount_date": "2026-03-03"
+  },
+  {
+    "id": 295,
+    "name": "Premium Printer 6292",
+    "price": 129.33,
+    "discount_date": "2026-04-09"
+  },
+  {
+    "id": 296,
+    "name": "Portable Printer 9252",
+    "price": 378.67,
+    "discount_date": "2026-04-25"
+  },
+  {
+    "id": 297,
+    "name": "Advanced Monitor 2636",
+    "price": 257.29,
+    "discount_date": "2025-05-15"
+  },
+  {
+    "id": 298,
+    "name": "Advanced Speaker 1058",
+    "price": 146.38,
+    "discount_date": "2025-12-22"
+  },
+  {
+    "id": 299,
+    "name": "Wireless Blender 1990",
+    "price": 217.36,
+    "discount_date": "2025-08-27"
+  },
+  {
+    "id": 300,
+    "name": "Advanced Monitor 7668",
+    "price": 367.18,
+    "discount_date": "2024-08-12"
+  },
+  {
+    "id": 301,
+    "name": "Mini Phone 2104",
+    "price": 57.81,
+    "discount_date": "2025-09-11"
+  },
+  {
+    "id": 302,
+    "name": "Advanced Blender 8670",
+    "price": 89.97,
+    "discount_date": "2026-02-02"
+  },
+  {
+    "id": 303,
+    "name": "Premium Fan 1419",
+    "price": 251.97,
+    "discount_date": "2026-04-02"
+  },
+  {
+    "id": 304,
+    "name": "Electric Phone 5792",
+    "price": 175.63,
+    "discount_date": "2024-05-22"
+  },
+  {
+    "id": 305,
+    "name": "Max Watch 8157",
+    "price": 80.15,
+    "discount_date": "2025-12-25"
+  },
+  {
+    "id": 306,
+    "name": "Advanced Printer 6808",
+    "price": 37.52,
+    "discount_date": "2024-10-04"
+  },
+  {
+    "id": 307,
+    "name": "Max Toaster 7168",
+    "price": 143.87,
+    "discount_date": "2025-02-06"
+  },
+  {
+    "id": 308,
+    "name": "Max Fan 6177",
+    "price": 314.3,
+    "discount_date": "2024-11-02"
+  },
+  {
+    "id": 309,
+    "name": "Eco Phone 2877",
+    "price": 313.9,
+    "discount_date": "2024-11-19"
+  },
+  {
+    "id": 310,
+    "name": "Portable Speaker 6796",
+    "price": 154.87,
+    "discount_date": "2025-12-07"
+  },
+  {
+    "id": 311,
+    "name": "Electric Monitor 4995",
+    "price": 410.58,
+    "discount_date": "2025-06-17"
+  },
+  {
+    "id": 312,
+    "name": "Smart Monitor 5623",
+    "price": 13.29,
+    "discount_date": "2025-06-23"
+  },
+  {
+    "id": 313,
+    "name": "Advanced Toaster 7056",
+    "price": 283.21,
+    "discount_date": "2026-03-18"
+  },
+  {
+    "id": 314,
+    "name": "Portable Speaker 6339",
+    "price": 385.7,
+    "discount_date": "2024-12-09"
+  },
+  {
+    "id": 315,
+    "name": "Premium Printer 3880",
+    "price": 239.73,
+    "discount_date": "2024-06-26"
+  },
+  {
+    "id": 316,
+    "name": "Smart Toaster 6329",
+    "price": 200.81,
+    "discount_date": "2024-11-19"
+  },
+  {
+    "id": 317,
+    "name": "Mini Watch 9103",
+    "price": 275.19,
+    "discount_date": "2024-10-15"
+  },
+  {
+    "id": 318,
+    "name": "Electric Laptop 9791",
+    "price": 411.98,
+    "discount_date": "2024-11-05"
+  },
+  {
+    "id": 319,
+    "name": "Electric Speaker 1052",
+    "price": 386.9,
+    "discount_date": "2025-11-01"
+  },
+  {
+    "id": 320,
+    "name": "Premium Fan 9310",
+    "price": 13.96,
+    "discount_date": "2025-02-25"
+  },
+  {
+    "id": 321,
+    "name": "Max Blender 4572",
+    "price": 25.3,
+    "discount_date": "2024-10-03"
+  },
+  {
+    "id": 322,
+    "name": "Portable Fan 5966",
+    "price": 31.9,
+    "discount_date": "2024-09-13"
+  },
+  {
+    "id": 323,
+    "name": "Advanced Fan 1763",
+    "price": 389.19,
+    "discount_date": "2026-03-27"
+  },
+  {
+    "id": 324,
+    "name": "Max Toaster 1587",
+    "price": 409.06,
+    "discount_date": "2025-10-09"
+  },
+  {
+    "id": 325,
+    "name": "Portable Phone 3470",
+    "price": 182.75,
+    "discount_date": "2025-02-17"
+  },
+  {
+    "id": 326,
+    "name": "Electric Printer 1719",
+    "price": 446.06,
+    "discount_date": "2025-04-29"
+  },
+  {
+    "id": 327,
+    "name": "Smart Blender 1045",
+    "price": 102.56,
+    "discount_date": "2024-08-30"
+  },
+  {
+    "id": 328,
+    "name": "Smart Speaker 8955",
+    "price": 328.45,
+    "discount_date": "2026-05-12"
+  },
+  {
+    "id": 329,
+    "name": "Electric Toaster 6247",
+    "price": 468.87,
+    "discount_date": "2025-03-23"
+  },
+  {
+    "id": 330,
+    "name": "Smart Speaker 5670",
+    "price": 306.62,
+    "discount_date": "2026-04-26"
+  },
+  {
+    "id": 331,
+    "name": "Electric Camera 4819",
+    "price": 189.39,
+    "discount_date": "2024-06-18"
+  },
+  {
+    "id": 332,
+    "name": "Mini Laptop 3298",
+    "price": 118.48,
+    "discount_date": "2025-07-10"
+  },
+  {
+    "id": 333,
+    "name": "Max Watch 2279",
+    "price": 466.53,
+    "discount_date": "2026-04-27"
+  },
+  {
+    "id": 334,
+    "name": "Ultra Blender 1931",
+    "price": 472.17,
+    "discount_date": "2025-12-20"
+  },
+  {
+    "id": 335,
+    "name": "Premium Fan 1465",
+    "price": 28.41,
+    "discount_date": "2025-12-13"
+  },
+  {
+    "id": 336,
+    "name": "Max Monitor 9210",
+    "price": 42.1,
+    "discount_date": "2025-02-22"
+  },
+  {
+    "id": 337,
+    "name": "Premium Toaster 1624",
+    "price": 85.51,
+    "discount_date": "2026-05-03"
+  },
+  {
+    "id": 338,
+    "name": "Portable Toaster 2320",
+    "price": 218.02,
+    "discount_date": "2024-07-04"
+  },
+  {
+    "id": 339,
+    "name": "Portable Speaker 7796",
+    "price": 492.15,
+    "discount_date": "2024-07-04"
+  },
+  {
+    "id": 340,
+    "name": "Eco Phone 3808",
+    "price": 132.33,
+    "discount_date": "2024-10-26"
+  },
+  {
+    "id": 341,
+    "name": "Wireless Printer 1668",
+    "price": 417.13,
+    "discount_date": "2024-07-04"
+  },
+  {
+    "id": 342,
+    "name": "Smart Camera 1426",
+    "price": 253.99,
+    "discount_date": "2025-03-16"
+  },
+  {
+    "id": 343,
+    "name": "Smart Phone 3165",
+    "price": 36.78,
+    "discount_date": "2025-12-24"
+  },
+  {
+    "id": 344,
+    "name": "Mini Laptop 8361",
+    "price": 156.88,
+    "discount_date": "2025-12-15"
+  },
+  {
+    "id": 345,
+    "name": "Premium Blender 5104",
+    "price": 183.04,
+    "discount_date": "2025-09-15"
+  },
+  {
+    "id": 346,
+    "name": "Advanced Fan 5900",
+    "price": 95.82,
+    "discount_date": "2025-07-15"
+  },
+  {
+    "id": 347,
+    "name": "Eco Toaster 6531",
+    "price": 41.07,
+    "discount_date": "2026-05-14"
+  },
+  {
+    "id": 348,
+    "name": "Smart Phone 3476",
+    "price": 78.92,
+    "discount_date": "2026-02-20"
+  },
+  {
+    "id": 349,
+    "name": "Advanced Watch 9964",
+    "price": 131.42,
+    "discount_date": "2025-11-27"
+  },
+  {
+    "id": 350,
+    "name": "Mini Fan 9415",
+    "price": 439.51,
+    "discount_date": "2024-09-07"
+  },
+  {
+    "id": 351,
+    "name": "Max Toaster 4277",
+    "price": 204.36,
+    "discount_date": "2024-07-25"
+  },
+  {
+    "id": 352,
+    "name": "Smart Printer 1241",
+    "price": 431.26,
+    "discount_date": "2024-06-18"
+  },
+  {
+    "id": 353,
+    "name": "Smart Toaster 8365",
+    "price": 188.21,
+    "discount_date": "2024-11-09"
+  },
+  {
+    "id": 354,
+    "name": "Portable Watch 2451",
+    "price": 454.5,
+    "discount_date": "2026-04-14"
+  },
+  {
+    "id": 355,
+    "name": "Electric Fan 1163",
+    "price": 158.03,
+    "discount_date": "2025-06-28"
+  },
+  {
+    "id": 356,
+    "name": "Mini Monitor 2242",
+    "price": 341.6,
+    "discount_date": "2025-11-10"
+  },
+  {
+    "id": 357,
+    "name": "Wireless Printer 3725",
+    "price": 121.85,
+    "discount_date": "2024-11-15"
+  },
+  {
+    "id": 358,
+    "name": "Portable Blender 3376",
+    "price": 235.34,
+    "discount_date": "2024-09-24"
+  },
+  {
+    "id": 359,
+    "name": "Mini Speaker 5291",
+    "price": 44.63,
+    "discount_date": "2026-02-24"
+  },
+  {
+    "id": 360,
+    "name": "Mini Speaker 8006",
+    "price": 318.01,
+    "discount_date": "2025-03-11"
+  },
+  {
+    "id": 361,
+    "name": "Max Blender 3791",
+    "price": 330.6,
+    "discount_date": "2024-10-22"
+  },
+  {
+    "id": 362,
+    "name": "Eco Watch 2633",
+    "price": 15.92,
+    "discount_date": "2025-08-14"
+  },
+  {
+    "id": 363,
+    "name": "Eco Laptop 8064",
+    "price": 170.64,
+    "discount_date": "2024-06-15"
+  },
+  {
+    "id": 364,
+    "name": "Portable Fan 1992",
+    "price": 274.87,
+    "discount_date": "2025-06-22"
+  },
+  {
+    "id": 365,
+    "name": "Premium Fan 7641",
+    "price": 151.17,
+    "discount_date": "2025-06-29"
+  },
+  {
+    "id": 366,
+    "name": "Advanced Camera 5411",
+    "price": 424.67,
+    "discount_date": "2025-07-19"
+  },
+  {
+    "id": 367,
+    "name": "Eco Toaster 7901",
+    "price": 63.57,
+    "discount_date": "2025-02-17"
+  },
+  {
+    "id": 368,
+    "name": "Portable Toaster 5878",
+    "price": 417.5,
+    "discount_date": "2025-01-27"
+  },
+  {
+    "id": 369,
+    "name": "Max Watch 4042",
+    "price": 152.36,
+    "discount_date": "2025-07-15"
+  },
+  {
+    "id": 370,
+    "name": "Max Phone 3720",
+    "price": 36.67,
+    "discount_date": "2026-03-21"
+  },
+  {
+    "id": 371,
+    "name": "Smart Watch 4294",
+    "price": 385.23,
+    "discount_date": "2026-01-06"
+  },
+  {
+    "id": 372,
+    "name": "Premium Monitor 9339",
+    "price": 54.39,
+    "discount_date": "2024-07-08"
+  },
+  {
+    "id": 373,
+    "name": "Smart Toaster 7287",
+    "price": 356.85,
+    "discount_date": "2024-08-19"
+  },
+  {
+    "id": 374,
+    "name": "Max Watch 5807",
+    "price": 425.41,
+    "discount_date": "2026-03-29"
+  },
+  {
+    "id": 375,
+    "name": "Smart Speaker 1650",
+    "price": 295.85,
+    "discount_date": "2025-04-15"
+  },
+  {
+    "id": 376,
+    "name": "Smart Phone 3591",
+    "price": 458.07,
+    "discount_date": "2025-01-03"
+  },
+  {
+    "id": 377,
+    "name": "Advanced Speaker 6418",
+    "price": 225.87,
+    "discount_date": "2024-06-13"
+  },
+  {
+    "id": 378,
+    "name": "Mini Laptop 5060",
+    "price": 290.48,
+    "discount_date": "2025-12-17"
+  },
+  {
+    "id": 379,
+    "name": "Smart Phone 3471",
+    "price": 443.07,
+    "discount_date": "2024-07-26"
+  },
+  {
+    "id": 380,
+    "name": "Mini Phone 5575",
+    "price": 152.75,
+    "discount_date": "2025-05-06"
+  },
+  {
+    "id": 381,
+    "name": "Portable Toaster 5572",
+    "price": 53.31,
+    "discount_date": "2025-06-10"
+  },
+  {
+    "id": 382,
+    "name": "Premium Fan 8423",
+    "price": 75.22,
+    "discount_date": "2025-09-25"
+  },
+  {
+    "id": 383,
+    "name": "Eco Speaker 1171",
+    "price": 143.4,
+    "discount_date": "2024-09-14"
+  },
+  {
+    "id": 384,
+    "name": "Wireless Speaker 3090",
+    "price": 183.81,
+    "discount_date": "2026-04-15"
+  },
+  {
+    "id": 385,
+    "name": "Portable Phone 3461",
+    "price": 250.95,
+    "discount_date": "2026-05-17"
+  },
+  {
+    "id": 386,
+    "name": "Smart Fan 1151",
+    "price": 95.32,
+    "discount_date": "2025-05-03"
+  },
+  {
+    "id": 387,
+    "name": "Smart Phone 4546",
+    "price": 259.36,
+    "discount_date": "2026-01-15"
+  },
+  {
+    "id": 388,
+    "name": "Ultra Phone 8584",
+    "price": 366.8,
+    "discount_date": "2026-03-21"
+  },
+  {
+    "id": 389,
+    "name": "Advanced Blender 6614",
+    "price": 309.13,
+    "discount_date": "2024-09-17"
+  },
+  {
+    "id": 390,
+    "name": "Ultra Toaster 3020",
+    "price": 293.48,
+    "discount_date": "2025-07-03"
+  },
+  {
+    "id": 391,
+    "name": "Max Camera 9018",
+    "price": 378.65,
+    "discount_date": "2025-05-12"
+  },
+  {
+    "id": 392,
+    "name": "Portable Speaker 3720",
+    "price": 194.72,
+    "discount_date": "2026-03-21"
+  },
+  {
+    "id": 393,
+    "name": "Mini Camera 3283",
+    "price": 247.62,
+    "discount_date": "2026-02-23"
+  },
+  {
+    "id": 394,
+    "name": "Mini Blender 8081",
+    "price": 281.56,
+    "discount_date": "2026-04-06"
+  },
+  {
+    "id": 395,
+    "name": "Electric Toaster 5294",
+    "price": 406.29,
+    "discount_date": "2024-10-30"
+  },
+  {
+    "id": 396,
+    "name": "Smart Speaker 3908",
+    "price": 145.93,
+    "discount_date": "2025-11-08"
+  },
+  {
+    "id": 397,
+    "name": "Advanced Fan 9352",
+    "price": 326.66,
+    "discount_date": "2025-02-10"
+  },
+  {
+    "id": 398,
+    "name": "Electric Laptop 1483",
+    "price": 231.96,
+    "discount_date": "2026-01-21"
+  },
+  {
+    "id": 399,
+    "name": "Mini Speaker 8745",
+    "price": 429.11,
+    "discount_date": "2024-12-26"
+  },
+  {
+    "id": 400,
+    "name": "Eco Printer 1813",
+    "price": 481.55,
+    "discount_date": "2025-03-10"
+  },
+  {
+    "id": 401,
+    "name": "Eco Blender 8532",
+    "price": 469.87,
+    "discount_date": "2025-05-08"
+  },
+  {
+    "id": 402,
+    "name": "Electric Camera 8920",
+    "price": 117.74,
+    "discount_date": "2024-11-27"
+  },
+  {
+    "id": 403,
+    "name": "Advanced Speaker 3579",
+    "price": 393.53,
+    "discount_date": "2025-02-23"
+  },
+  {
+    "id": 404,
+    "name": "Premium Laptop 9240",
+    "price": 219.57,
+    "discount_date": "2024-08-24"
+  },
+  {
+    "id": 405,
+    "name": "Portable Toaster 1818",
+    "price": 392.84,
+    "discount_date": "2025-04-08"
+  },
+  {
+    "id": 406,
+    "name": "Electric Phone 3259",
+    "price": 466.3,
+    "discount_date": "2024-10-23"
+  },
+  {
+    "id": 407,
+    "name": "Premium Speaker 1604",
+    "price": 462.36,
+    "discount_date": "2024-12-16"
+  },
+  {
+    "id": 408,
+    "name": "Premium Monitor 5468",
+    "price": 354.8,
+    "discount_date": "2024-10-21"
+  },
+  {
+    "id": 409,
+    "name": "Electric Blender 3467",
+    "price": 427.03,
+    "discount_date": "2024-08-01"
+  },
+  {
+    "id": 410,
+    "name": "Electric Laptop 1916",
+    "price": 269.31,
+    "discount_date": "2024-07-19"
+  },
+  {
+    "id": 411,
+    "name": "Eco Speaker 6702",
+    "price": 442.12,
+    "discount_date": "2025-12-02"
+  },
+  {
+    "id": 412,
+    "name": "Wireless Speaker 3301",
+    "price": 415.43,
+    "discount_date": "2026-03-13"
+  },
+  {
+    "id": 413,
+    "name": "Max Printer 6578",
+    "price": 164.84,
+    "discount_date": "2026-03-20"
+  },
+  {
+    "id": 414,
+    "name": "Electric Monitor 8064",
+    "price": 421.07,
+    "discount_date": "2026-04-26"
+  },
+  {
+    "id": 415,
+    "name": "Advanced Toaster 1262",
+    "price": 229.06,
+    "discount_date": "2025-11-15"
+  },
+  {
+    "id": 416,
+    "name": "Mini Phone 6930",
+    "price": 359.27,
+    "discount_date": "2025-10-21"
+  },
+  {
+    "id": 417,
+    "name": "Portable Phone 1079",
+    "price": 112.79,
+    "discount_date": "2024-12-03"
+  },
+  {
+    "id": 418,
+    "name": "Mini Toaster 7011",
+    "price": 192.83,
+    "discount_date": "2026-03-24"
+  },
+  {
+    "id": 419,
+    "name": "Wireless Laptop 7074",
+    "price": 474.52,
+    "discount_date": "2026-02-23"
+  },
+  {
+    "id": 420,
+    "name": "Portable Camera 1305",
+    "price": 381.14,
+    "discount_date": "2025-04-05"
+  },
+  {
+    "id": 421,
+    "name": "Mini Camera 6058",
+    "price": 229.17,
+    "discount_date": "2025-07-17"
+  },
+  {
+    "id": 422,
+    "name": "Portable Laptop 5118",
+    "price": 135.67,
+    "discount_date": "2025-01-12"
+  },
+  {
+    "id": 423,
+    "name": "Electric Fan 8744",
+    "price": 338.87,
+    "discount_date": "2026-04-11"
+  },
+  {
+    "id": 424,
+    "name": "Eco Toaster 3093",
+    "price": 342.74,
+    "discount_date": "2025-07-12"
+  },
+  {
+    "id": 425,
+    "name": "Ultra Speaker 9036",
+    "price": 348.04,
+    "discount_date": "2025-11-28"
+  },
+  {
+    "id": 426,
+    "name": "Smart Laptop 4135",
+    "price": 498.17,
+    "discount_date": "2025-05-26"
+  },
+  {
+    "id": 427,
+    "name": "Mini Watch 1417",
+    "price": 269.21,
+    "discount_date": "2026-02-23"
+  },
+  {
+    "id": 428,
+    "name": "Advanced Monitor 7753",
+    "price": 391.53,
+    "discount_date": "2024-08-01"
+  },
+  {
+    "id": 429,
+    "name": "Ultra Camera 1793",
+    "price": 464.39,
+    "discount_date": "2024-10-24"
+  },
+  {
+    "id": 430,
+    "name": "Wireless Watch 2578",
+    "price": 495.35,
+    "discount_date": "2025-10-11"
+  },
+  {
+    "id": 431,
+    "name": "Eco Toaster 9033",
+    "price": 84.5,
+    "discount_date": "2024-06-16"
+  },
+  {
+    "id": 432,
+    "name": "Portable Camera 2177",
+    "price": 131.61,
+    "discount_date": "2025-09-05"
+  },
+  {
+    "id": 433,
+    "name": "Electric Toaster 5442",
+    "price": 49.28,
+    "discount_date": "2024-07-26"
+  },
+  {
+    "id": 434,
+    "name": "Ultra Phone 5442",
+    "price": 65.3,
+    "discount_date": "2025-06-13"
+  },
+  {
+    "id": 435,
+    "name": "Mini Toaster 3411",
+    "price": 374.04,
+    "discount_date": "2025-06-23"
+  },
+  {
+    "id": 436,
+    "name": "Wireless Monitor 8110",
+    "price": 489.63,
+    "discount_date": "2026-01-17"
+  },
+  {
+    "id": 437,
+    "name": "Premium Watch 9510",
+    "price": 349.4,
+    "discount_date": "2025-11-17"
+  },
+  {
+    "id": 438,
+    "name": "Mini Camera 6285",
+    "price": 162.76,
+    "discount_date": "2026-02-18"
+  },
+  {
+    "id": 439,
+    "name": "Max Camera 4347",
+    "price": 24.47,
+    "discount_date": "2024-07-19"
+  },
+  {
+    "id": 440,
+    "name": "Ultra Monitor 3683",
+    "price": 193.56,
+    "discount_date": "2026-02-13"
+  },
+  {
+    "id": 441,
+    "name": "Premium Printer 3348",
+    "price": 75.76,
+    "discount_date": "2024-12-29"
+  },
+  {
+    "id": 442,
+    "name": "Electric Fan 3168",
+    "price": 286.84,
+    "discount_date": "2024-08-17"
+  },
+  {
+    "id": 443,
+    "name": "Wireless Monitor 5388",
+    "price": 397.3,
+    "discount_date": "2024-12-16"
+  },
+  {
+    "id": 444,
+    "name": "Max Monitor 2083",
+    "price": 442.06,
+    "discount_date": "2025-08-14"
+  },
+  {
+    "id": 445,
+    "name": "Smart Printer 8072",
+    "price": 361.82,
+    "discount_date": "2024-08-19"
+  },
+  {
+    "id": 446,
+    "name": "Premium Laptop 6169",
+    "price": 212.23,
+    "discount_date": "2025-09-20"
+  },
+  {
+    "id": 447,
+    "name": "Wireless Printer 6900",
+    "price": 496.98,
+    "discount_date": "2024-07-11"
+  },
+  {
+    "id": 448,
+    "name": "Wireless Blender 8690",
+    "price": 357.57,
+    "discount_date": "2025-01-16"
+  },
+  {
+    "id": 449,
+    "name": "Ultra Laptop 8697",
+    "price": 321.66,
+    "discount_date": "2024-06-18"
+  },
+  {
+    "id": 450,
+    "name": "Portable Speaker 4741",
+    "price": 288.18,
+    "discount_date": "2026-04-12"
+  },
+  {
+    "id": 451,
+    "name": "Advanced Printer 2387",
+    "price": 61.67,
+    "discount_date": "2026-05-13"
+  },
+  {
+    "id": 452,
+    "name": "Premium Fan 3363",
+    "price": 454.31,
+    "discount_date": "2024-10-23"
+  },
+  {
+    "id": 453,
+    "name": "Electric Monitor 2164",
+    "price": 301.11,
+    "discount_date": "2025-05-15"
+  },
+  {
+    "id": 454,
+    "name": "Advanced Fan 3082",
+    "price": 371.95,
+    "discount_date": "2024-10-15"
+  },
+  {
+    "id": 455,
+    "name": "Ultra Watch 5308",
+    "price": 485.88,
+    "discount_date": "2025-10-06"
+  },
+  {
+    "id": 456,
+    "name": "Portable Speaker 9973",
+    "price": 121.33,
+    "discount_date": "2025-12-20"
+  },
+  {
+    "id": 457,
+    "name": "Mini Blender 9971",
+    "price": 407.15,
+    "discount_date": "2024-12-09"
+  },
+  {
+    "id": 458,
+    "name": "Premium Watch 2921",
+    "price": 27.96,
+    "discount_date": "2025-07-07"
+  },
+  {
+    "id": 459,
+    "name": "Advanced Speaker 4380",
+    "price": 118.71,
+    "discount_date": "2024-06-07"
+  },
+  {
+    "id": 460,
+    "name": "Wireless Fan 7457",
+    "price": 92.66,
+    "discount_date": "2024-07-22"
+  },
+  {
+    "id": 461,
+    "name": "Electric Laptop 3023",
+    "price": 311.51,
+    "discount_date": "2025-07-07"
+  },
+  {
+    "id": 462,
+    "name": "Mini Laptop 1224",
+    "price": 255.74,
+    "discount_date": "2026-05-09"
+  },
+  {
+    "id": 463,
+    "name": "Smart Blender 6165",
+    "price": 103.41,
+    "discount_date": "2025-02-06"
+  },
+  {
+    "id": 464,
+    "name": "Portable Blender 6014",
+    "price": 49.38,
+    "discount_date": "2026-03-20"
+  },
+  {
+    "id": 465,
+    "name": "Smart Fan 7786",
+    "price": 347.71,
+    "discount_date": "2025-04-03"
+  },
+  {
+    "id": 466,
+    "name": "Electric Watch 5593",
+    "price": 16.59,
+    "discount_date": "2024-07-08"
+  },
+  {
+    "id": 467,
+    "name": "Smart Phone 4729",
+    "price": 181.55,
+    "discount_date": "2026-02-20"
+  },
+  {
+    "id": 468,
+    "name": "Eco Camera 7698",
+    "price": 483.2,
+    "discount_date": "2025-02-27"
+  },
+  {
+    "id": 469,
+    "name": "Advanced Blender 1898",
+    "price": 460.32,
+    "discount_date": "2026-04-06"
+  },
+  {
+    "id": 470,
+    "name": "Ultra Printer 6496",
+    "price": 487.48,
+    "discount_date": "2025-04-25"
+  },
+  {
+    "id": 471,
+    "name": "Eco Camera 1151",
+    "price": 95.63,
+    "discount_date": "2026-03-17"
+  },
+  {
+    "id": 472,
+    "name": "Wireless Phone 8331",
+    "price": 10.28,
+    "discount_date": "2025-04-25"
+  },
+  {
+    "id": 473,
+    "name": "Electric Watch 5291",
+    "price": 347.57,
+    "discount_date": "2024-06-21"
+  },
+  {
+    "id": 474,
+    "name": "Wireless Phone 8486",
+    "price": 497.85,
+    "discount_date": "2024-07-03"
+  },
+  {
+    "id": 475,
+    "name": "Smart Phone 6806",
+    "price": 53.41,
+    "discount_date": "2024-09-25"
+  },
+  {
+    "id": 476,
+    "name": "Advanced Camera 9934",
+    "price": 278.01,
+    "discount_date": "2025-10-04"
+  },
+  {
+    "id": 477,
+    "name": "Premium Toaster 8707",
+    "price": 241.98,
+    "discount_date": "2025-08-13"
+  },
+  {
+    "id": 478,
+    "name": "Portable Camera 3419",
+    "price": 322.29,
+    "discount_date": "2024-07-09"
+  },
+  {
+    "id": 479,
+    "name": "Advanced Phone 2920",
+    "price": 415.07,
+    "discount_date": "2024-12-23"
+  },
+  {
+    "id": 480,
+    "name": "Mini Phone 2589",
+    "price": 443.04,
+    "discount_date": "2025-02-19"
+  },
+  {
+    "id": 481,
+    "name": "Max Camera 9813",
+    "price": 449.57,
+    "discount_date": "2024-07-06"
+  },
+  {
+    "id": 482,
+    "name": "Premium Printer 9367",
+    "price": 392.65,
+    "discount_date": "2025-05-05"
+  },
+  {
+    "id": 483,
+    "name": "Wireless Fan 5168",
+    "price": 387.26,
+    "discount_date": "2024-07-09"
+  },
+  {
+    "id": 484,
+    "name": "Ultra Watch 1927",
+    "price": 20.91,
+    "discount_date": "2026-01-23"
+  },
+  {
+    "id": 485,
+    "name": "Max Speaker 1341",
+    "price": 119.33,
+    "discount_date": "2025-10-04"
+  },
+  {
+    "id": 486,
+    "name": "Mini Monitor 4746",
+    "price": 98.2,
+    "discount_date": "2025-01-26"
+  },
+  {
+    "id": 487,
+    "name": "Portable Phone 5619",
+    "price": 205.03,
+    "discount_date": "2026-04-08"
+  },
+  {
+    "id": 488,
+    "name": "Eco Speaker 1350",
+    "price": 75.71,
+    "discount_date": "2025-06-05"
+  },
+  {
+    "id": 489,
+    "name": "Eco Speaker 2438",
+    "price": 387.89,
+    "discount_date": "2024-11-25"
+  },
+  {
+    "id": 490,
+    "name": "Wireless Laptop 1563",
+    "price": 279.81,
+    "discount_date": "2024-09-06"
+  },
+  {
+    "id": 491,
+    "name": "Mini Speaker 1744",
+    "price": 197.51,
+    "discount_date": "2025-01-01"
+  },
+  {
+    "id": 492,
+    "name": "Premium Printer 4079",
+    "price": 99.26,
+    "discount_date": "2025-12-21"
+  },
+  {
+    "id": 493,
+    "name": "Max Speaker 7048",
+    "price": 124.77,
+    "discount_date": "2026-04-05"
+  },
+  {
+    "id": 494,
+    "name": "Smart Toaster 8539",
+    "price": 258.35,
+    "discount_date": "2024-09-28"
+  },
+  {
+    "id": 495,
+    "name": "Mini Toaster 6617",
+    "price": 167.78,
+    "discount_date": "2025-02-08"
+  },
+  {
+    "id": 496,
+    "name": "Max Speaker 8175",
+    "price": 68.02,
+    "discount_date": "2024-12-11"
+  },
+  {
+    "id": 497,
+    "name": "Max Watch 1196",
+    "price": 424.64,
+    "discount_date": "2024-10-06"
+  },
+  {
+    "id": 498,
+    "name": "Advanced Toaster 5101",
+    "price": 321.9,
+    "discount_date": "2025-08-22"
+  },
+  {
+    "id": 499,
+    "name": "Ultra Fan 8890",
+    "price": 254.39,
+    "discount_date": "2025-05-04"
+  },
+  {
+    "id": 500,
+    "name": "Max Phone 6457",
+    "price": 364.71,
+    "discount_date": "2025-02-18"
+  },
+  {
+    "id": 501,
+    "name": "Max Monitor 6654",
+    "price": 398.76,
+    "discount_date": "2025-12-30"
+  },
+  {
+    "id": 502,
+    "name": "Wireless Blender 1951",
+    "price": 179.81,
+    "discount_date": "2025-01-04"
+  },
+  {
+    "id": 503,
+    "name": "Max Laptop 7761",
+    "price": 48.47,
+    "discount_date": "2025-10-26"
+  },
+  {
+    "id": 504,
+    "name": "Eco Printer 7663",
+    "price": 405.5,
+    "discount_date": "2026-03-24"
+  },
+  {
+    "id": 505,
+    "name": "Premium Laptop 3795",
+    "price": 106.58,
+    "discount_date": "2025-11-10"
+  },
+  {
+    "id": 506,
+    "name": "Smart Printer 3012",
+    "price": 342.36,
+    "discount_date": "2025-07-06"
+  },
+  {
+    "id": 507,
+    "name": "Wireless Printer 3024",
+    "price": 120.48,
+    "discount_date": "2024-09-19"
+  },
+  {
+    "id": 508,
+    "name": "Electric Phone 5851",
+    "price": 118.07,
+    "discount_date": "2025-04-17"
+  },
+  {
+    "id": 509,
+    "name": "Smart Laptop 2632",
+    "price": 184.77,
+    "discount_date": "2024-10-15"
+  },
+  {
+    "id": 510,
+    "name": "Ultra Blender 4184",
+    "price": 432.77,
+    "discount_date": "2024-11-12"
+  },
+  {
+    "id": 511,
+    "name": "Electric Laptop 4408",
+    "price": 314.15,
+    "discount_date": "2024-09-08"
+  },
+  {
+    "id": 512,
+    "name": "Premium Speaker 7727",
+    "price": 85.49,
+    "discount_date": "2025-02-20"
+  },
+  {
+    "id": 513,
+    "name": "Ultra Fan 3189",
+    "price": 86.97,
+    "discount_date": "2024-10-16"
+  },
+  {
+    "id": 514,
+    "name": "Smart Blender 9937",
+    "price": 39.13,
+    "discount_date": "2024-12-30"
+  },
+  {
+    "id": 515,
+    "name": "Max Speaker 9370",
+    "price": 337.62,
+    "discount_date": "2025-03-27"
+  },
+  {
+    "id": 516,
+    "name": "Ultra Printer 8104",
+    "price": 67.28,
+    "discount_date": "2026-05-03"
+  },
+  {
+    "id": 517,
+    "name": "Premium Printer 3228",
+    "price": 127.41,
+    "discount_date": "2024-07-27"
+  },
+  {
+    "id": 518,
+    "name": "Ultra Blender 3910",
+    "price": 315.14,
+    "discount_date": "2025-01-13"
+  },
+  {
+    "id": 519,
+    "name": "Electric Camera 7054",
+    "price": 370.94,
+    "discount_date": "2024-11-06"
+  },
+  {
+    "id": 520,
+    "name": "Max Printer 5738",
+    "price": 208.67,
+    "discount_date": "2025-11-06"
+  },
+  {
+    "id": 521,
+    "name": "Portable Toaster 7217",
+    "price": 252.45,
+    "discount_date": "2024-06-23"
+  },
+  {
+    "id": 522,
+    "name": "Advanced Phone 4067",
+    "price": 228.67,
+    "discount_date": "2025-09-03"
+  },
+  {
+    "id": 523,
+    "name": "Electric Monitor 6604",
+    "price": 133.89,
+    "discount_date": "2024-06-27"
+  },
+  {
+    "id": 524,
+    "name": "Advanced Laptop 2784",
+    "price": 187.05,
+    "discount_date": "2025-03-29"
+  },
+  {
+    "id": 525,
+    "name": "Premium Speaker 8642",
+    "price": 32.24,
+    "discount_date": "2024-10-05"
+  },
+  {
+    "id": 526,
+    "name": "Mini Fan 7450",
+    "price": 108.22,
+    "discount_date": "2024-09-02"
+  },
+  {
+    "id": 527,
+    "name": "Electric Fan 2852",
+    "price": 113.53,
+    "discount_date": "2025-08-04"
+  },
+  {
+    "id": 528,
+    "name": "Premium Fan 8953",
+    "price": 426.28,
+    "discount_date": "2025-02-12"
+  },
+  {
+    "id": 529,
+    "name": "Advanced Monitor 4127",
+    "price": 152.51,
+    "discount_date": "2026-03-06"
+  },
+  {
+    "id": 530,
+    "name": "Smart Speaker 4815",
+    "price": 335.4,
+    "discount_date": "2025-07-27"
+  },
+  {
+    "id": 531,
+    "name": "Wireless Watch 9455",
+    "price": 180.44,
+    "discount_date": "2024-07-23"
+  },
+  {
+    "id": 532,
+    "name": "Mini Monitor 3286",
+    "price": 403.09,
+    "discount_date": "2026-03-15"
+  },
+  {
+    "id": 533,
+    "name": "Electric Phone 2125",
+    "price": 362.46,
+    "discount_date": "2026-05-11"
+  },
+  {
+    "id": 534,
+    "name": "Portable Printer 7208",
+    "price": 289.67,
+    "discount_date": "2024-11-14"
+  },
+  {
+    "id": 535,
+    "name": "Max Speaker 2251",
+    "price": 411.49,
+    "discount_date": "2026-02-27"
+  },
+  {
+    "id": 536,
+    "name": "Ultra Watch 7983",
+    "price": 81.52,
+    "discount_date": "2025-09-08"
+  },
+  {
+    "id": 537,
+    "name": "Premium Speaker 9347",
+    "price": 255.01,
+    "discount_date": "2024-12-23"
+  },
+  {
+    "id": 538,
+    "name": "Mini Camera 7759",
+    "price": 173.54,
+    "discount_date": "2025-03-16"
+  },
+  {
+    "id": 539,
+    "name": "Wireless Watch 5936",
+    "price": 413.38,
+    "discount_date": "2025-12-28"
+  },
+  {
+    "id": 540,
+    "name": "Mini Fan 3545",
+    "price": 58.58,
+    "discount_date": "2024-12-10"
+  },
+  {
+    "id": 541,
+    "name": "Mini Speaker 1929",
+    "price": 365.31,
+    "discount_date": "2025-05-14"
+  },
+  {
+    "id": 542,
+    "name": "Smart Phone 7074",
+    "price": 353.08,
+    "discount_date": "2025-12-07"
+  },
+  {
+    "id": 543,
+    "name": "Advanced Toaster 2801",
+    "price": 160.83,
+    "discount_date": "2026-05-15"
+  },
+  {
+    "id": 544,
+    "name": "Smart Fan 5371",
+    "price": 267.36,
+    "discount_date": "2024-06-27"
+  },
+  {
+    "id": 545,
+    "name": "Max Printer 8734",
+    "price": 212.24,
+    "discount_date": "2026-02-16"
+  },
+  {
+    "id": 546,
+    "name": "Premium Monitor 5304",
+    "price": 324.73,
+    "discount_date": "2024-08-15"
+  },
+  {
+    "id": 547,
+    "name": "Wireless Speaker 4483",
+    "price": 473.05,
+    "discount_date": "2026-02-05"
+  },
+  {
+    "id": 548,
+    "name": "Smart Speaker 3976",
+    "price": 316.75,
+    "discount_date": "2025-12-26"
+  },
+  {
+    "id": 549,
+    "name": "Wireless Laptop 7362",
+    "price": 104.91,
+    "discount_date": "2024-12-19"
+  },
+  {
+    "id": 550,
+    "name": "Wireless Printer 3117",
+    "price": 354.07,
+    "discount_date": "2024-08-05"
+  },
+  {
+    "id": 551,
+    "name": "Electric Phone 6425",
+    "price": 409.47,
+    "discount_date": "2024-09-14"
+  },
+  {
+    "id": 552,
+    "name": "Ultra Laptop 6375",
+    "price": 75.83,
+    "discount_date": "2025-04-12"
+  },
+  {
+    "id": 553,
+    "name": "Portable Monitor 7718",
+    "price": 192.56,
+    "discount_date": "2024-11-13"
+  },
+  {
+    "id": 554,
+    "name": "Max Blender 6451",
+    "price": 336.37,
+    "discount_date": "2025-06-06"
+  },
+  {
+    "id": 555,
+    "name": "Portable Monitor 8482",
+    "price": 427.34,
+    "discount_date": "2025-06-05"
+  },
+  {
+    "id": 556,
+    "name": "Eco Speaker 8754",
+    "price": 106.67,
+    "discount_date": "2024-08-30"
+  },
+  {
+    "id": 557,
+    "name": "Smart Camera 6558",
+    "price": 155.48,
+    "discount_date": "2024-09-13"
+  },
+  {
+    "id": 558,
+    "name": "Portable Fan 2016",
+    "price": 145.3,
+    "discount_date": "2025-03-24"
+  },
+  {
+    "id": 559,
+    "name": "Premium Monitor 8312",
+    "price": 260.24,
+    "discount_date": "2025-08-11"
+  },
+  {
+    "id": 560,
+    "name": "Wireless Camera 3014",
+    "price": 41.3,
+    "discount_date": "2024-05-28"
+  },
+  {
+    "id": 561,
+    "name": "Ultra Phone 7517",
+    "price": 293.19,
+    "discount_date": "2025-02-21"
+  },
+  {
+    "id": 562,
+    "name": "Mini Speaker 6518",
+    "price": 300.5,
+    "discount_date": "2025-08-18"
+  },
+  {
+    "id": 563,
+    "name": "Smart Camera 6341",
+    "price": 356.62,
+    "discount_date": "2025-10-20"
+  },
+  {
+    "id": 564,
+    "name": "Ultra Camera 4813",
+    "price": 280.51,
+    "discount_date": "2025-11-11"
+  },
+  {
+    "id": 565,
+    "name": "Wireless Watch 5828",
+    "price": 497.67,
+    "discount_date": "2026-03-06"
+  },
+  {
+    "id": 566,
+    "name": "Premium Watch 8457",
+    "price": 369.48,
+    "discount_date": "2025-07-12"
+  },
+  {
+    "id": 567,
+    "name": "Smart Laptop 1442",
+    "price": 347.46,
+    "discount_date": "2025-09-05"
+  },
+  {
+    "id": 568,
+    "name": "Portable Watch 8257",
+    "price": 101.64,
+    "discount_date": "2025-10-03"
+  },
+  {
+    "id": 569,
+    "name": "Max Phone 4234",
+    "price": 127.61,
+    "discount_date": "2025-01-11"
+  },
+  {
+    "id": 570,
+    "name": "Advanced Speaker 5901",
+    "price": 11.09,
+    "discount_date": "2025-05-01"
+  },
+  {
+    "id": 571,
+    "name": "Advanced Toaster 9978",
+    "price": 368.12,
+    "discount_date": "2025-06-27"
+  },
+  {
+    "id": 572,
+    "name": "Advanced Blender 6232",
+    "price": 120.03,
+    "discount_date": "2025-02-09"
+  },
+  {
+    "id": 573,
+    "name": "Smart Fan 3815",
+    "price": 399.56,
+    "discount_date": "2024-08-14"
+  },
+  {
+    "id": 574,
+    "name": "Eco Camera 9832",
+    "price": 50.33,
+    "discount_date": "2026-04-28"
+  },
+  {
+    "id": 575,
+    "name": "Wireless Camera 7288",
+    "price": 140.92,
+    "discount_date": "2024-06-20"
+  },
+  {
+    "id": 576,
+    "name": "Smart Phone 1842",
+    "price": 251.06,
+    "discount_date": "2025-05-12"
+  },
+  {
+    "id": 577,
+    "name": "Eco Speaker 4842",
+    "price": 324.26,
+    "discount_date": "2025-09-06"
+  },
+  {
+    "id": 578,
+    "name": "Max Printer 1687",
+    "price": 447.0,
+    "discount_date": "2024-12-26"
+  },
+  {
+    "id": 579,
+    "name": "Electric Camera 8032",
+    "price": 135.9,
+    "discount_date": "2025-08-21"
+  },
+  {
+    "id": 580,
+    "name": "Max Camera 6490",
+    "price": 278.31,
+    "discount_date": "2024-07-23"
+  },
+  {
+    "id": 581,
+    "name": "Portable Fan 7963",
+    "price": 309.41,
+    "discount_date": "2024-10-07"
+  },
+  {
+    "id": 582,
+    "name": "Max Printer 1942",
+    "price": 255.14,
+    "discount_date": "2024-12-15"
+  },
+  {
+    "id": 583,
+    "name": "Ultra Blender 7252",
+    "price": 269.83,
+    "discount_date": "2025-11-14"
+  },
+  {
+    "id": 584,
+    "name": "Portable Camera 5921",
+    "price": 448.23,
+    "discount_date": "2025-07-07"
+  },
+  {
+    "id": 585,
+    "name": "Max Camera 5315",
+    "price": 94.1,
+    "discount_date": "2025-03-26"
+  },
+  {
+    "id": 586,
+    "name": "Portable Laptop 9193",
+    "price": 451.47,
+    "discount_date": "2025-12-28"
+  },
+  {
+    "id": 587,
+    "name": "Wireless Phone 5979",
+    "price": 102.02,
+    "discount_date": "2025-05-14"
+  },
+  {
+    "id": 588,
+    "name": "Wireless Printer 8392",
+    "price": 181.89,
+    "discount_date": "2025-10-31"
+  },
+  {
+    "id": 589,
+    "name": "Max Watch 9311",
+    "price": 425.66,
+    "discount_date": "2025-02-04"
+  },
+  {
+    "id": 590,
+    "name": "Advanced Toaster 7549",
+    "price": 334.21,
+    "discount_date": "2025-11-24"
+  },
+  {
+    "id": 591,
+    "name": "Mini Fan 4850",
+    "price": 31.81,
+    "discount_date": "2024-12-18"
+  },
+  {
+    "id": 592,
+    "name": "Ultra Toaster 4852",
+    "price": 492.22,
+    "discount_date": "2025-07-11"
+  },
+  {
+    "id": 593,
+    "name": "Ultra Monitor 1111",
+    "price": 429.87,
+    "discount_date": "2024-12-10"
+  },
+  {
+    "id": 594,
+    "name": "Electric Phone 6028",
+    "price": 143.45,
+    "discount_date": "2025-04-12"
+  },
+  {
+    "id": 595,
+    "name": "Smart Fan 1013",
+    "price": 82.74,
+    "discount_date": "2024-07-16"
+  },
+  {
+    "id": 596,
+    "name": "Premium Camera 8690",
+    "price": 497.6,
+    "discount_date": "2024-10-18"
+  },
+  {
+    "id": 597,
+    "name": "Advanced Monitor 7111",
+    "price": 204.47,
+    "discount_date": "2024-10-20"
+  },
+  {
+    "id": 598,
+    "name": "Ultra Monitor 2185",
+    "price": 182.77,
+    "discount_date": "2024-06-18"
+  },
+  {
+    "id": 599,
+    "name": "Electric Blender 9333",
+    "price": 70.65,
+    "discount_date": "2025-10-15"
+  },
+  {
+    "id": 600,
+    "name": "Premium Camera 1443",
+    "price": 330.1,
+    "discount_date": "2024-09-18"
+  },
+  {
+    "id": 601,
+    "name": "Portable Printer 2121",
+    "price": 111.74,
+    "discount_date": "2025-05-25"
+  },
+  {
+    "id": 602,
+    "name": "Eco Blender 8250",
+    "price": 401.38,
+    "discount_date": "2025-10-18"
+  },
+  {
+    "id": 603,
+    "name": "Smart Phone 9047",
+    "price": 69.64,
+    "discount_date": "2025-10-16"
+  },
+  {
+    "id": 604,
+    "name": "Eco Phone 9017",
+    "price": 246.86,
+    "discount_date": "2024-09-05"
+  },
+  {
+    "id": 605,
+    "name": "Ultra Printer 2767",
+    "price": 459.82,
+    "discount_date": "2024-09-16"
+  },
+  {
+    "id": 606,
+    "name": "Advanced Monitor 7191",
+    "price": 431.99,
+    "discount_date": "2025-05-05"
+  },
+  {
+    "id": 607,
+    "name": "Electric Toaster 2199",
+    "price": 273.71,
+    "discount_date": "2024-06-10"
+  },
+  {
+    "id": 608,
+    "name": "Smart Phone 1970",
+    "price": 18.35,
+    "discount_date": "2026-04-16"
+  },
+  {
+    "id": 609,
+    "name": "Ultra Speaker 6699",
+    "price": 57.01,
+    "discount_date": "2026-03-22"
+  },
+  {
+    "id": 610,
+    "name": "Electric Printer 8676",
+    "price": 169.99,
+    "discount_date": "2025-02-27"
+  },
+  {
+    "id": 611,
+    "name": "Smart Watch 8592",
+    "price": 298.23,
+    "discount_date": "2025-02-15"
+  },
+  {
+    "id": 612,
+    "name": "Max Laptop 4617",
+    "price": 139.4,
+    "discount_date": "2025-03-09"
+  },
+  {
+    "id": 613,
+    "name": "Electric Phone 7708",
+    "price": 372.66,
+    "discount_date": "2025-07-07"
+  },
+  {
+    "id": 614,
+    "name": "Mini Laptop 1619",
+    "price": 487.74,
+    "discount_date": "2025-05-22"
+  },
+  {
+    "id": 615,
+    "name": "Advanced Blender 8667",
+    "price": 212.95,
+    "discount_date": "2025-05-08"
+  },
+  {
+    "id": 616,
+    "name": "Ultra Laptop 2486",
+    "price": 307.34,
+    "discount_date": "2026-01-26"
+  },
+  {
+    "id": 617,
+    "name": "Max Fan 3951",
+    "price": 182.3,
+    "discount_date": "2026-02-25"
+  },
+  {
+    "id": 618,
+    "name": "Premium Laptop 1779",
+    "price": 292.46,
+    "discount_date": "2026-01-05"
+  },
+  {
+    "id": 619,
+    "name": "Max Monitor 5283",
+    "price": 461.66,
+    "discount_date": "2024-09-29"
+  },
+  {
+    "id": 620,
+    "name": "Smart Printer 7493",
+    "price": 281.24,
+    "discount_date": "2024-10-23"
+  },
+  {
+    "id": 621,
+    "name": "Max Speaker 3732",
+    "price": 488.8,
+    "discount_date": "2024-09-10"
+  },
+  {
+    "id": 622,
+    "name": "Eco Speaker 9798",
+    "price": 363.93,
+    "discount_date": "2025-02-13"
+  },
+  {
+    "id": 623,
+    "name": "Smart Camera 4579",
+    "price": 209.4,
+    "discount_date": "2024-09-05"
+  },
+  {
+    "id": 624,
+    "name": "Smart Blender 1584",
+    "price": 377.05,
+    "discount_date": "2025-10-26"
+  },
+  {
+    "id": 625,
+    "name": "Eco Blender 1176",
+    "price": 382.73,
+    "discount_date": "2025-05-16"
+  },
+  {
+    "id": 626,
+    "name": "Max Camera 2153",
+    "price": 177.5,
+    "discount_date": "2024-07-23"
+  },
+  {
+    "id": 627,
+    "name": "Ultra Toaster 6359",
+    "price": 345.95,
+    "discount_date": "2024-07-18"
+  },
+  {
+    "id": 628,
+    "name": "Mini Phone 9234",
+    "price": 100.31,
+    "discount_date": "2024-07-17"
+  },
+  {
+    "id": 629,
+    "name": "Premium Printer 4709",
+    "price": 222.17,
+    "discount_date": "2024-11-26"
+  },
+  {
+    "id": 630,
+    "name": "Mini Printer 9658",
+    "price": 82.82,
+    "discount_date": "2026-02-27"
+  },
+  {
+    "id": 631,
+    "name": "Smart Printer 1249",
+    "price": 418.21,
+    "discount_date": "2024-07-04"
+  },
+  {
+    "id": 632,
+    "name": "Mini Fan 7830",
+    "price": 342.13,
+    "discount_date": "2026-05-18"
+  },
+  {
+    "id": 633,
+    "name": "Premium Printer 8213",
+    "price": 376.9,
+    "discount_date": "2026-05-08"
+  },
+  {
+    "id": 634,
+    "name": "Mini Monitor 5695",
+    "price": 208.44,
+    "discount_date": "2026-01-08"
+  },
+  {
+    "id": 635,
+    "name": "Mini Laptop 5709",
+    "price": 269.92,
+    "discount_date": "2025-03-22"
+  },
+  {
+    "id": 636,
+    "name": "Electric Blender 8870",
+    "price": 216.3,
+    "discount_date": "2025-11-23"
+  },
+  {
+    "id": 637,
+    "name": "Electric Phone 9979",
+    "price": 52.67,
+    "discount_date": "2026-02-09"
+  },
+  {
+    "id": 638,
+    "name": "Mini Laptop 1021",
+    "price": 340.16,
+    "discount_date": "2025-05-27"
+  },
+  {
+    "id": 639,
+    "name": "Electric Blender 3857",
+    "price": 24.28,
+    "discount_date": "2025-11-28"
+  },
+  {
+    "id": 640,
+    "name": "Electric Camera 9830",
+    "price": 205.47,
+    "discount_date": "2025-10-02"
+  },
+  {
+    "id": 641,
+    "name": "Eco Toaster 6075",
+    "price": 207.94,
+    "discount_date": "2025-10-21"
+  },
+  {
+    "id": 642,
+    "name": "Premium Fan 1824",
+    "price": 457.91,
+    "discount_date": "2024-10-13"
+  },
+  {
+    "id": 643,
+    "name": "Eco Laptop 8782",
+    "price": 53.82,
+    "discount_date": "2026-01-09"
+  },
+  {
+    "id": 644,
+    "name": "Premium Toaster 1274",
+    "price": 105.86,
+    "discount_date": "2025-02-16"
+  },
+  {
+    "id": 645,
+    "name": "Premium Speaker 5983",
+    "price": 98.33,
+    "discount_date": "2024-09-23"
+  },
+  {
+    "id": 646,
+    "name": "Mini Fan 6615",
+    "price": 108.25,
+    "discount_date": "2025-05-08"
+  },
+  {
+    "id": 647,
+    "name": "Wireless Speaker 3403",
+    "price": 395.47,
+    "discount_date": "2024-06-08"
+  },
+  {
+    "id": 648,
+    "name": "Advanced Monitor 5001",
+    "price": 22.01,
+    "discount_date": "2025-06-07"
+  },
+  {
+    "id": 649,
+    "name": "Advanced Phone 4299",
+    "price": 40.91,
+    "discount_date": "2024-12-31"
+  },
+  {
+    "id": 650,
+    "name": "Electric Phone 4465",
+    "price": 486.29,
+    "discount_date": "2024-08-01"
+  },
+  {
+    "id": 651,
+    "name": "Mini Blender 7719",
+    "price": 407.52,
+    "discount_date": "2025-05-18"
+  },
+  {
+    "id": 652,
+    "name": "Ultra Printer 9771",
+    "price": 24.82,
+    "discount_date": "2026-01-12"
+  },
+  {
+    "id": 653,
+    "name": "Ultra Blender 7680",
+    "price": 338.27,
+    "discount_date": "2024-09-08"
+  },
+  {
+    "id": 654,
+    "name": "Ultra Phone 2188",
+    "price": 377.12,
+    "discount_date": "2026-03-15"
+  },
+  {
+    "id": 655,
+    "name": "Advanced Toaster 7817",
+    "price": 255.3,
+    "discount_date": "2025-03-15"
+  },
+  {
+    "id": 656,
+    "name": "Wireless Monitor 6509",
+    "price": 488.59,
+    "discount_date": "2025-05-31"
+  },
+  {
+    "id": 657,
+    "name": "Smart Watch 8754",
+    "price": 457.9,
+    "discount_date": "2024-10-20"
+  },
+  {
+    "id": 658,
+    "name": "Ultra Blender 6801",
+    "price": 191.91,
+    "discount_date": "2024-09-09"
+  },
+  {
+    "id": 659,
+    "name": "Premium Camera 1362",
+    "price": 74.72,
+    "discount_date": "2025-12-23"
+  },
+  {
+    "id": 660,
+    "name": "Portable Blender 5434",
+    "price": 422.13,
+    "discount_date": "2025-02-28"
+  },
+  {
+    "id": 661,
+    "name": "Premium Watch 9083",
+    "price": 331.23,
+    "discount_date": "2024-08-11"
+  },
+  {
+    "id": 662,
+    "name": "Ultra Camera 6019",
+    "price": 109.54,
+    "discount_date": "2025-12-09"
+  },
+  {
+    "id": 663,
+    "name": "Advanced Speaker 9465",
+    "price": 289.67,
+    "discount_date": "2024-11-14"
+  },
+  {
+    "id": 664,
+    "name": "Portable Speaker 9666",
+    "price": 199.99,
+    "discount_date": "2025-08-08"
+  },
+  {
+    "id": 665,
+    "name": "Advanced Laptop 2358",
+    "price": 234.16,
+    "discount_date": "2025-02-24"
+  },
+  {
+    "id": 666,
+    "name": "Portable Speaker 6321",
+    "price": 469.05,
+    "discount_date": "2025-06-16"
+  },
+  {
+    "id": 667,
+    "name": "Portable Laptop 5742",
+    "price": 129.55,
+    "discount_date": "2025-11-15"
+  },
+  {
+    "id": 668,
+    "name": "Electric Printer 3700",
+    "price": 321.33,
+    "discount_date": "2025-01-17"
+  },
+  {
+    "id": 669,
+    "name": "Smart Toaster 4239",
+    "price": 19.85,
+    "discount_date": "2026-03-13"
+  },
+  {
+    "id": 670,
+    "name": "Max Laptop 6445",
+    "price": 93.49,
+    "discount_date": "2025-05-23"
+  },
+  {
+    "id": 671,
+    "name": "Max Toaster 1323",
+    "price": 427.86,
+    "discount_date": "2025-07-01"
+  },
+  {
+    "id": 672,
+    "name": "Premium Camera 3575",
+    "price": 447.6,
+    "discount_date": "2024-12-06"
+  },
+  {
+    "id": 673,
+    "name": "Wireless Laptop 9748",
+    "price": 413.3,
+    "discount_date": "2024-07-23"
+  },
+  {
+    "id": 674,
+    "name": "Max Monitor 1009",
+    "price": 434.98,
+    "discount_date": "2024-06-10"
+  },
+  {
+    "id": 675,
+    "name": "Premium Phone 3569",
+    "price": 481.96,
+    "discount_date": "2026-03-15"
+  },
+  {
+    "id": 676,
+    "name": "Premium Blender 1757",
+    "price": 351.34,
+    "discount_date": "2025-02-23"
+  },
+  {
+    "id": 677,
+    "name": "Advanced Speaker 5224",
+    "price": 78.09,
+    "discount_date": "2025-01-28"
+  },
+  {
+    "id": 678,
+    "name": "Portable Watch 5928",
+    "price": 288.51,
+    "discount_date": "2025-06-09"
+  },
+  {
+    "id": 679,
+    "name": "Mini Phone 1946",
+    "price": 46.08,
+    "discount_date": "2024-07-13"
+  },
+  {
+    "id": 680,
+    "name": "Premium Toaster 6383",
+    "price": 27.08,
+    "discount_date": "2025-06-03"
+  },
+  {
+    "id": 681,
+    "name": "Mini Printer 3556",
+    "price": 104.7,
+    "discount_date": "2026-04-26"
+  },
+  {
+    "id": 682,
+    "name": "Eco Monitor 7986",
+    "price": 11.4,
+    "discount_date": "2025-10-28"
+  },
+  {
+    "id": 683,
+    "name": "Electric Monitor 9378",
+    "price": 177.94,
+    "discount_date": "2025-12-15"
+  },
+  {
+    "id": 684,
+    "name": "Ultra Speaker 8286",
+    "price": 34.31,
+    "discount_date": "2026-02-21"
+  },
+  {
+    "id": 685,
+    "name": "Advanced Camera 6827",
+    "price": 80.03,
+    "discount_date": "2024-07-07"
+  },
+  {
+    "id": 686,
+    "name": "Portable Camera 9503",
+    "price": 64.17,
+    "discount_date": "2024-06-04"
+  },
+  {
+    "id": 687,
+    "name": "Portable Phone 7730",
+    "price": 119.61,
+    "discount_date": "2025-06-13"
+  },
+  {
+    "id": 688,
+    "name": "Smart Camera 9738",
+    "price": 13.2,
+    "discount_date": "2025-01-02"
+  },
+  {
+    "id": 689,
+    "name": "Premium Monitor 3204",
+    "price": 281.82,
+    "discount_date": "2024-06-14"
+  },
+  {
+    "id": 690,
+    "name": "Ultra Watch 1812",
+    "price": 158.76,
+    "discount_date": "2024-10-28"
+  },
+  {
+    "id": 691,
+    "name": "Portable Fan 6212",
+    "price": 115.93,
+    "discount_date": "2025-01-21"
+  },
+  {
+    "id": 692,
+    "name": "Wireless Monitor 4537",
+    "price": 303.17,
+    "discount_date": "2025-12-19"
+  },
+  {
+    "id": 693,
+    "name": "Advanced Speaker 6722",
+    "price": 330.66,
+    "discount_date": "2025-02-01"
+  },
+  {
+    "id": 694,
+    "name": "Advanced Phone 6792",
+    "price": 220.31,
+    "discount_date": "2026-02-16"
+  },
+  {
+    "id": 695,
+    "name": "Mini Monitor 7703",
+    "price": 245.09,
+    "discount_date": "2025-03-19"
+  },
+  {
+    "id": 696,
+    "name": "Mini Speaker 2739",
+    "price": 281.27,
+    "discount_date": "2025-07-18"
+  },
+  {
+    "id": 697,
+    "name": "Smart Phone 1096",
+    "price": 457.21,
+    "discount_date": "2026-01-23"
+  },
+  {
+    "id": 698,
+    "name": "Wireless Watch 3201",
+    "price": 385.08,
+    "discount_date": "2025-06-09"
+  },
+  {
+    "id": 699,
+    "name": "Advanced Speaker 9325",
+    "price": 210.95,
+    "discount_date": "2025-03-25"
+  },
+  {
+    "id": 700,
+    "name": "Eco Toaster 1329",
+    "price": 147.44,
+    "discount_date": "2024-07-03"
+  },
+  {
+    "id": 701,
+    "name": "Max Laptop 2559",
+    "price": 298.74,
+    "discount_date": "2025-11-27"
+  },
+  {
+    "id": 702,
+    "name": "Wireless Phone 5679",
+    "price": 438.65,
+    "discount_date": "2025-09-17"
+  },
+  {
+    "id": 703,
+    "name": "Eco Monitor 9261",
+    "price": 326.58,
+    "discount_date": "2024-06-16"
+  },
+  {
+    "id": 704,
+    "name": "Premium Speaker 9917",
+    "price": 491.36,
+    "discount_date": "2026-03-15"
+  },
+  {
+    "id": 705,
+    "name": "Premium Phone 1398",
+    "price": 388.55,
+    "discount_date": "2024-11-09"
+  },
+  {
+    "id": 706,
+    "name": "Smart Fan 5576",
+    "price": 135.79,
+    "discount_date": "2024-09-24"
+  },
+  {
+    "id": 707,
+    "name": "Wireless Laptop 4984",
+    "price": 197.49,
+    "discount_date": "2025-04-07"
+  },
+  {
+    "id": 708,
+    "name": "Eco Blender 1831",
+    "price": 114.52,
+    "discount_date": "2025-03-21"
+  },
+  {
+    "id": 709,
+    "name": "Eco Blender 2331",
+    "price": 122.18,
+    "discount_date": "2025-02-09"
+  },
+  {
+    "id": 710,
+    "name": "Wireless Printer 3417",
+    "price": 96.32,
+    "discount_date": "2025-10-07"
+  },
+  {
+    "id": 711,
+    "name": "Advanced Camera 1639",
+    "price": 30.91,
+    "discount_date": "2025-06-04"
+  },
+  {
+    "id": 712,
+    "name": "Max Camera 7878",
+    "price": 76.65,
+    "discount_date": "2026-02-16"
+  },
+  {
+    "id": 713,
+    "name": "Mini Monitor 7809",
+    "price": 267.49,
+    "discount_date": "2025-10-25"
+  },
+  {
+    "id": 714,
+    "name": "Portable Watch 3450",
+    "price": 137.92,
+    "discount_date": "2025-12-25"
+  },
+  {
+    "id": 715,
+    "name": "Wireless Phone 8874",
+    "price": 108.04,
+    "discount_date": "2024-12-08"
+  },
+  {
+    "id": 716,
+    "name": "Mini Fan 1433",
+    "price": 296.54,
+    "discount_date": "2025-06-22"
+  },
+  {
+    "id": 717,
+    "name": "Wireless Camera 6354",
+    "price": 314.75,
+    "discount_date": "2026-01-20"
+  },
+  {
+    "id": 718,
+    "name": "Mini Phone 1642",
+    "price": 61.12,
+    "discount_date": "2024-08-23"
+  },
+  {
+    "id": 719,
+    "name": "Portable Phone 1968",
+    "price": 182.91,
+    "discount_date": "2025-01-04"
+  },
+  {
+    "id": 720,
+    "name": "Eco Printer 9651",
+    "price": 424.38,
+    "discount_date": "2025-03-01"
+  },
+  {
+    "id": 721,
+    "name": "Ultra Watch 1024",
+    "price": 439.19,
+    "discount_date": "2025-03-03"
+  },
+  {
+    "id": 722,
+    "name": "Premium Camera 2981",
+    "price": 394.8,
+    "discount_date": "2026-05-16"
+  },
+  {
+    "id": 723,
+    "name": "Max Phone 7346",
+    "price": 338.6,
+    "discount_date": "2024-12-02"
+  },
+  {
+    "id": 724,
+    "name": "Ultra Speaker 3238",
+    "price": 61.85,
+    "discount_date": "2025-11-03"
+  },
+  {
+    "id": 725,
+    "name": "Premium Monitor 9910",
+    "price": 367.45,
+    "discount_date": "2024-09-12"
+  },
+  {
+    "id": 726,
+    "name": "Mini Monitor 7852",
+    "price": 26.16,
+    "discount_date": "2024-06-19"
+  },
+  {
+    "id": 727,
+    "name": "Premium Fan 8650",
+    "price": 241.77,
+    "discount_date": "2025-08-26"
+  },
+  {
+    "id": 728,
+    "name": "Portable Phone 8845",
+    "price": 75.25,
+    "discount_date": "2026-02-04"
+  },
+  {
+    "id": 729,
+    "name": "Electric Speaker 3970",
+    "price": 451.55,
+    "discount_date": "2025-04-27"
+  },
+  {
+    "id": 730,
+    "name": "Mini Monitor 6413",
+    "price": 226.91,
+    "discount_date": "2024-12-26"
+  },
+  {
+    "id": 731,
+    "name": "Ultra Fan 2969",
+    "price": 92.35,
+    "discount_date": "2024-07-07"
+  },
+  {
+    "id": 732,
+    "name": "Portable Printer 8698",
+    "price": 25.91,
+    "discount_date": "2025-04-01"
+  },
+  {
+    "id": 733,
+    "name": "Eco Fan 4726",
+    "price": 49.63,
+    "discount_date": "2025-12-12"
+  },
+  {
+    "id": 734,
+    "name": "Mini Printer 6195",
+    "price": 396.5,
+    "discount_date": "2025-05-04"
+  },
+  {
+    "id": 735,
+    "name": "Premium Watch 5406",
+    "price": 322.15,
+    "discount_date": "2024-11-23"
+  },
+  {
+    "id": 736,
+    "name": "Mini Camera 7487",
+    "price": 217.37,
+    "discount_date": "2025-11-03"
+  },
+  {
+    "id": 737,
+    "name": "Eco Speaker 3275",
+    "price": 207.21,
+    "discount_date": "2025-06-01"
+  },
+  {
+    "id": 738,
+    "name": "Electric Blender 1994",
+    "price": 243.47,
+    "discount_date": "2024-06-28"
+  },
+  {
+    "id": 739,
+    "name": "Mini Blender 6611",
+    "price": 432.35,
+    "discount_date": "2025-05-09"
+  },
+  {
+    "id": 740,
+    "name": "Max Watch 3866",
+    "price": 421.4,
+    "discount_date": "2024-07-24"
+  },
+  {
+    "id": 741,
+    "name": "Max Fan 6629",
+    "price": 229.58,
+    "discount_date": "2025-07-14"
+  },
+  {
+    "id": 742,
+    "name": "Advanced Printer 8391",
+    "price": 355.53,
+    "discount_date": "2024-11-28"
+  },
+  {
+    "id": 743,
+    "name": "Portable Fan 7835",
+    "price": 132.87,
+    "discount_date": "2024-05-19"
+  },
+  {
+    "id": 744,
+    "name": "Smart Speaker 8944",
+    "price": 20.37,
+    "discount_date": "2025-06-27"
+  },
+  {
+    "id": 745,
+    "name": "Max Watch 5490",
+    "price": 173.46,
+    "discount_date": "2025-04-10"
+  },
+  {
+    "id": 746,
+    "name": "Wireless Printer 7887",
+    "price": 217.29,
+    "discount_date": "2025-12-02"
+  },
+  {
+    "id": 747,
+    "name": "Eco Printer 6723",
+    "price": 489.78,
+    "discount_date": "2024-12-27"
+  },
+  {
+    "id": 748,
+    "name": "Smart Speaker 1121",
+    "price": 410.53,
+    "discount_date": "2025-06-08"
+  },
+  {
+    "id": 749,
+    "name": "Eco Speaker 8463",
+    "price": 294.34,
+    "discount_date": "2024-07-11"
+  },
+  {
+    "id": 750,
+    "name": "Smart Phone 3046",
+    "price": 226.9,
+    "discount_date": "2025-06-28"
+  },
+  {
+    "id": 751,
+    "name": "Smart Monitor 9707",
+    "price": 464.77,
+    "discount_date": "2026-01-07"
+  },
+  {
+    "id": 752,
+    "name": "Smart Monitor 1807",
+    "price": 408.43,
+    "discount_date": "2026-01-23"
+  },
+  {
+    "id": 753,
+    "name": "Advanced Phone 3092",
+    "price": 67.55,
+    "discount_date": "2024-12-17"
+  },
+  {
+    "id": 754,
+    "name": "Ultra Phone 8956",
+    "price": 21.28,
+    "discount_date": "2025-09-07"
+  },
+  {
+    "id": 755,
+    "name": "Max Phone 6260",
+    "price": 188.93,
+    "discount_date": "2026-04-01"
+  },
+  {
+    "id": 756,
+    "name": "Premium Speaker 7835",
+    "price": 317.76,
+    "discount_date": "2025-08-04"
+  },
+  {
+    "id": 757,
+    "name": "Portable Fan 9210",
+    "price": 352.89,
+    "discount_date": "2025-02-10"
+  },
+  {
+    "id": 758,
+    "name": "Portable Fan 9854",
+    "price": 150.77,
+    "discount_date": "2024-12-03"
+  },
+  {
+    "id": 759,
+    "name": "Eco Camera 2044",
+    "price": 329.32,
+    "discount_date": "2024-08-19"
+  },
+  {
+    "id": 760,
+    "name": "Wireless Phone 5786",
+    "price": 110.12,
+    "discount_date": "2025-01-04"
+  },
+  {
+    "id": 761,
+    "name": "Advanced Camera 7996",
+    "price": 411.62,
+    "discount_date": "2025-04-04"
+  },
+  {
+    "id": 762,
+    "name": "Smart Laptop 8618",
+    "price": 224.87,
+    "discount_date": "2026-04-16"
+  },
+  {
+    "id": 763,
+    "name": "Max Blender 1098",
+    "price": 397.02,
+    "discount_date": "2024-12-04"
+  },
+  {
+    "id": 764,
+    "name": "Electric Watch 3831",
+    "price": 344.35,
+    "discount_date": "2025-11-02"
+  },
+  {
+    "id": 765,
+    "name": "Advanced Printer 3326",
+    "price": 479.6,
+    "discount_date": "2025-09-08"
+  },
+  {
+    "id": 766,
+    "name": "Wireless Blender 9900",
+    "price": 185.1,
+    "discount_date": "2026-03-15"
+  },
+  {
+    "id": 767,
+    "name": "Ultra Toaster 4830",
+    "price": 183.9,
+    "discount_date": "2025-03-10"
+  },
+  {
+    "id": 768,
+    "name": "Wireless Fan 1261",
+    "price": 313.04,
+    "discount_date": "2025-06-09"
+  },
+  {
+    "id": 769,
+    "name": "Premium Laptop 8058",
+    "price": 355.68,
+    "discount_date": "2026-02-14"
+  },
+  {
+    "id": 770,
+    "name": "Advanced Printer 3557",
+    "price": 484.9,
+    "discount_date": "2024-10-18"
+  },
+  {
+    "id": 771,
+    "name": "Max Fan 1506",
+    "price": 418.93,
+    "discount_date": "2025-01-10"
+  },
+  {
+    "id": 772,
+    "name": "Smart Monitor 1612",
+    "price": 116.68,
+    "discount_date": "2024-11-04"
+  },
+  {
+    "id": 773,
+    "name": "Premium Toaster 7822",
+    "price": 214.16,
+    "discount_date": "2026-04-12"
+  },
+  {
+    "id": 774,
+    "name": "Ultra Watch 8187",
+    "price": 101.11,
+    "discount_date": "2025-08-27"
+  },
+  {
+    "id": 775,
+    "name": "Eco Printer 1615",
+    "price": 363.0,
+    "discount_date": "2024-06-05"
+  },
+  {
+    "id": 776,
+    "name": "Smart Watch 1765",
+    "price": 127.74,
+    "discount_date": "2025-09-05"
+  },
+  {
+    "id": 777,
+    "name": "Electric Fan 2415",
+    "price": 238.99,
+    "discount_date": "2024-08-22"
+  },
+  {
+    "id": 778,
+    "name": "Premium Camera 9411",
+    "price": 269.55,
+    "discount_date": "2025-02-25"
+  },
+  {
+    "id": 779,
+    "name": "Ultra Toaster 7675",
+    "price": 352.05,
+    "discount_date": "2026-01-17"
+  },
+  {
+    "id": 780,
+    "name": "Smart Toaster 6528",
+    "price": 41.14,
+    "discount_date": "2025-10-30"
+  },
+  {
+    "id": 781,
+    "name": "Wireless Blender 1097",
+    "price": 132.37,
+    "discount_date": "2025-05-20"
+  },
+  {
+    "id": 782,
+    "name": "Premium Monitor 9312",
+    "price": 49.32,
+    "discount_date": "2026-03-14"
+  },
+  {
+    "id": 783,
+    "name": "Advanced Watch 9349",
+    "price": 368.4,
+    "discount_date": "2024-09-01"
+  },
+  {
+    "id": 784,
+    "name": "Advanced Blender 7826",
+    "price": 22.38,
+    "discount_date": "2024-12-19"
+  },
+  {
+    "id": 785,
+    "name": "Advanced Monitor 3376",
+    "price": 224.61,
+    "discount_date": "2025-12-25"
+  },
+  {
+    "id": 786,
+    "name": "Advanced Laptop 2690",
+    "price": 298.91,
+    "discount_date": "2024-06-25"
+  },
+  {
+    "id": 787,
+    "name": "Max Camera 6701",
+    "price": 418.01,
+    "discount_date": "2025-06-16"
+  },
+  {
+    "id": 788,
+    "name": "Advanced Monitor 6279",
+    "price": 188.55,
+    "discount_date": "2025-12-01"
+  },
+  {
+    "id": 789,
+    "name": "Eco Monitor 2062",
+    "price": 161.72,
+    "discount_date": "2025-12-08"
+  },
+  {
+    "id": 790,
+    "name": "Smart Blender 3775",
+    "price": 297.26,
+    "discount_date": "2024-09-05"
+  },
+  {
+    "id": 791,
+    "name": "Advanced Printer 5722",
+    "price": 315.99,
+    "discount_date": "2025-11-24"
+  },
+  {
+    "id": 792,
+    "name": "Electric Phone 4634",
+    "price": 226.3,
+    "discount_date": "2025-02-04"
+  },
+  {
+    "id": 793,
+    "name": "Mini Camera 2553",
+    "price": 378.5,
+    "discount_date": "2026-03-29"
+  },
+  {
+    "id": 794,
+    "name": "Eco Camera 5810",
+    "price": 190.41,
+    "discount_date": "2025-01-17"
+  },
+  {
+    "id": 795,
+    "name": "Ultra Toaster 8980",
+    "price": 20.41,
+    "discount_date": "2026-04-12"
+  },
+  {
+    "id": 796,
+    "name": "Smart Blender 5449",
+    "price": 153.56,
+    "discount_date": "2026-03-18"
+  },
+  {
+    "id": 797,
+    "name": "Eco Phone 8745",
+    "price": 335.11,
+    "discount_date": "2025-03-31"
+  },
+  {
+    "id": 798,
+    "name": "Advanced Phone 2315",
+    "price": 382.08,
+    "discount_date": "2026-04-10"
+  },
+  {
+    "id": 799,
+    "name": "Portable Speaker 9048",
+    "price": 368.5,
+    "discount_date": "2025-08-02"
+  },
+  {
+    "id": 800,
+    "name": "Premium Speaker 4528",
+    "price": 402.81,
+    "discount_date": "2026-02-26"
+  },
+  {
+    "id": 801,
+    "name": "Portable Blender 2010",
+    "price": 456.79,
+    "discount_date": "2025-08-19"
+  },
+  {
+    "id": 802,
+    "name": "Eco Blender 9040",
+    "price": 60.3,
+    "discount_date": "2026-01-14"
+  },
+  {
+    "id": 803,
+    "name": "Electric Monitor 8396",
+    "price": 262.67,
+    "discount_date": "2024-06-20"
+  },
+  {
+    "id": 804,
+    "name": "Ultra Monitor 9202",
+    "price": 313.65,
+    "discount_date": "2025-12-21"
+  },
+  {
+    "id": 805,
+    "name": "Max Toaster 2856",
+    "price": 174.44,
+    "discount_date": "2025-01-06"
+  },
+  {
+    "id": 806,
+    "name": "Electric Speaker 5636",
+    "price": 433.05,
+    "discount_date": "2024-08-09"
+  },
+  {
+    "id": 807,
+    "name": "Eco Watch 7470",
+    "price": 297.25,
+    "discount_date": "2025-08-03"
+  },
+  {
+    "id": 808,
+    "name": "Wireless Printer 5245",
+    "price": 86.33,
+    "discount_date": "2024-06-19"
+  },
+  {
+    "id": 809,
+    "name": "Smart Monitor 4967",
+    "price": 70.76,
+    "discount_date": "2025-02-27"
+  },
+  {
+    "id": 810,
+    "name": "Electric Toaster 1423",
+    "price": 136.16,
+    "discount_date": "2025-07-24"
+  },
+  {
+    "id": 811,
+    "name": "Max Fan 4173",
+    "price": 38.44,
+    "discount_date": "2025-08-08"
+  },
+  {
+    "id": 812,
+    "name": "Eco Laptop 6666",
+    "price": 457.86,
+    "discount_date": "2024-06-02"
+  },
+  {
+    "id": 813,
+    "name": "Ultra Phone 8433",
+    "price": 56.23,
+    "discount_date": "2025-07-15"
+  },
+  {
+    "id": 814,
+    "name": "Mini Printer 2072",
+    "price": 354.93,
+    "discount_date": "2025-02-07"
+  },
+  {
+    "id": 815,
+    "name": "Ultra Laptop 1086",
+    "price": 310.72,
+    "discount_date": "2025-11-05"
+  },
+  {
+    "id": 816,
+    "name": "Mini Speaker 6753",
+    "price": 405.22,
+    "discount_date": "2024-07-16"
+  },
+  {
+    "id": 817,
+    "name": "Max Monitor 1823",
+    "price": 444.65,
+    "discount_date": "2025-07-23"
+  },
+  {
+    "id": 818,
+    "name": "Premium Phone 8831",
+    "price": 88.83,
+    "discount_date": "2025-03-18"
+  },
+  {
+    "id": 819,
+    "name": "Ultra Fan 7796",
+    "price": 66.53,
+    "discount_date": "2025-02-28"
+  },
+  {
+    "id": 820,
+    "name": "Wireless Speaker 2446",
+    "price": 147.31,
+    "discount_date": "2026-04-08"
+  },
+  {
+    "id": 821,
+    "name": "Electric Phone 7782",
+    "price": 387.25,
+    "discount_date": "2025-12-05"
+  },
+  {
+    "id": 822,
+    "name": "Eco Printer 3465",
+    "price": 73.04,
+    "discount_date": "2024-07-12"
+  },
+  {
+    "id": 823,
+    "name": "Portable Watch 8311",
+    "price": 470.57,
+    "discount_date": "2026-03-06"
+  },
+  {
+    "id": 824,
+    "name": "Eco Monitor 2432",
+    "price": 418.4,
+    "discount_date": "2024-09-16"
+  },
+  {
+    "id": 825,
+    "name": "Eco Printer 5899",
+    "price": 121.67,
+    "discount_date": "2025-04-24"
+  },
+  {
+    "id": 826,
+    "name": "Advanced Camera 2313",
+    "price": 337.33,
+    "discount_date": "2025-10-29"
+  },
+  {
+    "id": 827,
+    "name": "Ultra Watch 8910",
+    "price": 34.44,
+    "discount_date": "2024-12-05"
+  },
+  {
+    "id": 828,
+    "name": "Electric Printer 2437",
+    "price": 310.92,
+    "discount_date": "2024-11-10"
+  },
+  {
+    "id": 829,
+    "name": "Electric Fan 1881",
+    "price": 418.05,
+    "discount_date": "2024-07-29"
+  },
+  {
+    "id": 830,
+    "name": "Mini Speaker 2661",
+    "price": 398.82,
+    "discount_date": "2024-08-22"
+  },
+  {
+    "id": 831,
+    "name": "Premium Phone 4231",
+    "price": 445.06,
+    "discount_date": "2024-11-27"
+  },
+  {
+    "id": 832,
+    "name": "Max Laptop 5720",
+    "price": 438.78,
+    "discount_date": "2026-01-29"
+  },
+  {
+    "id": 833,
+    "name": "Ultra Blender 9440",
+    "price": 448.98,
+    "discount_date": "2025-10-31"
+  },
+  {
+    "id": 834,
+    "name": "Premium Printer 3324",
+    "price": 250.94,
+    "discount_date": "2025-03-05"
+  },
+  {
+    "id": 835,
+    "name": "Advanced Toaster 7414",
+    "price": 104.32,
+    "discount_date": "2024-05-31"
+  },
+  {
+    "id": 836,
+    "name": "Mini Camera 1162",
+    "price": 100.36,
+    "discount_date": "2025-11-22"
+  },
+  {
+    "id": 837,
+    "name": "Wireless Phone 4380",
+    "price": 459.86,
+    "discount_date": "2025-02-08"
+  },
+  {
+    "id": 838,
+    "name": "Eco Camera 9599",
+    "price": 423.41,
+    "discount_date": "2025-12-04"
+  },
+  {
+    "id": 839,
+    "name": "Smart Monitor 7791",
+    "price": 123.41,
+    "discount_date": "2024-12-03"
+  },
+  {
+    "id": 840,
+    "name": "Max Watch 2173",
+    "price": 49.6,
+    "discount_date": "2024-09-20"
+  },
+  {
+    "id": 841,
+    "name": "Wireless Fan 2701",
+    "price": 74.56,
+    "discount_date": "2024-08-27"
+  },
+  {
+    "id": 842,
+    "name": "Premium Printer 6884",
+    "price": 381.78,
+    "discount_date": "2024-07-01"
+  },
+  {
+    "id": 843,
+    "name": "Portable Watch 5004",
+    "price": 477.83,
+    "discount_date": "2025-06-17"
+  },
+  {
+    "id": 844,
+    "name": "Wireless Monitor 6279",
+    "price": 481.32,
+    "discount_date": "2025-02-13"
+  },
+  {
+    "id": 845,
+    "name": "Wireless Phone 9744",
+    "price": 297.92,
+    "discount_date": "2025-02-24"
+  },
+  {
+    "id": 846,
+    "name": "Smart Speaker 1660",
+    "price": 258.31,
+    "discount_date": "2024-06-24"
+  },
+  {
+    "id": 847,
+    "name": "Ultra Fan 5100",
+    "price": 481.21,
+    "discount_date": "2026-02-28"
+  },
+  {
+    "id": 848,
+    "name": "Mini Phone 3568",
+    "price": 194.28,
+    "discount_date": "2025-04-16"
+  },
+  {
+    "id": 849,
+    "name": "Max Watch 2588",
+    "price": 379.06,
+    "discount_date": "2026-03-23"
+  },
+  {
+    "id": 850,
+    "name": "Eco Phone 7748",
+    "price": 479.42,
+    "discount_date": "2026-01-01"
+  },
+  {
+    "id": 851,
+    "name": "Electric Laptop 6236",
+    "price": 353.28,
+    "discount_date": "2026-02-16"
+  },
+  {
+    "id": 852,
+    "name": "Portable Printer 3334",
+    "price": 461.02,
+    "discount_date": "2025-03-08"
+  },
+  {
+    "id": 853,
+    "name": "Mini Watch 1648",
+    "price": 322.38,
+    "discount_date": "2025-11-04"
+  },
+  {
+    "id": 854,
+    "name": "Ultra Laptop 9628",
+    "price": 454.72,
+    "discount_date": "2026-02-01"
+  },
+  {
+    "id": 855,
+    "name": "Max Fan 5846",
+    "price": 39.38,
+    "discount_date": "2025-10-31"
+  },
+  {
+    "id": 856,
+    "name": "Ultra Monitor 4296",
+    "price": 146.88,
+    "discount_date": "2026-02-16"
+  },
+  {
+    "id": 857,
+    "name": "Ultra Printer 8408",
+    "price": 430.9,
+    "discount_date": "2024-07-16"
+  },
+  {
+    "id": 858,
+    "name": "Electric Monitor 8659",
+    "price": 182.62,
+    "discount_date": "2024-10-25"
+  },
+  {
+    "id": 859,
+    "name": "Ultra Watch 6408",
+    "price": 297.31,
+    "discount_date": "2025-02-14"
+  },
+  {
+    "id": 860,
+    "name": "Portable Monitor 7015",
+    "price": 348.41,
+    "discount_date": "2024-07-25"
+  },
+  {
+    "id": 861,
+    "name": "Advanced Printer 8748",
+    "price": 94.74,
+    "discount_date": "2026-03-10"
+  },
+  {
+    "id": 862,
+    "name": "Premium Watch 6751",
+    "price": 165.19,
+    "discount_date": "2024-09-18"
+  },
+  {
+    "id": 863,
+    "name": "Advanced Printer 9814",
+    "price": 254.23,
+    "discount_date": "2025-09-30"
+  },
+  {
+    "id": 864,
+    "name": "Eco Watch 1411",
+    "price": 447.98,
+    "discount_date": "2026-02-15"
+  },
+  {
+    "id": 865,
+    "name": "Wireless Phone 6570",
+    "price": 152.45,
+    "discount_date": "2025-11-10"
+  },
+  {
+    "id": 866,
+    "name": "Advanced Speaker 4276",
+    "price": 347.36,
+    "discount_date": "2026-01-31"
+  },
+  {
+    "id": 867,
+    "name": "Eco Fan 7717",
+    "price": 278.56,
+    "discount_date": "2024-07-13"
+  },
+  {
+    "id": 868,
+    "name": "Wireless Camera 5935",
+    "price": 86.69,
+    "discount_date": "2025-01-29"
+  },
+  {
+    "id": 869,
+    "name": "Smart Laptop 5320",
+    "price": 339.8,
+    "discount_date": "2026-05-01"
+  },
+  {
+    "id": 870,
+    "name": "Electric Laptop 3787",
+    "price": 10.91,
+    "discount_date": "2025-11-28"
+  },
+  {
+    "id": 871,
+    "name": "Portable Blender 7430",
+    "price": 484.16,
+    "discount_date": "2025-05-22"
+  },
+  {
+    "id": 872,
+    "name": "Smart Speaker 3871",
+    "price": 53.9,
+    "discount_date": "2025-10-30"
+  },
+  {
+    "id": 873,
+    "name": "Wireless Speaker 1164",
+    "price": 77.69,
+    "discount_date": "2025-03-15"
+  },
+  {
+    "id": 874,
+    "name": "Max Fan 1422",
+    "price": 476.28,
+    "discount_date": "2025-05-05"
+  },
+  {
+    "id": 875,
+    "name": "Mini Printer 7266",
+    "price": 452.6,
+    "discount_date": "2025-11-04"
+  },
+  {
+    "id": 876,
+    "name": "Portable Watch 2129",
+    "price": 39.24,
+    "discount_date": "2026-03-01"
+  },
+  {
+    "id": 877,
+    "name": "Ultra Printer 1023",
+    "price": 119.68,
+    "discount_date": "2026-01-20"
+  },
+  {
+    "id": 878,
+    "name": "Eco Printer 1268",
+    "price": 21.84,
+    "discount_date": "2025-06-25"
+  },
+  {
+    "id": 879,
+    "name": "Electric Speaker 6212",
+    "price": 144.17,
+    "discount_date": "2025-05-24"
+  },
+  {
+    "id": 880,
+    "name": "Eco Camera 9311",
+    "price": 233.15,
+    "discount_date": "2025-11-30"
+  },
+  {
+    "id": 881,
+    "name": "Max Camera 9334",
+    "price": 153.32,
+    "discount_date": "2024-12-29"
+  },
+  {
+    "id": 882,
+    "name": "Ultra Blender 5538",
+    "price": 482.25,
+    "discount_date": "2024-09-20"
+  },
+  {
+    "id": 883,
+    "name": "Eco Camera 8992",
+    "price": 363.48,
+    "discount_date": "2025-06-26"
+  },
+  {
+    "id": 884,
+    "name": "Electric Fan 5361",
+    "price": 206.63,
+    "discount_date": "2024-08-12"
+  },
+  {
+    "id": 885,
+    "name": "Eco Printer 9098",
+    "price": 99.57,
+    "discount_date": "2025-07-09"
+  },
+  {
+    "id": 886,
+    "name": "Smart Phone 6679",
+    "price": 474.4,
+    "discount_date": "2026-03-25"
+  },
+  {
+    "id": 887,
+    "name": "Ultra Speaker 8363",
+    "price": 478.31,
+    "discount_date": "2024-07-31"
+  },
+  {
+    "id": 888,
+    "name": "Mini Printer 8956",
+    "price": 145.38,
+    "discount_date": "2025-10-18"
+  },
+  {
+    "id": 889,
+    "name": "Max Toaster 3193",
+    "price": 257.54,
+    "discount_date": "2026-04-27"
+  },
+  {
+    "id": 890,
+    "name": "Wireless Laptop 4550",
+    "price": 395.05,
+    "discount_date": "2025-11-06"
+  },
+  {
+    "id": 891,
+    "name": "Max Fan 1345",
+    "price": 384.79,
+    "discount_date": "2024-06-07"
+  },
+  {
+    "id": 892,
+    "name": "Electric Fan 6081",
+    "price": 320.14,
+    "discount_date": "2025-04-26"
+  },
+  {
+    "id": 893,
+    "name": "Max Blender 2606",
+    "price": 416.45,
+    "discount_date": "2024-09-03"
+  },
+  {
+    "id": 894,
+    "name": "Premium Fan 8090",
+    "price": 237.5,
+    "discount_date": "2025-08-15"
+  },
+  {
+    "id": 895,
+    "name": "Advanced Printer 9140",
+    "price": 383.34,
+    "discount_date": "2026-01-20"
+  },
+  {
+    "id": 896,
+    "name": "Premium Monitor 7814",
+    "price": 29.82,
+    "discount_date": "2024-07-21"
+  },
+  {
+    "id": 897,
+    "name": "Max Printer 6007",
+    "price": 202.0,
+    "discount_date": "2024-07-26"
+  },
+  {
+    "id": 898,
+    "name": "Smart Laptop 9658",
+    "price": 90.35,
+    "discount_date": "2026-03-15"
+  },
+  {
+    "id": 899,
+    "name": "Portable Blender 2650",
+    "price": 446.15,
+    "discount_date": "2025-07-23"
+  },
+  {
+    "id": 900,
+    "name": "Ultra Printer 3996",
+    "price": 342.3,
+    "discount_date": "2026-04-09"
+  },
+  {
+    "id": 901,
+    "name": "Smart Fan 7218",
+    "price": 497.84,
+    "discount_date": "2024-10-17"
+  },
+  {
+    "id": 902,
+    "name": "Wireless Printer 2492",
+    "price": 219.33,
+    "discount_date": "2024-06-27"
+  },
+  {
+    "id": 903,
+    "name": "Smart Fan 2635",
+    "price": 327.73,
+    "discount_date": "2025-11-28"
+  },
+  {
+    "id": 904,
+    "name": "Eco Toaster 7104",
+    "price": 74.41,
+    "discount_date": "2024-12-21"
+  },
+  {
+    "id": 905,
+    "name": "Ultra Phone 5371",
+    "price": 310.34,
+    "discount_date": "2025-03-13"
+  },
+  {
+    "id": 906,
+    "name": "Mini Camera 4625",
+    "price": 165.03,
+    "discount_date": "2026-02-17"
+  },
+  {
+    "id": 907,
+    "name": "Advanced Toaster 9809",
+    "price": 236.86,
+    "discount_date": "2024-06-29"
+  },
+  {
+    "id": 908,
+    "name": "Mini Phone 8586",
+    "price": 219.73,
+    "discount_date": "2025-04-09"
+  },
+  {
+    "id": 909,
+    "name": "Premium Fan 6968",
+    "price": 36.83,
+    "discount_date": "2025-04-01"
+  },
+  {
+    "id": 910,
+    "name": "Max Speaker 8706",
+    "price": 340.74,
+    "discount_date": "2025-11-15"
+  },
+  {
+    "id": 911,
+    "name": "Eco Fan 2355",
+    "price": 241.59,
+    "discount_date": "2024-08-04"
+  },
+  {
+    "id": 912,
+    "name": "Premium Monitor 1217",
+    "price": 103.08,
+    "discount_date": "2025-04-19"
+  },
+  {
+    "id": 913,
+    "name": "Eco Printer 5706",
+    "price": 132.17,
+    "discount_date": "2025-12-24"
+  },
+  {
+    "id": 914,
+    "name": "Electric Printer 5349",
+    "price": 108.57,
+    "discount_date": "2025-11-01"
+  },
+  {
+    "id": 915,
+    "name": "Portable Fan 8224",
+    "price": 141.95,
+    "discount_date": "2025-07-31"
+  },
+  {
+    "id": 916,
+    "name": "Ultra Laptop 6364",
+    "price": 164.34,
+    "discount_date": "2025-12-07"
+  },
+  {
+    "id": 917,
+    "name": "Eco Blender 9607",
+    "price": 289.05,
+    "discount_date": "2026-03-22"
+  },
+  {
+    "id": 918,
+    "name": "Wireless Printer 1095",
+    "price": 428.83,
+    "discount_date": "2025-03-27"
+  },
+  {
+    "id": 919,
+    "name": "Advanced Printer 3020",
+    "price": 285.76,
+    "discount_date": "2025-05-10"
+  },
+  {
+    "id": 920,
+    "name": "Smart Watch 8553",
+    "price": 422.68,
+    "discount_date": "2025-01-21"
+  },
+  {
+    "id": 921,
+    "name": "Advanced Blender 8327",
+    "price": 346.66,
+    "discount_date": "2025-04-26"
+  },
+  {
+    "id": 922,
+    "name": "Max Speaker 6500",
+    "price": 491.74,
+    "discount_date": "2026-03-26"
+  },
+  {
+    "id": 923,
+    "name": "Advanced Monitor 7780",
+    "price": 299.27,
+    "discount_date": "2025-06-18"
+  },
+  {
+    "id": 924,
+    "name": "Eco Camera 1329",
+    "price": 377.13,
+    "discount_date": "2025-12-14"
+  },
+  {
+    "id": 925,
+    "name": "Ultra Monitor 2144",
+    "price": 21.61,
+    "discount_date": "2024-09-15"
+  },
+  {
+    "id": 926,
+    "name": "Premium Fan 7506",
+    "price": 433.71,
+    "discount_date": "2024-07-12"
+  },
+  {
+    "id": 927,
+    "name": "Max Laptop 6202",
+    "price": 426.6,
+    "discount_date": "2026-04-09"
+  },
+  {
+    "id": 928,
+    "name": "Eco Watch 4714",
+    "price": 387.01,
+    "discount_date": "2025-04-29"
+  },
+  {
+    "id": 929,
+    "name": "Ultra Toaster 3127",
+    "price": 280.27,
+    "discount_date": "2025-02-05"
+  },
+  {
+    "id": 930,
+    "name": "Mini Watch 9388",
+    "price": 163.59,
+    "discount_date": "2025-09-04"
+  },
+  {
+    "id": 931,
+    "name": "Electric Watch 9583",
+    "price": 418.08,
+    "discount_date": "2025-11-28"
+  },
+  {
+    "id": 932,
+    "name": "Max Watch 4105",
+    "price": 63.49,
+    "discount_date": "2024-05-28"
+  },
+  {
+    "id": 933,
+    "name": "Premium Laptop 6976",
+    "price": 254.47,
+    "discount_date": "2025-05-31"
+  },
+  {
+    "id": 934,
+    "name": "Electric Speaker 2901",
+    "price": 280.82,
+    "discount_date": "2025-02-17"
+  },
+  {
+    "id": 935,
+    "name": "Eco Printer 1948",
+    "price": 122.02,
+    "discount_date": "2025-03-20"
+  },
+  {
+    "id": 936,
+    "name": "Max Blender 1091",
+    "price": 63.33,
+    "discount_date": "2025-12-16"
+  },
+  {
+    "id": 937,
+    "name": "Eco Camera 9752",
+    "price": 84.44,
+    "discount_date": "2025-01-12"
+  },
+  {
+    "id": 938,
+    "name": "Ultra Toaster 3872",
+    "price": 65.91,
+    "discount_date": "2024-08-19"
+  },
+  {
+    "id": 939,
+    "name": "Premium Watch 2055",
+    "price": 102.88,
+    "discount_date": "2025-10-06"
+  },
+  {
+    "id": 940,
+    "name": "Premium Speaker 5342",
+    "price": 229.01,
+    "discount_date": "2025-07-03"
+  },
+  {
+    "id": 941,
+    "name": "Eco Phone 6140",
+    "price": 217.25,
+    "discount_date": "2025-10-29"
+  },
+  {
+    "id": 942,
+    "name": "Wireless Camera 6646",
+    "price": 29.43,
+    "discount_date": "2026-02-02"
+  },
+  {
+    "id": 943,
+    "name": "Wireless Laptop 4552",
+    "price": 467.41,
+    "discount_date": "2025-01-05"
+  },
+  {
+    "id": 944,
+    "name": "Advanced Monitor 9250",
+    "price": 374.33,
+    "discount_date": "2025-06-25"
+  },
+  {
+    "id": 945,
+    "name": "Ultra Speaker 6178",
+    "price": 464.48,
+    "discount_date": "2025-03-18"
+  },
+  {
+    "id": 946,
+    "name": "Smart Toaster 8838",
+    "price": 292.98,
+    "discount_date": "2025-06-30"
+  },
+  {
+    "id": 947,
+    "name": "Smart Printer 1965",
+    "price": 236.47,
+    "discount_date": "2024-10-01"
+  },
+  {
+    "id": 948,
+    "name": "Eco Printer 3467",
+    "price": 295.62,
+    "discount_date": "2025-12-02"
+  },
+  {
+    "id": 949,
+    "name": "Eco Toaster 1906",
+    "price": 422.31,
+    "discount_date": "2026-02-10"
+  },
+  {
+    "id": 950,
+    "name": "Portable Fan 3064",
+    "price": 252.2,
+    "discount_date": "2025-03-12"
+  },
+  {
+    "id": 951,
+    "name": "Advanced Phone 9873",
+    "price": 309.42,
+    "discount_date": "2025-10-13"
+  },
+  {
+    "id": 952,
+    "name": "Premium Monitor 3480",
+    "price": 486.68,
+    "discount_date": "2024-07-27"
+  },
+  {
+    "id": 953,
+    "name": "Wireless Speaker 3681",
+    "price": 367.02,
+    "discount_date": "2025-01-23"
+  },
+  {
+    "id": 954,
+    "name": "Eco Phone 7120",
+    "price": 495.41,
+    "discount_date": "2025-05-24"
+  },
+  {
+    "id": 955,
+    "name": "Electric Blender 1280",
+    "price": 76.39,
+    "discount_date": "2025-11-25"
+  },
+  {
+    "id": 956,
+    "name": "Max Laptop 4821",
+    "price": 356.76,
+    "discount_date": "2025-05-15"
+  },
+  {
+    "id": 957,
+    "name": "Electric Fan 6270",
+    "price": 355.54,
+    "discount_date": "2025-12-20"
+  },
+  {
+    "id": 958,
+    "name": "Eco Speaker 6538",
+    "price": 215.71,
+    "discount_date": "2025-07-26"
+  },
+  {
+    "id": 959,
+    "name": "Portable Monitor 1111",
+    "price": 169.71,
+    "discount_date": "2025-06-07"
+  },
+  {
+    "id": 960,
+    "name": "Smart Blender 8386",
+    "price": 284.22,
+    "discount_date": "2024-12-24"
+  },
+  {
+    "id": 961,
+    "name": "Eco Fan 3018",
+    "price": 28.83,
+    "discount_date": "2026-01-27"
+  },
+  {
+    "id": 962,
+    "name": "Max Blender 6900",
+    "price": 67.99,
+    "discount_date": "2026-05-17"
+  },
+  {
+    "id": 963,
+    "name": "Premium Phone 5851",
+    "price": 70.21,
+    "discount_date": "2025-11-24"
+  },
+  {
+    "id": 964,
+    "name": "Portable Fan 8376",
+    "price": 56.42,
+    "discount_date": "2025-08-24"
+  },
+  {
+    "id": 965,
+    "name": "Advanced Blender 7857",
+    "price": 318.27,
+    "discount_date": "2025-12-24"
+  },
+  {
+    "id": 966,
+    "name": "Electric Printer 9069",
+    "price": 275.25,
+    "discount_date": "2024-07-25"
+  },
+  {
+    "id": 967,
+    "name": "Ultra Fan 9889",
+    "price": 318.13,
+    "discount_date": "2025-09-17"
+  },
+  {
+    "id": 968,
+    "name": "Ultra Speaker 6232",
+    "price": 202.9,
+    "discount_date": "2025-12-09"
+  },
+  {
+    "id": 969,
+    "name": "Eco Monitor 8318",
+    "price": 102.7,
+    "discount_date": "2024-05-25"
+  },
+  {
+    "id": 970,
+    "name": "Premium Laptop 7890",
+    "price": 492.6,
+    "discount_date": "2025-07-04"
+  },
+  {
+    "id": 971,
+    "name": "Advanced Phone 4463",
+    "price": 363.13,
+    "discount_date": "2026-04-25"
+  },
+  {
+    "id": 972,
+    "name": "Ultra Blender 8914",
+    "price": 25.96,
+    "discount_date": "2024-10-08"
+  },
+  {
+    "id": 973,
+    "name": "Smart Blender 4215",
+    "price": 287.83,
+    "discount_date": "2024-08-13"
+  },
+  {
+    "id": 974,
+    "name": "Premium Toaster 6563",
+    "price": 476.01,
+    "discount_date": "2025-09-17"
+  },
+  {
+    "id": 975,
+    "name": "Portable Camera 3565",
+    "price": 207.37,
+    "discount_date": "2026-02-04"
+  },
+  {
+    "id": 976,
+    "name": "Advanced Toaster 5238",
+    "price": 386.03,
+    "discount_date": "2024-05-26"
+  },
+  {
+    "id": 977,
+    "name": "Smart Laptop 2137",
+    "price": 94.96,
+    "discount_date": "2025-03-25"
+  },
+  {
+    "id": 978,
+    "name": "Premium Watch 1076",
+    "price": 206.88,
+    "discount_date": "2024-09-02"
+  },
+  {
+    "id": 979,
+    "name": "Eco Toaster 4537",
+    "price": 402.71,
+    "discount_date": "2024-09-09"
+  },
+  {
+    "id": 980,
+    "name": "Mini Camera 9998",
+    "price": 298.8,
+    "discount_date": "2025-08-26"
+  },
+  {
+    "id": 981,
+    "name": "Electric Watch 9002",
+    "price": 185.42,
+    "discount_date": "2026-05-08"
+  },
+  {
+    "id": 982,
+    "name": "Ultra Speaker 8449",
+    "price": 376.53,
+    "discount_date": "2025-12-11"
+  },
+  {
+    "id": 983,
+    "name": "Wireless Printer 2126",
+    "price": 239.0,
+    "discount_date": "2026-02-13"
+  },
+  {
+    "id": 984,
+    "name": "Mini Speaker 9969",
+    "price": 238.56,
+    "discount_date": "2025-05-05"
+  },
+  {
+    "id": 985,
+    "name": "Max Camera 9737",
+    "price": 450.18,
+    "discount_date": "2026-02-15"
+  },
+  {
+    "id": 986,
+    "name": "Electric Printer 4102",
+    "price": 316.92,
+    "discount_date": "2025-10-08"
+  },
+  {
+    "id": 987,
+    "name": "Ultra Fan 8488",
+    "price": 13.2,
+    "discount_date": "2025-02-05"
+  },
+  {
+    "id": 988,
+    "name": "Smart Phone 1277",
+    "price": 214.28,
+    "discount_date": "2025-10-03"
+  },
+  {
+    "id": 989,
+    "name": "Ultra Blender 1660",
+    "price": 467.21,
+    "discount_date": "2025-10-16"
+  },
+  {
+    "id": 990,
+    "name": "Electric Speaker 4398",
+    "price": 43.63,
+    "discount_date": "2025-09-15"
+  },
+  {
+    "id": 991,
+    "name": "Smart Laptop 3776",
+    "price": 442.7,
+    "discount_date": "2024-07-18"
+  },
+  {
+    "id": 992,
+    "name": "Ultra Monitor 2738",
+    "price": 184.86,
+    "discount_date": "2024-08-15"
+  },
+  {
+    "id": 993,
+    "name": "Electric Watch 9832",
+    "price": 337.31,
+    "discount_date": "2024-10-12"
+  },
+  {
+    "id": 994,
+    "name": "Advanced Monitor 7621",
+    "price": 90.64,
+    "discount_date": "2025-11-29"
+  },
+  {
+    "id": 995,
+    "name": "Eco Phone 7245",
+    "price": 383.2,
+    "discount_date": "2025-04-29"
+  },
+  {
+    "id": 996,
+    "name": "Smart Laptop 4585",
+    "price": 422.33,
+    "discount_date": "2025-03-06"
+  },
+  {
+    "id": 997,
+    "name": "Premium Camera 8037",
+    "price": 61.49,
+    "discount_date": "2025-09-24"
+  },
+  {
+    "id": 998,
+    "name": "Smart Phone 5739",
+    "price": 276.81,
+    "discount_date": "2025-01-26"
+  },
+  {
+    "id": 999,
+    "name": "Smart Watch 1830",
+    "price": 319.52,
+    "discount_date": "2026-01-09"
+  },
+  {
+    "id": 1000,
+    "name": "Portable Blender 5607",
+    "price": 320.59,
+    "discount_date": "2025-07-28"
+  }
+]
